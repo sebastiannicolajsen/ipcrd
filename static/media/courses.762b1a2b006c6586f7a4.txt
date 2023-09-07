@@ -85,7 +85,7 @@
           "Teste programmer ved hjælp af unit testing",
           "Implementere simple matematiske algoritmer i software"
         ],
-        "competences": [
+        "competencies": [
           "Designe og implementere simple AI-systemer, der kan træffe simple beslutninger på baggrund af indlæst og analyseret data"
         ],
         "contents": "unknown"
@@ -213,7 +213,7 @@
           "Vise fortrolighed med og egenhændigt programmere matematiske problemstillinger i Matlab",
           "Kombinere og anvende programmeringsteknikker i Matlab til at løse problemstillinger inden for fysiske og elektriske systemer"
         ],
-        "competences": [
+        "competencies": [
           "Anvende tillærte matematiske metoder og teknikker samt matematiske computerværktøjer i semesterets øvrige faglige aktiviteter"
         ],
         "contents": [
@@ -426,7 +426,7 @@
           "Opbygge, simulere, programmere og teste styringssystemer af mindre automatiske kredsløb.",
           "Udarbejde, simulere og forstå el-dokumentation iht. relevante standarder."
         ],
-        "competences": [
+        "competencies": [
           "Med sikkerhed forstå hvilke automations løsninger der vil virke bedst til en given opgave.",
           "Anvende automatikkomponenter i opbygningen af en maskinkonstruktion.",
           "Kunne indgå i dialog om opbygning af et automationssystem med forskellige faggrupper.",
@@ -490,7 +490,7 @@
           "Execute matrix calculations",
           "Develop skills to document their functions and routines"
         ],
-        "competences": [
+        "competencies": [
           "Apply fundamental programming skills to analyze a set of data",
           "Design short programs and script to solve a specific problem",
           "Recommend appropriate programming strategies and methods to address a given problem",
@@ -559,7 +559,7 @@
           "Prepare simple programs and applications that can automate engineering tasks",
           "Use standard libraries for engineering purposes"
         ],
-        "competences": [
+        "competencies": [
           "Create well-structured programs and perform testing of these",
           "Create programs and scripts for solving engineering problems"
         ],
@@ -660,7 +660,7 @@
           "Anvende struktureret brug af kommentarer i koden.",
           "Implementere klasser ud fra et UML klassediagrammer."
         ],
-        "competences": [
+        "competencies": [
           "Eksemplificere og diskutere grundlæggende objekt-orienterede koncepter, herunder indkapsling, forhold, nedarvning og polymorfi.",
           "Implementere mindre Java programmer med udgangspunkt i et UML klasse diagram."
         ],
@@ -718,7 +718,7 @@
           "Anvende klasser fra eksisterende kodebiblioteker under udvikling af programkode.",
           "Anvende Git til versionere, gemme og dele programkode."
         ],
-        "competences": [
+        "competencies": [
           "Reflektere over designbeslutning og redegøre for konsekvenser af disse på et basalt niveau",
           "Anvende en programspecifikation til at gennemføre en analyse- og en designfase.",
           "Anvende praktisk kendskab til objekt-orienteret programmering til at implementere objekt-orienteret applikationer – med eller uden udgangspunkt i et klassediagram.",
@@ -902,7 +902,7 @@
           "Færdighed i at analysere, designe og vurdere it-anvendelser.",
           "Færdighed i at modellere domæneviden, proces- og dataflows, og vælge og argumentere for valg af metoder hertil."
         ],
-        "competences": [
+        "competencies": [
           "Kompetence til at planlægge, styre og gennemføre et mindre systemudviklingsforløb, med særlig vægt på forløbets tidlige aktiviteter."
         ],
         "contents": [
@@ -947,7 +947,7 @@
           "skrive, læse og afvikle kode, herunder formidle grundlæggende programmeringskoncepter",
           "analysere og vurdere eget og andres forsøg på at udtrykke æstetiske problemstillinger i programkode."
         ],
-        "competences": [
+        "competencies": [
           "læse og skrive computerkode i et givet programmeringssprog anvende programmering til at udforske digital kultur",
           "forstå programmering som en æstetisk og kritisk handling som rækker ud over kodens praktiske funktion."
         ],
@@ -1014,7 +1014,7 @@
         "skills": [
           "Give færdigheder i kritisk vurdering af videnskabelige publikationer."
         ],
-        "competences": [
+        "competencies": [
           "Give kompetence til at arbejde kritisk med egne projekter og data."
         ],
         "contents": [
@@ -1070,7 +1070,7 @@
           "anvende de statistiske metoder på computersoftware (f.eks. R).",
           "fortolke beregnede statistikker og diagrammer korrekt samt drage konklusioner og beslutninger baseret på fortolkningen."
         ],
-        "competences": [
+        "competencies": [
           "demonstrere grundlæggende forståelse af, hvilke problemer der kan løses ved hjælp af anvendt statistik."
         ],
         "contents": ["unknown"]
@@ -1246,7 +1246,7 @@
           "extract relevant estimates, draw conclusions and communicate the results from the analysis.",
           "use the statistical programming language R to carry out the analyses."
         ],
-        "competences": [
+        "competencies": [
           "independently formulate scientifically relevant questions - motivated by data of similar types as those presented in the course - and answer them by the use of statistical methods."
         ],
         "contents": [
@@ -1370,31 +1370,30 @@
       "code": "T600005101",
       "name": "Data Engineering and Programming",
       "teachers": {
-        "responsible": ["kric@mmmi.sdu.dk"],
-        "teachers": ["nva@mmmi.sdu.dk", "zma@mmmi.sdu.dk"]
+        "responsible": ["veje@mmmi.sdu.dk"],
+        "teachers": ["kfi@mmmi.sdu.dk"]
       },
       "contents": {
         "type": "B",
         "knowledge": [
-          "Være i stand til at forklare data engineering, data engineering økosystem og data engineering livscyklus",
-          "Være i stand til at forklare fundamenterne af Python, datastrukturer, og programmering",
-          "Kunne forklare API'er og webscraping til dataindsamling",
-          "Kunne forklare SQL, relationsdatabaser og tabeller",
-          "Være i stand til at forklare grundlæggende begreber relateret til at bruge Python til at oprette forbindelse til databaser"
+          "Fundamentals of data representation in computers",
+          "Fundamentals of programming",
+          "Basic data structures",
+          "Basic data analysis techniques",
+          "Data visualization techniques"
         ],
         "skills": [
-          "Udføre grundlæggende Python-programmering",
-          "Indsamle data ved hjælp af API'er og webscraping",
-          "Læse data fra almindelige filformater",
-          "Udføre datarensning og -behandling",
-          "Udføre grundlæggende SQL-sætninger, og manipulere tabeller i SQL",
-          "Anvende Python for at oprette forbindelse til databaser"
+          "Python programming (modules, functions, classes, inheritance, loops, reading and writing files)",
+          "Reading data from common file formats: CSV, JSON, Excel",
+          "Data analysis and visualization libraries: pandas, numpy, scipy, matplotlib",
+          "Time series analysis"
         ],
-        "competences": [
-          "Efter afslutningen af modulet skal studerende være i stand til individuelt at forklare, og i et team udføre og demonstrere i projekter, en systematisk proces til at skabe grundlæggende programmer, arbejde med data og løse virkelige problemer i Python."
+        "competencies": [
+          "Perform a qualitative and quantitative data analysis, including time-series",
+          "Present the results of the analysis in a tabular and visual form"
         ],
         "contents": [
-          "Domænekendskabet og projekterne udvælges fra følgende områder med udgangspunkt i den årlige kursusplan: Tidsserieanalyse og open source-værktøjer"
+          "The aim of this course is to introduce students to tools and methods for data analysis and processing. This includes basic programming skills for data manipulation, basic statistics for data analysis and basic data visualization techniques. The course is solely based on open source tools, what allows students to use the learned methods and tools anytime in their further education and professional career."
         ]
       },
       "size": 5,
@@ -1406,7 +1405,7 @@
 
       "exam": {
         "prerequisites": "unknown",
-        "type": "Skriftlig eksamen i form af en gruppe-/individuel rapport afleveret ved semesterets afslutning med individuel evaluering. Den individuelle evaluering er baseret på førsteforfatterens og medforfatterens udsagn for hvert rapportafsnit og vidner om aktiv deltagelse i projektarbejdet",
+        "type": "Home assignment",
         "grading": "boolean",
         "aids": "unknown"
       },
@@ -1436,7 +1435,7 @@
           "Kunne beskrive løsningsmodeller i ord, billeder, matematik og lignende.",
           "Finde og identificere eksisterende løsninger i diverse ressourcer."
         ],
-        "competences": [
+        "competencies": [
           "Deltagerne vil kunne udvikle programmel til at løse konkrete fysiske problemstillinger ved hjælp af givne numeriske metoder.  Desuden vil deltagerne kunne kommunikere disse løsningsmodeller og løsninger til andre fysikere."
         ],
         "contents": [
@@ -1567,7 +1566,7 @@
           "Skrive programmer med en kommandobaseret brugergrænseflade.",
           "Udvikle og implementere algoritmer i form af fungerende C++ programmer ud fra pseudokode og flowchart."
         ],
-        "competences": [
+        "competencies": [
           "Anvende tillærte fagligheder inden for elektronik.",
           "Implementere løsninger til konkrete opgaver.",
           "Anvende kombinatoriske kredse i forbindelse med opbygningen af et digitalt kredsløb.",
@@ -1635,7 +1634,7 @@
           "afvikle og teste programmer hvori de ovennævnte grundbegreber indgår i løsningen",
           "anvende korrekt fagterminolog"
         ],
-        "competences": [
+        "competencies": [
           "Den studerende kan baseret på en simpel systemspecifikation, sammensætte og programmere et mikroprocessorsystem, der opfylder et givet formål og implementere et imperativt program som løsning på en defineret opgave."
         ],
 
@@ -1681,7 +1680,7 @@
           "Conduct exploratory data analysis using descriptive statistics, visualization methods, and content analysis",
           "Estimate regression models and explain the output"
         ],
-        "competences": [
+        "competencies": [
           "Work with and analyse data in interdisciplinary teams",
           "Critically assess and reflect on their own and others’ coding practices",
           "Communicate social data science insights using basic data visualization and appropriate statistical methods to relevant audiences",
@@ -1733,7 +1732,7 @@
           "The ability to implement smaller programs",
           "The ability to make and document structured tests of smaller programs."
         ],
-        "competences": [
+        "competencies": [
           "The ability to define, develop and test small C-programs for embedded solutions in an electronic development context."
         ],
 
@@ -1784,7 +1783,7 @@
           "Definere datatyper og datastrukturer for forskellige projekter med henblik op opbygning af case",
           "Definere og opstille views"
         ],
-        "competences": [
+        "competencies": [
           "Strukturere data og vælge relevante funktioner med henblik på løsning af problemstillinger i fagligrelevante opgaver indenfor administration af fagområder for Skov- og landskabsingeniører og Have- og parkingeniører."
         ],
 
@@ -1833,7 +1832,7 @@
           "modellere former, rum og objekter med forskellig geometrisk kompleksitet med algoritmiske processer",
           "bruge og styre simple digitale fabrikationsprocesser til modelleringsformål"
         ],
-        "competences": [
+        "competencies": [
           "kunne anvende digital tænkning til at udvikle/løse designproblemer på forskellige niveauer",
           "kunne finde originale løsninger på computational design problemstillinger",
           "kunne udforske og vælge designmuligheder ud fra proceduremæssige arbejdsgange"
@@ -1877,7 +1876,7 @@
         "skills": [
           "Den studerende får færdigheder i at analysere en afgrænset datalogisk problemstilling vedrørende et interaktivt system, f.eks. en hjemmeside, designe og programmere en mindre, datalogisk løsning samt vurdere og argumentere for en konkret softwareløsnings tekniske kvalitet og egnethed."
         ],
-        "competences": [
+        "competencies": [
           "Endelig opnås kompetencer i at beskrive og formidle en given softwareløsning, herunder følge god skik for teknisk dokumentation og kommentering af programtekst."
         ],
 
@@ -1930,7 +1929,7 @@
           "Skrive programmer med kommandolinje-baseret brugerinterface",
           "Skrive programmer med grafisk brugerinterface (Graphic User Interface - GUI)"
         ],
-        "competences": [
+        "competencies": [
           "Udvikle programmer til databehandling inden for matematik, simulering, kontrol/styring, etc.",
           "Udvikle og beskrive algoritmer for løsning af ingeniørmæssige problemstillinger.",
           "Implementere algoritmer i et programmeringssprog"
@@ -1982,7 +1981,7 @@
           "Evne til at planlægge og anvende systematisk aftestning af mibdre programmer",
           "Basalt kendskab til udvalgte programmeringssprog"
         ],
-        "competences": [
+        "competencies": [
           "Designe, implementere og evaluere en programmeret løsning for en mindre, specifik programmeringsopgave",
           "Designe, implementere og evaluere en webapplikation"
         ],
@@ -2118,7 +2117,7 @@
         "skills": [
           "kunne analysere problemer og formulere løsninger ved hjælp af disse begreber og principper."
         ],
-        "competences": ["unknown"],
+        "competencies": ["unknown"],
 
         "contents": [
           "Undervisningen indbefatter en indføring i programmeringens grundlæggende begreber og principper og hvordan disse relaterer til Computational Thinking og problemløsning.",
@@ -2167,7 +2166,7 @@
           "skrive, afvikle og teste programmer hvori de ovennævnte grundbegreber indgår i løsningen",
           "anvende korrekt fagterminologi"
         ],
-        "competences": [
+        "competencies": [
           "Den studerende kan efter kurset både selvstændigt og i samarbejde med andre implementere et imperativt program som løsning på en defineret opgave."
         ],
 
@@ -2252,7 +2251,7 @@
           "skrive, afvikle og teste programmer hvori de ovennævnte grundbegreber indgår i løsningen",
           "anvende korrekt fagterminologi"
         ],
-        "competences": [
+        "competencies": [
           "både selvstændigt og i samarbejde med andre implementere et imperativt program som løsning på en defineret opgave"
         ],
 
@@ -2352,7 +2351,7 @@
           "skrive, afvikle og teste programmer hvori de ovennævnte grundbegreber indgår i løsningen",
           "anvende korrekt fagterminologi"
         ],
-        "competences": [
+        "competencies": [
           "Den studerende kan efter kurset både selvstændigt og i samarbejde med andre implementere et program som løsning på en defineret opgave"
         ],
 
@@ -2647,7 +2646,7 @@
           "udarbejde og gennemføre en systematisk testning af væsentlige dele af et objektorienteret program",
           "kunne dokumentere væsentlige dele af et objektorienteret program"
         ],
-        "competences": [
+        "competencies": [
           "kunne implementere, dokumentere og teste et mindre objektorienteret program, således at det kan køres og er forståeligt, læsbart, og tilgængeligt for andre programmører"
         ],
 
@@ -2731,7 +2730,7 @@
           "finde informationer og vejledninger til at videreudvikle færdigheder i programmering",
           "udarbejde simple prototype applikationer"
         ],
-        "competences": [
+        "competencies": [
           "tolke kode fra eksempler og biblioteker",
           "anvende biblioteker",
           "anvende og forstå grundelementerne af det kursusbestemte udviklingsmiljø",
@@ -3008,7 +3007,7 @@
           "Kan selvstændigt skrive, afvikle og teste et imperativt program",
           "Kan selvstændigt og i samarbejde med andre implementere et imperativt program som løsning på en defineret opgave • Kan anvende korrekt fagterminologi"
         ],
-        "competences": ["unknown"],
+        "competencies": ["unknown"],
 
         "contents": ["unknown"]
       },
@@ -3093,7 +3092,7 @@
           "anvende programmeringsfærdigheder til at designe og implementere basale funktioner",
           "diskutere og vurdere kvaliteten af en given programkode"
         ],
-        "competences": [
+        "competencies": [
           "evaluere eksisterende programkode, bedømme dets design og foreslå ændringer",
           "bruge specificerede web programmeringssprog til at løse konkrete programmeringsopgaver"
         ],
@@ -3145,7 +3144,7 @@
           "Anvende R til beregninger i matematiske modeller og behandling af datasæt",
           "Anvende regneark struktureret"
         ],
-        "competences": [
+        "competencies": [
           "Arbejde selvstændigt såvel som indgå i fagligt og projektorienteret samarbejde med andre"
         ],
 
@@ -3198,7 +3197,7 @@
           "identify important assumptions in the use of statistical tests",
           "program data analysis code."
         ],
-        "competences": [
+        "competencies": [
           "critically assess and discuss methods and analyses used in published empirical research",
           "reflect on the appropriateness of experimental designs for specific research questions in cognitive science."
         ],
@@ -3309,7 +3308,7 @@
           "Dokumentere og kommentere programmeringskode",
           "Afbilde resultater grafisk i et matematisk programmeringsværktøj"
         ],
-        "competences": [
+        "competencies": [
           "Diskutere anvendelsesområder for de introducerede numeriske metoder",
           "Evaluere, analysere og bearbejde numeriske modelresultater",
           "Redegøre for usikkerheden på en numerisk metode",
@@ -3463,7 +3462,7 @@
           "Benytte Java's klassebibliotek og dokumentation (JavaDoc)",
           "Benytte et programmeringsværktøj (IDE) til at skrive og afvikle kode."
         ],
-        "competences": [
+        "competencies": [
           "Løse problemer ved hjælp af simpel modellering og implementering af computerprogrammer i et objektorienteret programmeringssprog."
         ],
 
@@ -3526,7 +3525,7 @@
           "Use classes from existing code libraries when developing program code.",
           "Use Git to version, store and share program code."
         ],
-        "competences": [
+        "competencies": [
           "Reflect on design decisions and explain the consequences of these at a basic level",
           "Apply a program specification to carry out an analysis and a design phase.",
           "Apply practical knowledge of object-oriented programming to implement object-oriented applications - with or without a starting point in a class diagram.",
@@ -3573,7 +3572,7 @@
           "sætte sig ind i og lære at bruge software-værktøjer og benytte online ressourcer til at finde svar på tekniske spørgsmål",
           "demonstrere både en praktisk og teoretisk forståelse af programmering og dets principper."
         ],
-        "competences": [
+        "competencies": [
           "indgå i dialog om de tekniske aspekter af udviklingen af it-systemer",
           "selvstændigt og i samarbejde med andre arbejde eksperimenterende og undersøgende med it",
           "forholde sig til its rolle i samfundet ud fra et teknisk og programmeringsmæssigt perspektiv."
@@ -3684,7 +3683,7 @@
           "use of theories and methods for the definition of program quality criteria and troubleshooting in their own programs",
           "communication of practical and theoretical issues related to the construction of programs, tests and algorithms"
         ],
-        "competences": [
+        "competencies": [
           "construction of a program based on a requirement specification",
           "The student is able to identify their own learning requirements and develop their own knowledge, skills and competencies in relation to software construction and programming."
         ],
@@ -3728,7 +3727,7 @@
           "modellering og beskrivelse af IT-systemer",
           "udarbejdelse af kravspecifikation til brug for systemudvikling"
         ],
-        "competences": [
+        "competencies": [
           "brug af modeller i arbejdet med systemudvikling",
           "kravspecifikationer for mindre systemer.",
           "Den studerende kan identificere egne læringsbehov og udvikling af egen viden, færdigheder samt kompetencer i relation til kravspecifikation af: mindre systemer og brug af modeller til støtte for udvikling af sådanne."
@@ -3772,7 +3771,7 @@
           "Udvikle, afvikle og teste programmer, hvori de ovennævnte grundbegreber indgår i løsningen",
           "anvende korrekt fagterminologi"
         ],
-        "competences": [
+        "competencies": [
           "den studerende skal efter kurset både selvstændigt og i samarbejde med andre kunne implementere et computerprogram som løsning på en defineret opgave"
         ],
 
@@ -3818,7 +3817,7 @@
           "Kunne designe og dokumentere strukturen i et program",
           "Bruge og implementere numeriske algoritmer til løsning af ingeniørmæssige problemer"
         ],
-        "competences": [
+        "competencies": [
           "Forstå og anvende programmeringssprog",
           "Benytte og implementere numeriske algoritmer",
           "Bruge Matlab til løsning og visualisering af ingeniørmæssige problemer"
@@ -3909,7 +3908,7 @@
           "At kunne evaluere fordele og ulemper ved at opskrive løsningen i de underviste programmeringsparadigmer, og at kunne implementere, afprøve, dokumentere, og evaluere løsningens kvalitet",
           "Et sideordnet mål er, at den studerende opnår passende studieteknik således, at dette og parallelkurser bestås svarende til et fuldtidsstudium"
         ],
-        "competences": [
+        "competencies": [
           "Ud fra en præcist defineret problemformulering at kunne analysere problemet, udforme et program til løsning af dette, samt at verificere, afprøve, og dokumentere løsningen"
         ],
 
@@ -3955,7 +3954,7 @@
         "skills": [
           "Færdigheder i basal programmering og brug af værktøj til forberedelse og afvikling af programmer."
         ],
-        "competences": [
+        "competencies": [
           "Kompetence til at kunne analysere en problemstilling og lave en algoritmisk løsning samt implementere og teste denne."
         ],
 
@@ -4060,7 +4059,7 @@
           "Skal kunne indlæse og håndtere forskellige dataformater.",
           "Skal kunne anvende elementer fra standardiserede og specialiserede biblioteker til dataanalyse, datahåndtering og visualisering."
         ],
-        "competences": [
+        "competencies": [
           "Skal kunne anvende fagets metoder til at løse udvalgte industrielle problemer.",
           "Skal kunne redegøre for hvorledes den tilegnede viden og færdigheder kan overføres til andre kvantitative databehandlingsredskaber."
         ],
@@ -4105,7 +4104,7 @@
           "Work out the complexity of a program (understanding)",
           "Explain how to use algorithms, functions and data for solving problems (understanding)"
         ],
-        "competences": [
+        "competencies": [
           "Evaluate (analysis) existing code, judge its design and recommend changes",
           "Evaluate and select the right platform to be used for supporting a specific service application"
         ],
@@ -4196,7 +4195,7 @@
           "skal kunne anvende Python til beregninger på simple modeller og validere de implementerede modeller og resultater",
           "skal kunne vurdere nødvendigt modelleringsniveau for et konkret fysisk modelleringsproblem"
         ],
-        "competences": [
+        "competencies": [
           "skal kunne opbygge en simpel model for et fysisk system",
           "skal kunne implementere en matematisk beskrevet model i Python programmeringssproget",
           "skal kunne bruge den computerimplementerede model til at analysere det fysiske system"
@@ -4331,7 +4330,7 @@
           "anvende OOP i udvikling og design af interaktive applikationer på PC og mobile platforme",
           "anvende et event-drevet design til udvikling af fungerende applikationer som anvender et grafisk brugerinterface"
         ],
-        "competences": [
+        "competencies": [
           "analysere bruger- og domænekrav og syntetisere design, programmering og evaluering af interaktive applikationer på PC og mobile platforme"
         ],
 
@@ -4442,7 +4441,7 @@
           "Skal kunne analysere enkle og sammensatte elektriske kredsløb og kunne anvende kredsløbsteknikken til at beregne strømme, spændinger, energier og effekter i simple DC kredse og stationære vekselstrømskredse.",
           "Skal kunne forstå databladsspecifikationer for elektriske motorer og hydrauliske komponenter."
         ],
-        "competences": [
+        "competencies": [
           "Skal kunne beskrive virkemåde og opstille og løse de centrale statiske ligninger for hydrauliske komponenter og systemer.",
           "Skal kunne beskrive virkemåde for de almindelige elektriske maskiner.",
           "Skal kunne sammensætte og analysere et hydraulisk og elektrisk aktueringssystem ud fra statisk analyse og databladsspecifikationer.",
@@ -4521,7 +4520,7 @@
           "Anvende python til simulering af nanosystemer",
           "Anvende udvalgte matematiske algoritmer, som for eksempel molekylærdynamiske metoder"
         ],
-        "competences": [
+        "competencies": [
           "Forklare, både mundtligt og skriftligt, de brugte metoder og opnåede resultater"
         ],
 
@@ -4578,7 +4577,7 @@
           "Deltagerne vil lære at skrive velstrukturerede og velkommenterede programmer.",
           "Endelig opnås færdigheder i at afvikle scripts på (beregnings-)servere og navigere på servere vha. af en Unix/Linux kommandolinje."
         ],
-        "competences": [
+        "competencies": [
           "Efter gennemført kursus vil deltagerne være i stand til at løse mange af de programmeringsopgaver, der forekommer i forbindelse med Datavidenskab og skrive velstrukturerede programmer, der kan vedligeholdes og videreudvikles."
         ],
 
@@ -4629,7 +4628,7 @@
           "benytte forskellige interfaces til opsamling og lagring af data",
           "bruge modulets værktøjer indenfor dataopsamling og machine learning til at belyse relevante problemstillinger forskellige fagområder (hhv. biologi, kemi, bioteknologi og miljøvidenskab)"
         ],
-        "competences": ["unknown"],
+        "competencies": ["unknown"],
 
         "contents": [
           "Modulet vil gennem workshops og case-stories introducere relevante koncepter og værkøjer omhandlende dataopsamling, programmering, machine learning og visualisering af større datamængder."
@@ -4690,7 +4689,7 @@
           "Være i stand til at udvikle applikationer i programmeringssproget C og vha. grafisk programmering, der kan løse en given problemstilling, som kan have realtidskrav",
           "Være i stand til at planlægge, udføre og dokumentere eksperimenter, hvor en mikrokontroller anvendes i et realtidssystem med både analoge og digitale input og output."
         ],
-        "competences": [
+        "competencies": [
           "Skal selvstændigt kunne udføre design og udvikling inden for fagområdet realtidssystemer og deres programmering",
           "Skal selvstændigt være i stand til at videreudvikle egen viden og kompetencer inden for fagområdet ud over indholdet i dette kursusmodul"
         ],
@@ -4748,7 +4747,7 @@
           "Være i stand til at udvikle applikationer i programmeringssproget vha. grafisk programmering, der kan løse en given problemstilling, som kan have realtidskrav",
           "Være i stand til at planlægge, udføre og dokumentere eksperimenter, hvor en mikrokontroller anvendes i et realtidssystem med både analoge og digitale input og output"
         ],
-        "competences": [
+        "competencies": [
           "Skal selvstændigt kunne udføre design og udvikling inden for fagområdet realtidssystemer og deres programmering",
           "Skal selvstændigt være i stand til at videreudvikle egen viden og kompetencer inden for fagområdet ud over indholdet i dette kursusmodul"
         ],
@@ -4798,7 +4797,7 @@
           "Skal kunne forklare (på forståelsesniveau) hvor algorimer, funktioner og data kan anvendes til problemløsning",
           "Skal kunne anvende et programmeringssprog til løsning af specificerede generelle data-processerings-opgaver"
         ],
-        "competences": [
+        "competencies": [
           "Skal være i stand til, på egen hånd og i samarbejde med andre, at designe og implementere et eller flere programmer med det formål at kunne løse en forud defineret problemstilling, f.eks. at følge en banekurve med en mobil robot."
         ],
 
@@ -4842,7 +4841,7 @@
         "skills": [
           "Skrive og kompilere syntaktisk korrekt C++ kode inden for de områder der er angivet i fagbeskrivelsen under punktet “Målbeskrivelse - viden”"
         ],
-        "competences": [
+        "competencies": [
           "analysere relativt simple problemstillinger og dertil udvikle et program til løsning af problemerne skrive relativt simple, velfungerende programmer i et objektorienteret sprog på baggrund af en specifikation "
         ],
 
@@ -4890,7 +4889,7 @@
           "Use different pose representations in an industrial robot’s program",
           "Interface with sensors for an industrial robot"
         ],
-        "competences": [
+        "competencies": [
           "Create, test and debug a program for a Lego robot.",
           "Create, test, and debug a program for an Industrial Robot"
         ],
@@ -4975,7 +4974,7 @@
           "selecting and applying standard techniques from 'traditional' statistics and data science to solve empirical problems of data exploration, classification, optimisation, and forecasting including model performance evaluation, fine-tuning and optimisation.",
           "understanding, interpreting, critically reflecting upon, and explaining the results of data analysis."
         ],
-        "competences": [
+        "competencies": [
           "comprehending and participating in current professional and academic discussions in applied statistics and data science as well as autonomosly expanding their knowledge in the field.",
           "critically reflecting possibilities and constraints related to the implementation and evolution of data-driven methods, including Identify problems which can be wholly or partially solved by the use of data analytics.",
           "describing and communicating the results of data analysis in a precise, understandable and informative manner, using appropriate data description and visualisation techniques."
@@ -5019,7 +5018,7 @@
           "Anvende SAS procedurer",
           "Fremskaffe information ud fra SAS's hjælpefaciliteter med henblik hurtigt at anvende (endog ukendte) SAS-procedurer til løsning af et konkret statistisk problem"
         ],
-        "competences": [
+        "competencies": [
           "Fremskaffe statistiske resultater ved hjælp af de statistiske procedurer i SAS også selvom disse procedurer er ukendte."
         ],
 
@@ -5074,7 +5073,7 @@
           "Use general purpose methods, such as the method of least squares and maximum likelihood, to fit probability distributions to empirical data.",
           "Summarize empirical data and compute relevant descriptive statistics for discrete and continuous probability distributions."
         ],
-        "competences": [
+        "competencies": [
           "Formulate scientific questions in statistical terms.",
           "Interpret and report the conclusions of a practical data analysis.",
           "Assess the fit of a regression model based on diagnostic quantities and plots.",
@@ -5176,7 +5175,7 @@
           "Report the results of model set up, data analysis, interpretation and assessment.",
           "Use R to be able to carry out necessary calculations for the practical statistical analysis of biological data."
         ],
-        "competences": [
+        "competencies": [
           "Formulate scientific questions in statistical terms.",
           "Interpret and report the conclusions of a practical statistical analysis.",
           "Assess and discuss a statistical analysis in a biomedical context."
@@ -5235,7 +5234,7 @@
           "Validere modeller og modelforudsætninger (modelkontrol)",
           "Anvende programmet R til analyse, herunder fortolke output i relation til ovenstående mål."
         ],
-        "competences": [
+        "competencies": [
           "Udføre statistiske analyser på givne datasæt og vurdere analysens validitet",
           "Fortolke statistiske modeller og de indgående parametre, herunder hovedeffekter og vekselvirkninger i variansanalysemodeller og koefficienterne i regressionsmodeller",
           "Fortolke estimater, hypoteser, hypotesetest, konfidens- og prædiktionsintervaller",
@@ -5473,7 +5472,7 @@
           "anvende grundlæggende matematik til brug i laboratoriet og til dataanalyse",
           "vælge matematiske modeller og formidle effekten af disse til samarbejdspartnere."
         ],
-        "competences": [
+        "competencies": [
           "med matematisk tilgang indgå i samarbejde om løsning af problemstillinger inden for fødevareteknologi."
         ],
 
@@ -5520,7 +5519,7 @@
           "Skal kunne bearbejde kortets kartografiske udformning, med særlig fokus på tematisk kartografi",
           "Skal kunne benytte korrekt fagterminologi"
         ],
-        "competences": [
+        "competencies": [
           "Selvstændigt kunne strukturere og håndtere dataindsamling, datamodellering, dataanalyse og visualisering i et Geografisk Informations System.",
           "Selvstændigt kunne vurdere anvendeligheden af GIS som værktøj i analyse af en given problemstilling",
           "Selvstændigt kunne evaluere kvaliteten af de anvendte geodata og de anvendte metoder og teknikker"
@@ -5570,7 +5569,7 @@
           "anvende generiske GIS-analyseværktøjer til beregninger af rumlige egenskaber for geografisk information.",
           "anvende basale kartografiske principper og metoder, som kan benyttes ved en digital grafisk formidling af tematiseret geografisk information."
         ],
-        "competences": [
+        "competencies": [
           "Diskutere, kategorisere og udvælge relevante og gyldige GIS-strategier og -analyser med henblik på løsning af rumligt relaterede problemstillinger indenfor geografiske og beslægtede fagområder."
         ],
 
@@ -5717,7 +5716,7 @@
           "Redegøre for, hvordan en computer fungerer og processen omkring programmering af computerbaserede informationssystemer."
         ],
         "skills": ["Analysere og planlægge en programmeringsproces."],
-        "competences": [
+        "competencies": [
           "Anvende et programmeringssprog.",
           "Træffe beslutning om systemkonfiguration vs. tilpasning."
         ],
@@ -5766,7 +5765,7 @@
           "analyzing use of the basic programming",
           "synthesizing knowledge in written documentation."
         ],
-        "competences": [
+        "competencies": [
           "evaluating an artefact with regards to basic electronics, programming sensors and actuators."
         ],
 
@@ -5812,7 +5811,7 @@
           "Gennemføre estimation, beregne konfidensintervaller og udføre hypotesetest",
           "Gennemføre relevante beregninger i R"
         ],
-        "competences": [
+        "competencies": [
           "Oversætte oplysninger givet som tekst om sandsynligheder og eksperimenter til det relevante matematiske formelsprog",
           "Gennemføre statistiske operationer i R",
           "Opstille simple statistiske modeller (herunder lineær regressiom), kunne vurdere deres relevans for at afklare konkrete videnskabelige spørgsmål, og kunne kvantificere usikkerheder om konklusionerne"
@@ -5921,7 +5920,7 @@
           "applying statistical techniques to calculate probabilities and find statistical evidence by performing hypotheses tests.",
           "estimating parameters of linear regression models and derive informed conclusions."
         ],
-        "competences": [
+        "competencies": [
           "identifying real world problems in the field of economics, and address those problems empirically by applying various statistical techniques.",
           "interpreting the results in an intuitive way and derive conclusions on the basis of statistical evidence.",
           "evaluating the applied approach and understand the limitations and shortcoming of statistical models and conclusions."
@@ -5978,7 +5977,7 @@
           "Udføre simple statistiske analyser baseret på likelihood funktionen, dvs. estimation, hypoteseprøvning og model kontrol.",
           "Begrunde resultater af egne analyser og overvejelser samt beskrive dette i et klart og tydeligt sprog."
         ],
-        "competences": [
+        "competencies": [
           "Vælge og anvende de relevante sandsynlighedsteoretiske redskaber på nye problemstillinger.",
           "Gennemføre beskrivende statistisk analyse på nye datasæt.",
           "Tage kritisk stilling til resultatet af andres statistiske analyser."
@@ -6038,7 +6037,7 @@
           "Identify and describe the most common discrete and continuous distributions, such as: Bernoulli, Poisson, multinomial, negative binomial, hyper-geometric, geometric, uniform, normal, chi-squared, exponential, gamma, Student (t), and F distribution",
           "Carry out autonomously a simple statistical analysis (e.g., estimation, inference and hypothesis testing), a comparison of means from two different populations, or a test of independence for discrete random variables."
         ],
-        "competences": [
+        "competencies": [
           "Ability to apply the main theoretical concepts of probability and distributions autonomously when working on concrete problems.",
           "Perform autonomously common data manipulation and analysis tasks, such as reading and combining datasets, creating new variables, drawing a sample and performing simple statistical analyses by means of calculation and by means of R.",
           "Describe and assess the results of their own analysis and considerations in an individual way."
@@ -6074,7 +6073,7 @@
         "aids": "none"
       },
       "education_ids": [182],
-      "extended_description": "Statistics play a fundamental and central role in the quantitative aspect of an education in Economics and/or Finance. The purpose of this course is to provide students with the skills and knowledge required to perform tasks such as the collection and analysis of sample- and population-based data. These skills and knowledge provide the foundation on which students can build solid quantitative competences in subsequent quantitative courses such as Econometrics."
+      "extended_description": "Statistics play a fundamental and central role in the quantitative aspect of an education in Economics and/or Finance. The purpose of this course is to provide students with the skills and knowledge required to perform tasks such as the collection and analysis of sample- and population-based data. These skills and knowledge provide the foundation on which students can build solid quantitative competencies in subsequent quantitative courses such as Econometrics."
     },
     {
       "internal_id": 1146,
@@ -6154,7 +6153,7 @@
           "proposals to collaborative partners and users",
           "use relevant theories and methods for the quality assurance of all phases of development."
         ],
-        "competences": [
+        "competencies": [
           "handle complex web development and must be able to handle complex and development-oriented situations in web development",
           "independently enter into professional and interdisciplinary cooperation with a professional approach and take responsibility within the framework of professional ethics in relation to web programming",
           "identify and structure their own learning needs and develop personal skills and competencies in relation to web programming."
@@ -6225,7 +6224,7 @@
     },
     {
       "code": "KAN-CIHCO2007U",
-      "name": " Managerial Statistics for Innovation",
+      "name": "Managerial Statistics for Innovation",
       "teachers": {
         "responsible": ["hck.si@cbs.dk"],
         "teachers": ["none"]
@@ -6447,7 +6446,7 @@
           "Develop applications by the use of a development tool/environment",
           "Structuring and modelling of relational databases"
         ],
-        "competences": [
+        "competencies": [
           "Demonstrate a basic understanding of the software development process",
           "Develop small prototypes of programs."
         ],
@@ -6582,7 +6581,7 @@
           "must be able to automate analysis workflows",
           "must be able to evaluate the strengths and weaknesses of the different geoprocessing methods and tools for a given task "
         ],
-        "competences": [
+        "competencies": [
           "must be able to support interdisciplinary teams in geocomputation and spatial analytics tasks, including the selection, application, and explanation of the respective techniques",
           "must be able to identify suitable geocomputation and spatial analytics techniques and apply them in relation to problems at different spatial scales"
         ],
