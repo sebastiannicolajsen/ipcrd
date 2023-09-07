@@ -1,0 +1,37 @@
+    {
+      "code": "",
+      "name": "",
+      "teachers":{
+        "responsible":["unknown"],
+        "teachers":["none"]
+      },
+      "contents": {
+        "type": "B",
+        "knowledge": [
+        
+        ],
+        "skills": [
+        
+        ],
+        "competences": [
+        
+        ],
+
+        "contents": [
+        
+        ]
+      },
+      "size": "replace",
+      "time": {
+        "unknown":"unknown"
+      },
+      "mandatory_activities": ["unknown"],
+      "exam": {
+        "prerequisites": "unknown",
+        "type": "replace",
+        "grading": "unknown",
+        "aids": "replace"
+      },
+      "education_ids": [],
+      "extended_description": "unknown"
+    }

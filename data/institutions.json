@@ -1,0 +1,106 @@
+{
+  "type-enums": ["U", "UC", "VE", "BA"],
+  "institutions": [
+    {
+      "id": "ITU",
+      "name": "IT University of Copenhagen",
+      "type": "U"
+    },
+    {
+      "id": "AAU",
+      "name": "Aalborg University",
+      "type": "U"
+    },
+    {
+      "id": "DTU",
+      "name": "Technical University of Denmark",
+      "type": "U"
+    },
+    {
+      "id": "SDU",
+      "name": "University of Southern Denmark",
+      "type": "U"
+    },
+
+    {
+      "id": "AU",
+      "name": "Aarhus University",
+      "type": "U"
+    },
+    {
+      "id": "PHA",
+      "name": "University College Absalon",
+      "type": "UC"
+    },
+    {
+      "id": "VIA",
+      "name": "VIA University College",
+      "type": "UC"
+    },
+    {
+      "id": "RUC",
+      "name": "Roskilde University",
+      "type": "U"
+    },
+    {
+      "id": "KU",
+      "name": "University of Copenhagen",
+      "type": "U"
+    },
+    {
+      "id": "CBS",
+      "name": "Copenhagen Business School",
+      "type": "U"
+    },
+    {
+      "id": "KP",
+      "name": "Københavns Professionshøjskole",
+      "type": "UC"
+    },
+    {
+      "id": "KEA",
+      "name": "Københavns erhvervsakademi",
+      "type": "BA"
+    },
+    {
+      "id": "ED",
+      "name": "Erhvervsakademi Dania",
+      "type": "BA"
+    },
+    {
+      "id": "EA",
+      "name": "Erhvervsakademi Aarhus",
+      "type": "BA"
+    },
+    {
+      "id": "UCN",
+      "name": "Professionshøjskolen UCN",
+      "type": "BA"
+    },
+    {
+      "id": "ZEA",
+      "name": "Professionshøjskolen Zealand",
+      "type": "BA"
+    },
+    {
+      "id": "UCL",
+      "name": "Professionshøjskolen UCL",
+      "type": "BA"
+    },
+    {
+      "id": "EAS",
+      "name": "Erhvervsakademi Sydvest",
+      "type": "BA"
+    },
+    {
+      "id": "IBA",
+      "name": "Erhvervsakademi Kolding",
+      "type": "BA"
+    },
+    {
+      "id": "CBA",
+      "name": "Copenhagen Business Academy",
+      "type": "BA"
+    }
+  ]
+}

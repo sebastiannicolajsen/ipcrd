@@ -1,0 +1,1266 @@
+{
+  "type-enums": ["BSC", "DPBSC", "MSC"],
+
+  "educations": [
+    {
+      "temp_id": 0,
+      "title": "Bachelor in Data Science",
+      "core_name": "Data Science",
+      "institution": "ITU",
+      "type": "BSC",
+      "domains":["CS"]
+    },
+    {
+      "temp_id": 1,
+      "title": "Design og Anvendelse af Kunstig Intelligens",
+      "core_name": "Design og Anvendelse af Kunstig Intelligens",
+      "institution": "AAU",
+      "type": "DPBSC"
+    },
+    {
+      "temp_id": 2,
+      "title": "Diplomingeniør i Eksport og Teknologi",
+      "core_name": "Eksport og Teknologi",
+      "institution": "DTU",
+      "type": "DPBSC"
+    },
+    {
+      "temp_id": 3,
+      "title": "Diplomingeniør i Elektrisk Energiteknologi",
+      "core_name": "Elektrisk Energiteknologi",
+      "institution": "DTU",
+      "type": "DPBSC"
+    },
+    {
+      "temp_id": 4,
+      "title": "Diplomingeniør i Elektrisk Energiteknologi",
+      "core_name": "Elektrisk Energiteknologi",
+      "institution": "SDU",
+      "type": "DPBSC"
+    },
+    {
+      "temp_id": 5,
+      "title": "Elektrisk Energiteknologi",
+      "core_name": "Elektrisk Energiteknologi",
+      "institution": "AU",
+      "type": "DPBSC"
+    },
+    {
+      "temp_id": 6,
+      "title": "Diplomingeniør i Elektroteknologi",
+      "core_name": "Elektroteknologi",
+      "institution": "DTU",
+      "type": "DPBSC"
+    },
+    {
+      "temp_id": 7,
+      "title": "IT-Elektronik",
+      "core_name": "IT-Elektronik",
+      "institution": "DTU",
+      "type": "DPBSC"
+    },
+    {
+      "temp_id": 8,
+      "title": "Diplomingeniør i Maskinteknik",
+      "core_name": "Maskinteknik",
+      "institution": "DTU",
+      "type": "DPBSC"
+    },
+    {
+      "temp_id": 9,
+      "title": "Diplomingeniør i Maskinteknologi",
+      "core_name":"Maskinteknologi",
+      "institution": "PHA",
+      "type": "DPBSC"
+    },
+    {
+      "temp_id": 10,
+      "title": "Diplomingeniør i Mechanical / Maskinteknik",
+      "core_name": "Mechanical / Maskinteknik",
+      "institution": "SDU",
+      "type": "DPBSC"
+    },
+    {
+      "temp_id": 11,
+      "title": "Maskinteknik",
+      "core_name": "Maskinteknik",
+      "institution": "AAU",
+      "type": "DPBSC"
+    },
+    {
+      "temp_id": 12,
+      "title": "Softwareteknologi",
+      "core_name": "Softwareteknologi",
+      "institution": "DTU",
+      "type": "DPBSC"
+    },
+    {
+      "temp_id": 13,
+      "title": "Softwareingeniør",
+      "core_name": "Softwareteknologi",
+      "institution": "VIA",
+      "type": "DPBSC"
+    },
+    {
+      "temp_id": 14,
+      "title": "Diplomingeniør i Softwareteknologi",
+      "core_name": "Softwareteknologi",
+      "institution": "SDU",
+      "type": "DPBSC"
+    },
+    {
+      "temp_id": 15,
+      "title": "Softwareteknologi",
+      "core_name": "Softwareteknologi",
+      "institution": "AU",
+      "type": "DPBSC"
+    },
+    {
+      "temp_id": 16,
+      "title": "Elektroteknologi",
+      "core_name": "Elektroteknologi",
+      "institution": "DTU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 17,
+      "title": "Elektroteknologi",
+      "core_name": "Elektroteknologi",
+      "institution": "AU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 18,
+      "title": "Informatik",
+      "core_name": "Informatik",
+      "institution": "RUC",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 19,
+      "title": "Digital Design -  IT, Æstetik og Interaktion",
+      "core_name": "Digital Design -  IT, Æstetik og Interaktion",
+      "institution": "AU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 20,
+      "title": "Biomedicin",
+      "core_name": "Biomedicin",
+      "institution": "SDU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 21,
+      "title": "Bioteknologi",
+      "core_name": "Bioteknologi",
+      "institution": "AAU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 22,
+      "title": "Bioteknologi",
+      "core_name": "Bioteknologi",
+      "institution": "AU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 23,
+      "title": "Molecular Health Science",
+      "core_name": "Molecular Health Science",
+      "institution": "RUC",
+      "type": "MSC"
+    },
+    {
+      "temp_id": 24,
+      "title": "Chemical Biology",
+      "core_name": "Chemical Biology",
+      "institution": "RUC",
+      "type": "MSC"
+    },
+    {
+      "temp_id": 25,
+      "title": "Agriculture",
+      "core_name": "Agriculture",
+      "institution": "KU",
+      "type": "MSC"
+    },
+    {
+      "temp_id": 26,
+      "title": "Environmental Science",
+      "core_name": "Environmental Science",
+      "institution": "KU",
+      "type": "MSC"
+    },
+    {
+      "temp_id": 27,
+      "title": "Environment and Development",
+      "core_name": "Environment and Development",
+      "institution": "KU",
+      "type": "MSC"
+    },
+    {
+      "temp_id": 28,
+      "title": "Global Environment and Development",
+      "core_name": "Global Environment and Development",
+      "institution": "KU",
+      "type": "MSC"
+    },
+    {
+      "temp_id": 29,
+      "title": "Molekylær Medicin",
+      "core_name": "Molekylær Medicin",
+      "institution": "AU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 30,
+      "title": "Molekylærbiologi",
+      "core_name": "Molekylærbiologi",
+      "institution": "AU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 31,
+      "title": "Biokemi og Molekylær Biologi",
+      "core_name": "Biokemi og Molekylær Biologi",
+      "institution": "SDU",
+      "type": "MSC"
+    },
+    {
+      "temp_id": 32,
+      "title": "Biomedicinsk informatik",
+      "institution": "SDU",
+      "type": "MSC"
+    },
+    {
+      "temp_id": 33,
+      "title": "Civilingeniør i Energisystemer",
+      "core_name": "Energisystemer",
+      "institution": "SDU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 34,
+      "title": "Bacheloruddannelsen i Fysik",
+      "core_name": "Fysik",
+      "institution": "KU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 35,
+      "title": "Bacheloruddannelsen i Kemi",
+      "core_name": "Kemi",
+      "institution": "KU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 36,
+      "title": "Fysik",
+      "core_name": "Fysik",
+      "institution": "AU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 37,
+      "title": "Civilingeniør i Fysik og Teknologi",
+      "core_name": "Fysik og Teknologi",
+      "institution": "SDU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 38,
+      "title": "Elektronik og Systemdesign",
+      "core_name": "Elektronik og Systemdesign",
+      "institution": "AAU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 39,
+      "title": "Kandidat i Social Datavidenskab",
+      "core_name": "Social Datavidenskab",
+      "institution": "KU",
+      "type": "MSC"
+    },
+    {
+      "temp_id": 40,
+      "title": "Diplomingeniør i Mechatronics",
+      "core_name": "Mechatronics",
+      "institution": "SDU",
+      "type": "DPBSC"
+    },
+    {
+      "temp_id": 41,
+      "title": "Skov- og Landskabsingeniør",
+      "core_name": "Skov- og Landskabsingeniør",
+      "institution": "SDU",
+      "type": "DPBSC"
+    },
+    {
+      "temp_id": 42,
+      "title": "Urban Landskabsingeniør",
+      "core_name": "Urban Landskabsingeniør",
+      "institution": "SDU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 43,
+      "title": "Civilingeniør i Bygningsteknik",
+      "core_name": "Bygningsteknik",
+      "institution": "SDU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 44,
+      "title": "Bachelor i Kommunikation og IT",
+      "core_name": "Kommunikation og IT",
+      "institution": "KU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 45,
+      "title": "Civilingeniør i Sundheds- og Velfærdsteknologi",
+      "core_name": "Sundheds- og Velfærdsteknologi",
+      "institution": "SDU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 46,
+      "title": "Digitalisering og Applikationsudvikling",
+      "core_name": "Digitalisering og Applikationsudvikling",
+      "institution": "AAU",
+      "type": "MSC"
+    },
+    {
+      "temp_id": 47,
+      "title": "Bachelor i Softwareudvikling",
+      "core_name": "Softwareudvikling",
+      "institution": "ITU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 48,
+      "title": "Elektronik (Herning)",
+      "core_name": "Elektronik",
+      "institution": "AU",
+      "type": "DPBSC"
+    },
+    {
+      "temp_id": 49,
+      "title": "Diplomingeniør i Elektronik",
+      "core_name": "Elektronik",
+      "institution": "SDU",
+      "type": "DPBSC"
+    },
+    {
+      "temp_id": 50,
+      "title": "Diplomingeniør i Electronics",
+      "core_name": "Electronics",
+      "institution": "SDU",
+      "type": "DPBSC"
+    },
+    {
+      "temp_id": 51,
+      "title": "Elektronik",
+      "core_name": "Elektronik",
+      "institution": "AAU",
+      "type": "DPBSC"
+    },
+    {
+      "temp_id": 52,
+      "title": "Elektronik",
+      "core_name": "Elektronik",
+      "institution": "AU",
+      "type": "DPBSC"
+    },
+    {
+      "temp_id": 53,
+      "title": "Informations-videnskab, IT og Interaktionsdesign",
+      "core_name": "Informations-videnskab, IT og Interaktionsdesign",
+      "institution": "SDU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 54,
+      "title": "Computerteknologi",
+      "core_name": "Computerteknologi",
+      "institution": "AAU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 55,
+      "title": "Computerteknologi",
+      "core_name": "Computerteknologi",
+      "institution": "AU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 56,
+      "title": "Software",
+      "core_name": "Software",
+      "institution": "AAU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 57,
+      "title": "Diplomingeniør i IT og Økonomi",
+      "core_name": "IT og Økonomi",
+      "institution": "DTU",
+      "type": "DPBSC"
+    },
+    {
+      "temp_id": 58,
+      "title": "Datavidenskab og Machine Learning",
+      "core_name": "Datavidenskab og Machine Learning",
+      "institution": "AAU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 59,
+      "title": "Agrobiologi",
+      "core_name": "Agrobiologi",
+      "institution": "AU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 60,
+      "title": "Bachelor i Global Business Informatics",
+      "core_name": "Global Business Informatics",
+      "institution": "ITU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 61,
+      "title": "Bachelor i General Engineering",
+      "core_name": "General Engineering",
+      "institution": "DTU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 62,
+      "title": "Kandidat i Softwaredesign",
+      "core_name": "Softwaredesign",
+      "institution": "ITU",
+      "type": "MSC"
+    },
+    {
+      "temp_id": 63,
+      "title": "Datavidenskab",
+      "core_name": "Datavidenskab",
+      "institution": "AU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 64,
+      "title": "Interaktionsdesign",
+      "core_name": "Interaktionsdesign",
+      "institution": "AAU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 65,
+      "title": "Anvendt Matematik",
+      "core_name": "Anvendt Matematik",
+      "institution": "SDU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 66,
+      "title": "Bæredygtigt Design",
+      "core_name": "Bæredygtigt Design",
+      "institution": "AAU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 67,
+      "title": "Bachelor i Bæredygtigt Energidesign",
+      "core_name": "Bæredygtigt Energidesign",
+      "institution": "DTU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 68,
+      "title": "Master of Science (MSc) in Sustainable Fisheries and Aquaculture",
+      "core_name": "Sustainable Fisheries and Aquaculture",
+      "institution": "DTU",
+      "type": "MSC"
+    },
+    {
+      "temp_id": 69,
+      "title": "Bachelor i Digital Design og Interaktive Teknologier",
+      "core_name": "Digital Design og Interaktive Teknologier",
+      "institution": "ITU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 70,
+      "title": "Ha(Mat.) Erhvervsøkonomi - Matematik",
+      "core_name": "Erhvervsøkonomi - Matematik",
+      "institution": "CBS",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 71,
+      "title": "IT-Produktudvikling",
+      "core_name": "IT-Produktudvikling",
+      "institution": "AU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 72,
+      "title": "Kunstig Intelligens",
+      "core_name": "Kunstig Intelligens",
+      "institution": "SDU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 73,
+      "title": "Bachelor i Kunstig Intelligens og Data",
+      "core_name": "Kunstig Intelligens og Data",
+      "institution": "DTU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 74,
+      "title": "Sundhedsteknologi",
+      "core_name": "Sundhedsteknologi",
+      "institution": "AAU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 75,
+      "title": "Kandidat i Digital Design og Interaktive Teknologier",
+      "core_name": "Digital Design og Interaktive Teknologier",
+      "institution": "ITU",
+      "type": "MSC"
+    },
+    {
+      "temp_id": 77,
+      "title": "Informationsteknologi",
+      "core_name": "Informationsteknologi",
+      "institution": "AAU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 78,
+      "title": "Bioteknologi",
+      "core_name": "Bioteknologi",
+      "institution": "KU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 79,
+      "title": "Bachelor i Fødevarer og Ernæring",
+      "core_name": "Bachelor i Fødevarer og Ernæring",
+      "institution": "KU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 80,
+      "title": "Bachelor i Husdyrvidenskab",
+      "core_name": "Bachelor i Husdyrvidenskab",
+      "institution": "KU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 81,
+      "title": "Bachelor i Miljø- og Fødevareøkonomi",
+      "core_name": "Miljø- og Fødevareøkonomi",
+      "institution": "KU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 82,
+      "title": "Bachelor i Naturressourcer",
+      "core_name": "Naturressourcer",
+      "institution": "KU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 83,
+      "title": "Cognitive Science",
+      "core_name": "Cognitive Science",
+      "institution": "AU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 84,
+      "title": "Biokemi og Molekylær Biologi",
+      "core_name": "Biokemi og Molekylær Biologi",
+      "institution": "SDU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 85,
+      "title": "Bachelor i Geologi-Geogscience",
+      "core_name": "Geologi-Geogscience",
+      "institution": "KU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 86,
+      "title": "Geoscience",
+      "core_name": "Geoscience",
+      "institution": "AU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 87,
+      "title": "MSc in Business Adminstration and Digital Business",
+      "core_name": "Business Adminstration and Digital Business",
+      "institution": "CBS",
+      "type": "MSC"
+    },
+    {
+      "temp_id": 88,
+      "title": "Diplomingeniør i Robotteknologi",
+      "core_name": "Robotteknologi",
+      "institution": "SDU",
+      "type": "DPBSC"
+    },
+    {
+      "temp_id": 89,
+      "title": "Civillingeniør i Software Engineering",
+      "core_name": "Software Engineering",
+      "institution": "SDU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 90,
+      "title": "Civillingeniør i Software Engineering (Sønderborg)",
+      "core_name": "Software Engineering",
+      "institution": "SDU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 91,
+      "title": "Civilingeniør i Spiludvikling og Læringsteknologi",
+      "core_name": "Spiludvikling og Læringsteknologi",
+      "institution": "SDU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 94,
+      "title": "Informationsvidenskab",
+      "core_name": "Informationsvidenskab",
+      "institution": "AU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 99,
+      "title": "Bachelor i Kemi og Teknologi",
+      "core_name": "Kemi og Teknologi",
+      "institution": "DTU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 100,
+      "title": "Kemiteknologi",
+      "core_name": "Kemiteknologi",
+      "institution": "AU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 101,
+      "title": "Økonomi og IT",
+      "core_name": "Økonomi og IT",
+      "institution": "KEA",
+      "type": "DPBSC"
+    },
+    {
+      "temp_id": 102,
+      "title": "Professionsbachelor i Økonomi og IT",
+      "core_name": "Økonomi og IT",
+      "institution": "EA",
+      "type": "DPBSC"
+    },
+    {
+      "temp_id": 103,
+      "title": "Ingeniørvidenskab",
+      "core_name": "Ingeniørvidenskab",
+      "institution": "AAU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 104,
+      "title": "Civilingeniør i Maskinteknik (Odense)",
+      "core_name": "Maskinteknik",
+      "institution": "SDU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 105,
+      "title": "Civilingeniør i Mechanical / Maskinteknik (Sønderborg)",
+      "core_name": "Mechanical / Maskinteknik",
+      "institution": "SDU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 106,
+      "title": "Mekanik",
+      "core_name": "Mekanik",
+      "institution": "AU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 107,
+      "title": "Datalogi",
+      "core_name": "Datalogi",
+      "institution": "AU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 108,
+      "title": "Datalogi",
+      "core_name": "Datalogi",
+      "institution": "KU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 108,
+      "title": "Bachelor i Datalogi",
+      "core_name": "Datalogi",
+      "institution": "KU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 109,
+      "title": "Bachelor i Datalogi-Økonomi",
+      "core_name": "Datalogi-Økonomi",
+      "institution": "KU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 110,
+      "title": "Bachelor i Machinelearning og Datavidenskab",
+      "core_name": "Machinelearning og Datavidenskab",
+      "institution": "KU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 111,
+      "title": "Bachelor i Kognitions- og Datavidenskab",
+      "core_name": "Kognitions- og Datavidenskab",
+      "institution": "KU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 112,
+      "title": "Datalogi",
+      "core_name": "Datalogi",
+      "institution": "AU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 113,
+      "title": "Datalogi",
+      "core_name": "Datalogi",
+      "institution": "SDU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 114,
+      "title": "Datalogi",
+      "core_name": "Datalogi",
+      "institution": "RUC",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 115,
+      "title": "HA(it.) - Erhvervsøkonomi - Informationsteknologi",
+      "core_name": "Erhvervsøkonomi - Informationsteknologi",
+      "institution": "CBS",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 116,
+      "title": "Globale Forretningssystemer, Diplomingeniør",
+      "core_name": "Globale Forretningssystemer",
+      "institution": "AAU",
+      "type": "DPBSC"
+    },
+    {
+      "temp_id": 117,
+      "title": "Globale Forretningssystemer",
+      "core_name": "Globale Forretningssystemer",
+      "institution": "AAU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 118,
+      "title": "Service Systems Design (København)",
+      "core_name": "Service Systems Design",
+      "institution": "AAU",
+      "type": "MSC"
+    },
+    {
+      "temp_id": 119,
+      "title": "Kemiteknologi",
+      "core_name": "Kemiteknologi",
+      "institution": "AU",
+      "type": "DPBSC"
+    },
+    {
+      "temp_id": 120,
+      "title": "Matematik",
+      "core_name": "Matematik",
+      "institution": "AAU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 121,
+      "title": "Matematik",
+      "core_name": "Matematik",
+      "institution": "AU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 122,
+      "title": "Bachelor i Produkt- og Designpsykologi",
+      "core_name": "Produkt- og Designpsykologi",
+      "institution": "AAU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 123,
+      "title": "Bachelor i Datavidenskab",
+      "core_name": "Datavidenskab",
+      "institution": "AAU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 124,
+      "title": "Matematik",
+      "core_name": "Matematik",
+      "institution": "SDU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 125,
+      "title": "Matematik og Teknologi",
+      "core_name": "Matematik og Teknologi",
+      "institution": "DTU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 126,
+      "title": "Matematik-Teknologi",
+      "core_name": "Matematik-Teknologi",
+      "institution": "AAU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 127,
+      "title": "Medialogi",
+      "core_name": "Medialogi",
+      "institution": "AAU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 128,
+      "title": "Bachelor i Medicin og Teknologi",
+      "core_name": "Medicin og Teknologi",
+      "institution": "DTU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 129,
+      "title": "Mekanik og Produktion",
+      "core_name": "Mekanik og Produktion",
+      "institution": "AAU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 131,
+      "title": "Digital Innovation og Management",
+      "core_name": "Digital Innovation og Management",
+      "institution": "ITU",
+      "type": "MSC"
+    },
+    {
+      "temp_id": 132,
+      "title": "Bachelor i Geofysik og Rumteknologi",
+      "core_name": "Geofysik og Rumteknologi",
+      "institution": "DTU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 133,
+      "title": "Bachelor i Nanoscience",
+      "core_name": "Nanoscience",
+      "institution": "KU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 134,
+      "title": "Bachelor i Sundhed og Informatik",
+      "core_name": "Sundhed og Informatik",
+      "institution": "KU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 136,
+      "title": "Bachelor i Kemi",
+      "core_name": "Kemi",
+      "institution": "AAU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 137,
+      "title": "Bachelor i Biologi",
+      "core_name": "Biologi",
+      "institution": "AAU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 138,
+      "title": "Bachelor i Kemiteknologi",
+      "core_name": "Kemiteknologi",
+      "institution": "AAU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 139,
+      "title": "Chemical Engineering and Biotechnology",
+      "core_name": "Chemical Engineering and Biotechnology",
+      "institution": "AAU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 140,
+      "title": "Miljøvidenskab",
+      "core_name": "Miljøvidenskab",
+      "institution": "AAU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 141,
+      "title": "Kemi og Bioteknologi, diplomingeniør (Aalborg)",
+      "core_name": "Kemi og Bioteknologi",
+      "institution": "AAU",
+      "type": "DPBSC"
+    },
+    {
+      "temp_id": 142,
+      "title": "Biologi",
+      "core_name": "Biologi",
+      "institution": "AU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 143,
+      "title": "Applied Industrial Electronics",
+      "core_name": "Applied Industrial Electronics",
+      "institution": "AAU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 144,
+      "title": "Bæredygtig Energiteknik, Diplomingeniør",
+      "core_name": "Bæredygtig Energiteknik",
+      "institution": "AAU",
+      "type": "DPBSC"
+    },
+    {
+      "temp_id": 145,
+      "title": "Energi",
+      "core_name": "Energi",
+      "institution": "AAU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 146,
+      "title": "Robotteknologi",
+      "core_name": "Robotteknologi",
+      "institution": "AAU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 147,
+      "title": "Civilingeniør i Robotteknologi",
+      "core_name": "Robotteknologi",
+      "institution": "SDU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 148,
+      "title": "Civilingeniør i Operations Management",
+      "core_name": "Operations Management",
+      "institution": "SDU",
+      "type": "MSC"
+    },
+    {
+      "temp_id": 149,
+      "title": "Physics and Scientific Modelling",
+      "core_name": "Physics and Scientific Modelling",
+      "institution": "RUC",
+      "type": "MSC"
+    },
+    {
+      "temp_id": 150,
+      "title": "Økonomi",
+      "core_name": "Økonomi",
+      "institution": "AAU",
+      "type": "MSC"
+    },
+    {
+      "temp_id": 151,
+      "title": "Økonomi",
+      "core_name": "Økonomi",
+      "institution": "KU",
+      "type": "MSC"
+    },
+    {
+      "temp_id": 152,
+      "title": "Kandidat i Bioinformatik",
+      "core_name": "Bioinformatik",
+      "institution": "KU",
+      "type": "MSC"
+    },
+    {
+      "temp_id": 153,
+      "title": "Bioinformatik",
+      "core_name": "Bioinformatik",
+      "institution": "AU",
+      "type": "MSC"
+    },
+    {
+      "temp_id": 154,
+      "title": "Kandidat i Molekylær Biomedicin",
+      "core_name": "Molekylær Biomedicin",
+      "institution": "KU",
+      "type": "MSC"
+    },
+    {
+      "temp_id": 155,
+      "title": "Bachelor i Biokemi",
+      "core_name": "Biokemi",
+      "institution": "KU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 156,
+      "title": "BSc in Business Administration and Digital Management",
+      "core_name": "Business Administration and Digital Management",
+      "institution": "CBS",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 157,
+      "title": "Bachelor i Bygningsdesign",
+      "core_name": "Bygningsdesign",
+      "institution": "DTU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 158,
+      "title": "Bachelor i Cyberteknologi",
+      "core_name": "Cyberteknologi",
+      "institution": "DTU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 165,
+      "title": "Diplomingeniør i Sundhedsteknologi",
+      "core_name": "Sundhedsteknologi",
+      "institution": "DTU",
+      "type": "DPBSC"
+    },
+    {
+      "temp_id": 166,
+      "title": "Sundhedsteknologi",
+      "core_name": "Sundhedsteknologi",
+      "institution": "AU",
+      "type": "DPBSC"
+    },
+    {
+      "temp_id": 167,
+      "title": "Professionsbacheloruddannelsen i Fødevareteknologi og Applikation",
+      "core_name": "Fødevareteknologi og Applikation",
+      "institution": "EA",
+      "type": "DPBSC"
+    },
+    {
+      "temp_id": 168,
+      "title": "Geografi",
+      "core_name": "Geografi",
+      "institution": "AAU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 169,
+      "title": "Bachelor i Geografi og Geoinformatik",
+      "core_name": "Geografi og Geoinformatik",
+      "institution": "KU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 170,
+      "title": "HA i Europæisk Business",
+      "core_name": "Europæisk Business",
+      "institution": "CBS",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 171,
+      "title": "HA i Markeds- og Kulturanalyse",
+      "core_name": "Markeds- og Kulturanalyse",
+      "institution": "CBS",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 172,
+      "title": "IT, Kommunikation og Organisation",
+      "core_name": "IT, Kommunikation og Organisation",
+      "institution": "AU",
+      "type": "MSC"
+    },
+    {
+      "temp_id": 175,
+      "title": "Kunst og Teknologi",
+      "core_name": "Kunst og Teknologi",
+      "institution": "AAU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 176,
+      "title": "Matematik-Økonomi",
+      "core_name": "Matematik-Økonomi",
+      "institution": "AAU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 177,
+      "title": "Bachelor i Matematik-Økonomi",
+      "core_name": "Matematik-Økonomi",
+      "institution": "KU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 178,
+      "title": "Matematik-Økonomi",
+      "core_name": "Matematik-Økonomi",
+      "institution": "AU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 179,
+      "title": "Matematik-Økonomi",
+      "core_name": "Matematik-Økonomi",
+      "institution": "SDU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 180,
+      "title": "Økonomi",
+      "core_name": "Økonomi",
+      "institution": "AAU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 181,
+      "title": "Bachelor i Økonomi",
+      "core_name": "Økonomi",
+      "institution": "KU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 182,
+      "title": "Bachelor i Økonomi",
+      "core_name": "Økonomi",
+      "institution": "SDU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 183,
+      "title": "Webudvikling",
+      "core_name": "Webudvikling",
+      "institution": "EAS",
+      "type": "DPBSC"
+    },
+    {
+      "temp_id": 184,
+      "title": "Webudvikling",
+      "core_name": "Webudvikling",
+      "institution": "IBA",
+      "type": "DPBSC"
+    },
+    {
+      "temp_id": 185,
+      "title": "Webudvikling",
+      "core_name": "Webudvikling",
+      "institution": "KEA",
+      "type": "DPBSC"
+    },
+    {
+      "temp_id": 186,
+      "title": "Webudvikling",
+      "core_name": "Webudvikling",
+      "institution": "KEA",
+      "type": "DPBSC"
+    },
+    {
+      "temp_id": 187,
+      "title": "Softwareteknologi",
+      "core_name": "Softwareteknologi",
+      "institution": "DTU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 188,
+      "title": "Master of Science in Bioinformatics and Systems Biology",
+      "core_name": "Bioniformatics and Systems Biology",
+      "institution": "DTU",
+      "type": "MSC"
+    },
+    {
+      "temp_id": 189,
+      "title": "MSc in Business Administration and Innnovation in Health Care",
+      "core_name": "Business Administration and Innovation in Health Care",
+      "institution": "CBS",
+      "type": "MSC"
+    },
+    {
+      "temp_id": 190,
+      "title": "Byggeri",
+      "core_name": "Byggeri",
+      "institution": "AU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 191,
+      "title": "Computational biomedicine",
+      "core_name": "Computational biomedicine",
+      "institution": "SDU",
+      "type": "MSC"
+    },
+    {
+      "temp_id": 192,
+      "title": "BSC in General Engineering",
+      "core_name": "General Engineering",
+      "institution": "DTU",
+      "type": "BSC"
+    },
+    {
+      "temp_id": 193,
+      "title": "Indoor Environmental and Energy Engineering, MSc in Engineering",
+      "core_name": "Indoor Environmental and Energy Engineering",
+      "institution": "AAU",
+      "type": "MSC"
+    },
+    {
+      "temp_id": 194,
+      "title": "Industrial Engineering and Management",
+      "core_name": "Industrial Engineering and Management",
+      "institution": "DTU",
+      "type": "MSC"
+    },
+    {
+      "temp_id": 195,
+      "title": "Surveying, Planning and Land Management",
+      "core_name": "Surveying, Planning and Land Management",
+      "institution": "AAU",
+      "type": "MSC"
+    }
+  ]
+}
