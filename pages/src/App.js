@@ -10,7 +10,7 @@ import { BiMailSend } from "react-icons/bi";
 const url =
   "https://github.com/sebastiannicolajsen/ipcrd/blob/main/data/courses.json";
 
-const subjectTag = "[IPCRD]:";
+const subjectTag = "[VOPP]:";
 
 
 const gradeEnums = {
@@ -256,10 +256,10 @@ const LearningGoals = ({ data }) => (
 const Title = () => (
   <div style={{ textAlign: "start", padding: 20 }}>
     <div style={{ fontSize: 20, fontWeight: 500 }}>
-      The Introductory Programming Courses and Related Data Initiative
+      Voicing Opinions on Programming Pedagogy in Denmark
     </div>
     <div style={{ paddingTop: 10 }}>
-      The Introductory Programming Courses and Related Data (IPCRD) initiative
+      The Voicing Opinions on Programming Pedagogy in Denmark (VOPP) initiative
       aims to map where, who, and what we teach of programming. <br />
       Currently, the initiative comprises of data from Danish introductory
       courses in all disciplines within tertiary education. <br /> The data is
