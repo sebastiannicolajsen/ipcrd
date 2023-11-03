@@ -10,7 +10,7 @@ import { BiMailSend } from "react-icons/bi";
 const url =
   "https://github.com/sebastiannicolajsen/ipcrd/blob/main/data/courses.json";
 
-const subjectTag = "[VOPP]:";
+const subjectTag = "[MATT]:";
 
 
 const gradeEnums = {
@@ -256,10 +256,10 @@ const LearningGoals = ({ data }) => (
 const Title = () => (
   <div style={{ textAlign: "start", padding: 20 }}>
     <div style={{ fontSize: 20, fontWeight: 500 }}>
-      Voicing Opinions on Programming Pedagogy in Denmark
+    Mapping Attitudes towards Teaching Programming
     </div>
     <div style={{ paddingTop: 10 }}>
-      The Voicing Opinions on Programming Pedagogy in Denmark (VOPP) initiative
+      The Mapping Attitudes towards Teaching Programming (MATT) initiative
       aims to map where, who, and what we teach of programming. <br />
       Currently, the initiative comprises of data from Danish introductory
       courses in all disciplines within tertiary education. <br /> The data is
