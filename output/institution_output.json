@@ -9,11 +9,12 @@
         {
           "title": "Bachelor in Data Science",
           "core_name": "Data Science",
+          "edu_type": "Naturvidenskab",
           "type": "BSC",
           "domains": [
             "CS"
           ],
-          "internal_id": "e_14984917759334",
+          "internal_id": "e_7318774640291",
           "course": {
             "internal_id": "c_13944192275018",
             "code": "BSINDSP1KU",
@@ -75,8 +76,9 @@
         {
           "title": "Bachelor i Softwareudvikling",
           "core_name": "Softwareudvikling",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "type": "BSC",
-          "internal_id": "e_14984917759334",
+          "internal_id": "e_4485943773679",
           "course": {
             "internal_id": "c_13382334973490",
             "code": "BSGRPRO1KU",
@@ -119,8 +121,9 @@
         {
           "title": "Bachelor i Global Business Informatics",
           "core_name": "Global Business Informatics",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "type": "BSC",
-          "internal_id": "e_14984917759334",
+          "internal_id": "e_681094691289",
           "course": {
             "internal_id": "c_13323819730737",
             "code": "BBINPRO1KU",
@@ -164,8 +167,9 @@
         {
           "title": "Kandidat i Softwaredesign",
           "core_name": "Softwaredesign",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "type": "MSC",
-          "internal_id": "e_14984917759334",
+          "internal_id": "e_1995042255888",
           "course": {
             "internal_id": "c_13323879878665",
             "code": "KSINPRO1KU",
@@ -214,8 +218,9 @@
         {
           "title": "Bachelor i Digital Design og Interaktive Teknologier",
           "core_name": "Digital Design og Interaktive Teknologier",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "type": "BSC",
-          "internal_id": "e_14984917759334",
+          "internal_id": "e_16718356560104",
           "course": {
             "internal_id": "c_13323816318066",
             "code": "BAINPRO1KU",
@@ -259,8 +264,9 @@
         {
           "title": "Kandidat i Digital Design og Interaktive Teknologier",
           "core_name": "Digital Design og Interaktive Teknologier",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "type": "MSC",
-          "internal_id": "e_14984917759334",
+          "internal_id": "e_11572734703212",
           "course": {
             "internal_id": "c_13323817534619",
             "code": "KAINPRO1KU",
@@ -304,8 +310,9 @@
         {
           "title": "Digital Innovation og Management",
           "core_name": "Digital Innovation og Management",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "type": "MSC",
-          "internal_id": "e_14984917759334",
+          "internal_id": "e_5980762261904",
           "course": {
             "internal_id": "c_6517323258693",
             "code": "KBPRDAP1KU",
@@ -351,8 +358,9 @@
         {
           "title": "Design og Anvendelse af Kunstig Intelligens",
           "core_name": "Design og Anvendelse af Kunstig Intelligens",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "type": "DPBSC",
-          "internal_id": "e_8197352955995",
+          "internal_id": "e_2466516382444",
           "course": {
             "internal_id": "c_248162714754",
             "code": "MSNDAKIB1233",
@@ -393,8 +401,9 @@
         {
           "title": "Maskinteknik",
           "core_name": "Maskinteknik",
+          "edu_type": "Mekanik, jern og metal",
           "type": "DPBSC",
-          "internal_id": "e_8197352955995",
+          "internal_id": "e_12983900362564",
           "course": {
             "internal_id": "c_3150052649264",
             "code": "IT-PRG1",
@@ -450,8 +459,9 @@
         {
           "title": "Bioteknologi",
           "core_name": "Bioteknologi",
+          "edu_type": "Naturvidenskab",
           "type": "BSC",
-          "internal_id": "e_8197352955995",
+          "internal_id": "e_10703869335059",
           "course": {
             "internal_id": "c_14719316115351",
             "code": "K-BT-B4-15A",
@@ -500,8 +510,9 @@
         {
           "title": "Elektronik og Systemdesign",
           "core_name": "Elektronik og Systemdesign",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "type": "BSC",
-          "internal_id": "e_8197352955995",
+          "internal_id": "e_3595303225628",
           "course": {
             "internal_id": "c_5745574803220",
             "code": "ESNESDB1K2",
@@ -547,8 +558,9 @@
         {
           "title": "Digitalisering og Applikationsudvikling",
           "core_name": "Digitalisering og Applikationsudvikling",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "type": "MSC",
-          "internal_id": "e_8197352955995",
+          "internal_id": "e_11030163097430",
           "course": {
             "internal_id": "c_10874443529661",
             "code": "DSNIDAK124",
@@ -596,8 +608,9 @@
         {
           "title": "Elektronik",
           "core_name": "Elektronik",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "type": "DPBSC",
-          "internal_id": "e_8197352955995",
+          "internal_id": "e_9618952837603",
           "course": {
             "internal_id": "c_5745574803220",
             "code": "ESNESDB1K2",
@@ -643,8 +656,9 @@
         {
           "title": "Computerteknologi",
           "core_name": "Computerteknologi",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "type": "BSC",
-          "internal_id": "e_8197352955995",
+          "internal_id": "e_12578082312528",
           "course": {
             "internal_id": "c_5282934711419",
             "code": "ESNEITB1K1F",
@@ -693,8 +707,9 @@
         {
           "title": "Software",
           "core_name": "Software",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "type": "BSC",
-          "internal_id": "e_8197352955995",
+          "internal_id": "e_13764828357806",
           "course": {
             "internal_id": "c_542385285388",
             "code": "DSNDATFB105",
@@ -744,8 +759,9 @@
         {
           "title": "Datavidenskab og Machine Learning",
           "core_name": "Datavidenskab og Machine Learning",
+          "edu_type": "Naturvidenskab",
           "type": "BSC",
-          "internal_id": "e_8197352955995",
+          "internal_id": "e_5974845393155",
           "course": {
             "internal_id": "c_14097303323887",
             "code": "DSNDVB103",
@@ -796,8 +812,9 @@
         {
           "title": "Interaktionsdesign",
           "core_name": "Interaktionsdesign",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "type": "BSC",
-          "internal_id": "e_8197352955995",
+          "internal_id": "e_2979312768658",
           "course": {
             "internal_id": "c_1948053132065",
             "code": "DSNBAITB312",
@@ -854,8 +871,9 @@
         {
           "title": "Bæredygtigt Design",
           "core_name": "Bæredygtigt Design",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "type": "BSC",
-          "internal_id": "e_8197352955995",
+          "internal_id": "e_5164674195988",
           "course": {
             "internal_id": "c_15198280022199",
             "code": "TBIBDB19303",
@@ -902,8 +920,9 @@
         {
           "title": "Sundhedsteknologi",
           "core_name": "Sundhedsteknologi",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "type": "BSC",
-          "internal_id": "e_8197352955995",
+          "internal_id": "e_16467424659553",
           "course": {
             "internal_id": "c_16467333482412",
             "code": "STIST18B1_4",
@@ -943,8 +962,9 @@
         {
           "title": "Informationsteknologi",
           "core_name": "Informationsteknologi",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "type": "BSC",
-          "internal_id": "e_8197352955995",
+          "internal_id": "e_2861258660008",
           "course": {
             "internal_id": "c_4799362224002",
             "code": "DSNBAITB113",
@@ -991,8 +1011,9 @@
         {
           "title": "Ingeniørvidenskab",
           "core_name": "Ingeniørvidenskab",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "type": "BSC",
-          "internal_id": "e_8197352955995",
+          "internal_id": "e_126589527714",
           "course": {
             "internal_id": "c_9487901218115",
             "code": "ESNCEB1K1",
@@ -1036,8 +1057,9 @@
         {
           "title": "Globale Forretningssystemer, Diplomingeniør",
           "core_name": "Globale Forretningssystemer",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "type": "DPBSC",
-          "internal_id": "e_8197352955995",
+          "internal_id": "e_4302344455311",
           "course": {
             "internal_id": "c_17564198843805",
             "code": "M-GBE-B3-8",
@@ -1082,8 +1104,9 @@
         {
           "title": "Globale Forretningssystemer",
           "core_name": "Globale Forretningssystemer",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "type": "BSC",
-          "internal_id": "e_8197352955995",
+          "internal_id": "e_6523509044600",
           "course": {
             "internal_id": "c_17564198843805",
             "code": "M-GBE-B3-8",
@@ -1128,8 +1151,9 @@
         {
           "title": "Service Systems Design (København)",
           "core_name": "Service Systems Design",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "type": "MSC",
-          "internal_id": "e_8197352955995",
+          "internal_id": "e_11742347854130",
           "course": {
             "internal_id": "c_11483395949034",
             "code": "MSNSSDM1204",
@@ -1176,8 +1200,9 @@
         {
           "title": "Matematik",
           "core_name": "Matematik",
+          "edu_type": "Naturvidenskab",
           "type": "BSC",
-          "internal_id": "e_8197352955995",
+          "internal_id": "e_12744575603366",
           "course": {
             "internal_id": "c_9856503627966",
             "code": "B-MAT1-PROMA",
@@ -1224,8 +1249,9 @@
         {
           "title": "Bachelor i Produkt- og Designpsykologi",
           "core_name": "Produkt- og Designpsykologi",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "type": "BSC",
-          "internal_id": "e_8197352955995",
+          "internal_id": "e_712785454931",
           "course": {
             "internal_id": "c_9856503627966",
             "code": "B-MAT1-PROMA",
@@ -1272,8 +1298,9 @@
         {
           "title": "Bachelor i Datavidenskab",
           "core_name": "Datavidenskab",
+          "edu_type": "Naturvidenskab",
           "type": "BSC",
-          "internal_id": "e_8197352955995",
+          "internal_id": "e_7702783629295",
           "course": {
             "internal_id": "c_8875074549883",
             "code": "520171U028",
@@ -1316,8 +1343,9 @@
         {
           "title": "Matematik-Teknologi",
           "core_name": "Matematik-Teknologi",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "type": "BSC",
-          "internal_id": "e_8197352955995",
+          "internal_id": "e_8147994996765",
           "course": {
             "internal_id": "c_9856503627966",
             "code": "B-MAT1-PROMA",
@@ -1364,8 +1392,9 @@
         {
           "title": "Medialogi",
           "core_name": "Medialogi",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "type": "BSC",
-          "internal_id": "e_8197352955995",
+          "internal_id": "e_16429791927752",
           "course": {
             "internal_id": "c_2205201700489",
             "code": "MSNMEDB2213A",
@@ -1410,8 +1439,9 @@
         {
           "title": "Mekanik og Produktion",
           "core_name": "Mekanik og Produktion",
+          "edu_type": "Mekanik, jern og metal",
           "type": "BSC",
-          "internal_id": "e_8197352955995",
+          "internal_id": "e_16638487240044",
           "course": {
             "internal_id": "c_9952888229643",
             "code": "M-MP-B5-5",
@@ -1474,8 +1504,9 @@
         {
           "title": "Bachelor i Kemi",
           "core_name": "Kemi",
+          "edu_type": "Naturvidenskab",
           "type": "BSC",
-          "internal_id": "e_8197352955995",
+          "internal_id": "e_17362711291998",
           "course": {
             "internal_id": "c_5549256630167",
             "code": "K-BT-B4-50",
@@ -1520,8 +1551,9 @@
         {
           "title": "Bachelor i Biologi",
           "core_name": "Biologi",
+          "edu_type": "Naturvidenskab",
           "type": "BSC",
-          "internal_id": "e_8197352955995",
+          "internal_id": "e_2998457012797",
           "course": {
             "internal_id": "c_5549256630167",
             "code": "K-BT-B4-50",
@@ -1566,8 +1598,9 @@
         {
           "title": "Bachelor i Kemiteknologi",
           "core_name": "Kemiteknologi",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "type": "BSC",
-          "internal_id": "e_8197352955995",
+          "internal_id": "e_12557496259432",
           "course": {
             "internal_id": "c_5549256630167",
             "code": "K-BT-B4-50",
@@ -1612,8 +1645,9 @@
         {
           "title": "Chemical Engineering and Biotechnology",
           "core_name": "Chemical Engineering and Biotechnology",
+          "edu_type": "Naturvidenskab",
           "type": "BSC",
-          "internal_id": "e_8197352955995",
+          "internal_id": "e_15132570847381",
           "course": {
             "internal_id": "c_5549256630167",
             "code": "K-BT-B4-50",
@@ -1658,8 +1692,9 @@
         {
           "title": "Miljøvidenskab",
           "core_name": "Miljøvidenskab",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "type": "BSC",
-          "internal_id": "e_8197352955995",
+          "internal_id": "e_287419699856",
           "course": {
             "internal_id": "c_5549256630167",
             "code": "K-BT-B4-50",
@@ -1704,8 +1739,9 @@
         {
           "title": "Kemi og Bioteknologi, diplomingeniør (Aalborg)",
           "core_name": "Kemi og Bioteknologi",
+          "edu_type": "Naturvidenskab",
           "type": "DPBSC",
-          "internal_id": "e_8197352955995",
+          "internal_id": "e_6022729842163",
           "course": {
             "internal_id": "c_5549256630167",
             "code": "K-BT-B4-50",
@@ -1750,8 +1786,9 @@
         {
           "title": "Applied Industrial Electronics",
           "core_name": "Applied Industrial Electronics",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "type": "BSC",
-          "internal_id": "e_8197352955995",
+          "internal_id": "e_5076048427346",
           "course": {
             "internal_id": "c_9683331347045",
             "code": "N-EN-B4-4AZ",
@@ -1815,8 +1852,9 @@
         {
           "title": "Bæredygtig Energiteknik, Diplomingeniør",
           "core_name": "Bæredygtig Energiteknik",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "type": "DPBSC",
-          "internal_id": "e_8197352955995",
+          "internal_id": "e_14569204860001",
           "course": {
             "internal_id": "c_15006782125085",
             "code": "N-EN-B4-4C",
@@ -1876,8 +1914,9 @@
         {
           "title": "Energi",
           "core_name": "Energi",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "type": "BSC",
-          "internal_id": "e_8197352955995",
+          "internal_id": "e_4163550588755",
           "course": {
             "internal_id": "c_15006782125085",
             "code": "N-EN-B4-4C",
@@ -1937,8 +1976,9 @@
         {
           "title": "Robotteknologi",
           "core_name": "Robotteknologi",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "type": "BSC",
-          "internal_id": "e_8197352955995",
+          "internal_id": "e_8817385932787",
           "course": {
             "internal_id": "c_2785714653911",
             "code": "ESNROBB1K3DK",
@@ -1988,8 +2028,9 @@
         {
           "title": "Økonomi",
           "core_name": "Økonomi",
+          "edu_type": "Samfundsvidenskab",
           "type": "MSC",
-          "internal_id": "e_8197352955995",
+          "internal_id": "e_14888591359864",
           "course": {
             "internal_id": "c_4627787724010",
             "code": "KAØKO202118",
@@ -2034,8 +2075,9 @@
         {
           "title": "Geografi",
           "core_name": "Geografi",
+          "edu_type": "Naturvidenskab",
           "type": "BSC",
-          "internal_id": "e_8197352955995",
+          "internal_id": "e_14374603105143",
           "course": {
             "internal_id": "c_12304129581779",
             "code": "PLBLGB22202",
@@ -2086,8 +2128,9 @@
         {
           "title": "Kunst og Teknologi",
           "core_name": "Kunst og Teknologi",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "type": "BSC",
-          "internal_id": "e_8197352955995",
+          "internal_id": "e_7605626574536",
           "course": {
             "internal_id": "c_11921240999177",
             "code": "BAART20193",
@@ -2131,8 +2174,9 @@
         {
           "title": "Matematik-Økonomi",
           "core_name": "Matematik-Økonomi",
+          "edu_type": "Naturvidenskab",
           "type": "BSC",
-          "internal_id": "e_8197352955995",
+          "internal_id": "e_13760164196402",
           "course": {
             "internal_id": "c_9856503627966",
             "code": "B-MAT1-PROMA",
@@ -2179,8 +2223,9 @@
         {
           "title": "Økonomi",
           "core_name": "Økonomi",
+          "edu_type": "Samfundsvidenskab",
           "type": "BSC",
-          "internal_id": "e_8197352955995",
+          "internal_id": "e_14888591359864",
           "course": {
             "internal_id": "c_4009592645771",
             "code": "BAØKO202312",
@@ -2229,8 +2274,9 @@
         {
           "title": "Indoor Environmental and Energy Engineering, MSc in Engineering",
           "core_name": "Indoor Environmental and Energy Engineering",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "type": "MSC",
-          "internal_id": "e_8197352955995",
+          "internal_id": "e_6852346709527",
           "course": {
             "code": "B-BIC-K2-3",
             "name": "IT System Development",
@@ -2276,8 +2322,9 @@
         {
           "title": "Surveying, Planning and Land Management",
           "core_name": "Surveying, Planning and Land Management",
+          "edu_type": "Bygge- og anlægsteknik",
           "type": "MSC",
-          "internal_id": "e_8197352955995",
+          "internal_id": "e_1994046639953",
           "course": {
             "code": "PLLANK20103",
             "name": "Geocomputation and Spatial Analytics",
@@ -2334,8 +2381,9 @@
         {
           "title": "Diplomingeniør i Eksport og Teknologi",
           "core_name": "Eksport og Teknologi",
+          "edu_type": "Erhvervsøkonomi, administration og jura",
           "type": "DPBSC",
-          "internal_id": "e_9782304812203",
+          "internal_id": "e_13775387926041",
           "course": {
             "internal_id": "c_14736343457484",
             "code": "62194",
@@ -2378,8 +2426,9 @@
         {
           "title": "Diplomingeniør i Elektrisk Energiteknologi",
           "core_name": "Elektrisk Energiteknologi",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "type": "DPBSC",
-          "internal_id": "e_9782304812203",
+          "internal_id": "e_4263852401175",
           "course": {
             "internal_id": "c_16621802387916",
             "code": "02318",
@@ -2423,8 +2472,9 @@
         {
           "title": "Diplomingeniør i Elektroteknologi",
           "core_name": "Elektroteknologi",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "type": "DPBSC",
-          "internal_id": "e_9782304812203",
+          "internal_id": "e_2530941231771",
           "course": {
             "internal_id": "c_16621802387916",
             "code": "02318",
@@ -2468,8 +2518,9 @@
         {
           "title": "IT-Elektronik",
           "core_name": "IT-Elektronik",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "type": "DPBSC",
-          "internal_id": "e_9782304812203",
+          "internal_id": "e_13283055887907",
           "course": {
             "internal_id": "c_15196426459751",
             "code": "62557",
@@ -2514,8 +2565,9 @@
         {
           "title": "Diplomingeniør i Maskinteknik",
           "core_name": "Maskinteknik",
+          "edu_type": "Mekanik, jern og metal",
           "type": "DPBSC",
-          "internal_id": "e_9782304812203",
+          "internal_id": "e_4543554842918",
           "course": {
             "internal_id": "c_15031542468580",
             "code": "62646",
@@ -2556,8 +2608,9 @@
         {
           "title": "Softwareteknologi",
           "core_name": "Softwareteknologi",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "type": "DPBSC",
-          "internal_id": "e_9782304812203",
+          "internal_id": "e_12601251493544",
           "course": {
             "internal_id": "c_15659048264582",
             "code": "02312",
@@ -2611,8 +2664,9 @@
         {
           "title": "Elektroteknologi",
           "core_name": "Elektroteknologi",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "type": "BSC",
-          "internal_id": "e_9782304812203",
+          "internal_id": "e_12168774500905",
           "course": {
             "internal_id": "c_15654462008325",
             "code": "02102",
@@ -2660,8 +2714,9 @@
         {
           "title": "Diplomingeniør i IT og Økonomi",
           "core_name": "IT og Økonomi",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "type": "DPBSC",
-          "internal_id": "e_9782304812203",
+          "internal_id": "e_2662588903855",
           "course": {
             "internal_id": "c_14697749926464",
             "code": "02314",
@@ -2713,8 +2768,9 @@
         {
           "title": "Bachelor i General Engineering",
           "core_name": "General Engineering",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "type": "BSC",
-          "internal_id": "e_9782304812203",
+          "internal_id": "e_12822410197131",
           "course": {
             "internal_id": "c_15507691826690",
             "code": "02631",
@@ -2762,8 +2818,9 @@
         {
           "title": "Bachelor i Bæredygtigt Energidesign",
           "core_name": "Bæredygtigt Energidesign",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "type": "BSC",
-          "internal_id": "e_9782304812203",
+          "internal_id": "e_12745701044291",
           "course": {
             "internal_id": "c_15507691826690",
             "code": "02631",
@@ -2811,8 +2868,9 @@
         {
           "title": "Master of Science (MSc) in Sustainable Fisheries and Aquaculture",
           "core_name": "Sustainable Fisheries and Aquaculture",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "type": "MSC",
-          "internal_id": "e_9782304812203",
+          "internal_id": "e_9647534137465",
           "course": {
             "internal_id": "c_16626068102346",
             "code": "25328",
@@ -2861,8 +2919,9 @@
         {
           "title": "Bachelor i Kunstig Intelligens og Data",
           "core_name": "Kunstig Intelligens og Data",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "type": "BSC",
-          "internal_id": "e_9782304812203",
+          "internal_id": "e_13335993281925",
           "course": {
             "internal_id": "c_15507691826690",
             "code": "02631",
@@ -2910,8 +2969,9 @@
         {
           "title": "Bachelor i Kemi og Teknologi",
           "core_name": "Kemi og Teknologi",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "type": "BSC",
-          "internal_id": "e_9782304812203",
+          "internal_id": "e_8563706642896",
           "course": {
             "internal_id": "c_15648885094049",
             "code": "02632",
@@ -2960,8 +3020,9 @@
         {
           "title": "Matematik og Teknologi",
           "core_name": "Matematik og Teknologi",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "type": "BSC",
-          "internal_id": "e_9782304812203",
+          "internal_id": "e_16078491379496",
           "course": {
             "internal_id": "c_14867518877318",
             "code": "02635",
@@ -3007,8 +3068,9 @@
         {
           "title": "Bachelor i Medicin og Teknologi",
           "core_name": "Medicin og Teknologi",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "type": "BSC",
-          "internal_id": "e_9782304812203",
+          "internal_id": "e_16758827699355",
           "course": {
             "internal_id": "c_15484438748326",
             "code": "02101",
@@ -3058,8 +3120,9 @@
         {
           "title": "Bachelor i Geofysik og Rumteknologi",
           "core_name": "Geofysik og Rumteknologi",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "type": "BSC",
-          "internal_id": "e_9782304812203",
+          "internal_id": "e_5656979270259",
           "course": {
             "internal_id": "c_15484438748326",
             "code": "02101",
@@ -3109,8 +3172,9 @@
         {
           "title": "Bachelor i Bygningsdesign",
           "core_name": "Bygningsdesign",
+          "edu_type": "Bygge- og anlægsteknik",
           "type": "BSC",
-          "internal_id": "e_9782304812203",
+          "internal_id": "e_1563740541943",
           "course": {
             "internal_id": "c_15809356660416",
             "code": "02633",
@@ -3159,8 +3223,9 @@
         {
           "title": "Bachelor i Cyberteknologi",
           "core_name": "Cyberteknologi",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "type": "BSC",
-          "internal_id": "e_9782304812203",
+          "internal_id": "e_5726421989757",
           "course": {
             "internal_id": "c_15654462008325",
             "code": "02102",
@@ -3208,8 +3273,9 @@
         {
           "title": "Diplomingeniør i Sundhedsteknologi",
           "core_name": "Sundhedsteknologi",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "type": "DPBSC",
-          "internal_id": "e_9782304812203",
+          "internal_id": "e_17231141385187",
           "course": {
             "internal_id": "c_15857523791855",
             "code": "02393",
@@ -3254,8 +3320,9 @@
         {
           "title": "Softwareteknologi",
           "core_name": "Softwareteknologi",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "type": "BSC",
-          "internal_id": "e_9782304812203",
+          "internal_id": "e_12601251493544",
           "course": {
             "internal_id": "c_15484438748326",
             "code": "02101",
@@ -3305,8 +3372,9 @@
         {
           "title": "Master of Science in Bioinformatics and Systems Biology",
           "core_name": "Bioniformatics and Systems Biology",
+          "edu_type": "Naturvidenskab",
           "type": "MSC",
-          "internal_id": "e_9782304812203",
+          "internal_id": "e_13838865107114",
           "course": {
             "code": "22100",
             "name": "R for Bio Data Science",
@@ -3354,8 +3422,9 @@
         {
           "title": "BSC in General Engineering",
           "core_name": "General Engineering",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "type": "BSC",
-          "internal_id": "e_9782304812203",
+          "internal_id": "e_17192623869675",
           "course": {
             "code": "01006",
             "name": "Advanced Engineering Mathematics 1",
@@ -3412,8 +3481,9 @@
         {
           "title": "Industrial Engineering and Management",
           "core_name": "Industrial Engineering and Management",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "type": "MSC",
-          "internal_id": "e_9782304812203",
+          "internal_id": "e_952113321047",
           "course": {
             "code": "42114",
             "name": "Integer Programming",
@@ -3469,8 +3539,9 @@
         {
           "title": "Diplomingeniør i Elektrisk Energiteknologi",
           "core_name": "Elektrisk Energiteknologi",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "type": "DPBSC",
-          "internal_id": "e_12193195703404",
+          "internal_id": "e_6000325133744",
           "course": {
             "internal_id": "c_8659108921874",
             "code": "T420026101",
@@ -3530,8 +3601,9 @@
         {
           "title": "Diplomingeniør i Mechanical / Maskinteknik",
           "core_name": "Mechanical / Maskinteknik",
+          "edu_type": "Mekanik, jern og metal",
           "type": "DPBSC",
-          "internal_id": "e_12193195703404",
+          "internal_id": "e_3712466966405",
           "course": {
             "internal_id": "c_16519525802558",
             "code": "T320009402",
@@ -3593,8 +3665,9 @@
         {
           "title": "Diplomingeniør i Softwareteknologi",
           "core_name": "Softwareteknologi",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "type": "DPBSC",
-          "internal_id": "e_12193195703404",
+          "internal_id": "e_16512690448029",
           "course": {
             "internal_id": "c_16481505715569",
             "code": "T510024102",
@@ -3655,8 +3728,9 @@
         {
           "title": "Biomedicin",
           "core_name": "Biomedicin",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "type": "BSC",
-          "internal_id": "e_12193195703404",
+          "internal_id": "e_9516429379571",
           "course": {
             "internal_id": "c_6754590287310",
             "code": "N360002102",
@@ -3727,8 +3801,9 @@
         {
           "title": "Biokemi og Molekylær Biologi",
           "core_name": "Biokemi og Molekylær Biologi",
+          "edu_type": "Naturvidenskab",
           "type": "MSC",
-          "internal_id": "e_12193195703404",
+          "internal_id": "e_14317046954648",
           "course": {
             "internal_id": "c_13921774316834",
             "code": "BMB830",
@@ -3772,8 +3847,9 @@
         },
         {
           "title": "Biomedicinsk informatik",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "type": "MSC",
-          "internal_id": "e_12193195703404",
+          "internal_id": "e_14530471546861",
           "course": {
             "internal_id": "c_13921774316834",
             "code": "BMB830",
@@ -3818,8 +3894,9 @@
         {
           "title": "Civilingeniør i Energisystemer",
           "core_name": "Energisystemer",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "type": "BSC",
-          "internal_id": "e_12193195703404",
+          "internal_id": "e_13427221881326",
           "course": {
             "internal_id": "c_10326963559731",
             "code": "T600005101",
@@ -3867,8 +3944,9 @@
         {
           "title": "Civilingeniør i Fysik og Teknologi",
           "core_name": "Fysik og Teknologi",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "type": "BSC",
-          "internal_id": "e_12193195703404",
+          "internal_id": "e_3288985978462",
           "course": {
             "internal_id": "c_10651605437979",
             "code": "T460018101",
@@ -3955,8 +4033,9 @@
         {
           "title": "Diplomingeniør i Mechatronics",
           "core_name": "Mechatronics",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "type": "DPBSC",
-          "internal_id": "e_12193195703404",
+          "internal_id": "e_16446830868408",
           "course": {
             "internal_id": "c_15881334775547",
             "code": "T340081401",
@@ -4010,8 +4089,9 @@
         {
           "title": "Skov- og Landskabsingeniør",
           "core_name": "Skov- og Landskabsingeniør",
+          "edu_type": "Jordbrug, skovbrug og fiskeri",
           "type": "DPBSC",
-          "internal_id": "e_12193195703404",
+          "internal_id": "e_8511335013461",
           "course": {
             "internal_id": "c_16886723467572",
             "code": "LSLS10127U",
@@ -4058,8 +4138,9 @@
         {
           "title": "Urban Landskabsingeniør",
           "core_name": "Urban Landskabsingeniør",
+          "edu_type": "Jordbrug, skovbrug og fiskeri",
           "type": "BSC",
-          "internal_id": "e_12193195703404",
+          "internal_id": "e_4480933912667",
           "course": {
             "internal_id": "c_16886723467572",
             "code": "LSLS10127U",
@@ -4106,8 +4187,9 @@
         {
           "title": "Civilingeniør i Bygningsteknik",
           "core_name": "Bygningsteknik",
+          "edu_type": "Bygge- og anlægsteknik",
           "type": "BSC",
-          "internal_id": "e_12193195703404",
+          "internal_id": "e_7423637049017",
           "course": {
             "internal_id": "c_9196168600500",
             "code": "T140023101",
@@ -4155,8 +4237,9 @@
         {
           "title": "Civilingeniør i Sundheds- og Velfærdsteknologi",
           "core_name": "Sundheds- og Velfærdsteknologi",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "type": "BSC",
-          "internal_id": "e_12193195703404",
+          "internal_id": "e_7563993263377",
           "course": {
             "internal_id": "c_152121129343",
             "code": "T580013101",
@@ -4211,8 +4294,9 @@
         {
           "title": "Diplomingeniør i Elektronik",
           "core_name": "Elektronik",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "type": "DPBSC",
-          "internal_id": "e_12193195703404",
+          "internal_id": "e_12765109019494",
           "course": {
             "internal_id": "c_8659108921874",
             "code": "T420026101",
@@ -4272,8 +4356,9 @@
         {
           "title": "Diplomingeniør i Electronics",
           "core_name": "Electronics",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "type": "DPBSC",
-          "internal_id": "e_12193195703404",
+          "internal_id": "e_7903116026293",
           "course": {
             "internal_id": "c_15881334775547",
             "code": "T340081401",
@@ -4327,8 +4412,9 @@
         {
           "title": "Informations-videnskab, IT og Interaktionsdesign",
           "core_name": "Informations-videnskab, IT og Interaktionsdesign",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "type": "BSC",
-          "internal_id": "e_12193195703404",
+          "internal_id": "e_6772637248229",
           "course": {
             "internal_id": "c_5126594447875",
             "code": "H810027201",
@@ -4369,8 +4455,9 @@
         {
           "title": "Anvendt Matematik",
           "core_name": "Anvendt Matematik",
+          "edu_type": "Naturvidenskab",
           "type": "BSC",
-          "internal_id": "e_12193195703404",
+          "internal_id": "e_4564767121427",
           "course": {
             "internal_id": "c_4361251444206",
             "code": "N330004101",
@@ -4411,8 +4498,9 @@
         {
           "title": "Kunstig Intelligens",
           "core_name": "Kunstig Intelligens",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "type": "BSC",
-          "internal_id": "e_12193195703404",
+          "internal_id": "e_6253140204559",
           "course": {
             "internal_id": "c_14725699159563",
             "code": "DM574",
@@ -4462,8 +4550,9 @@
         {
           "title": "Biokemi og Molekylær Biologi",
           "core_name": "Biokemi og Molekylær Biologi",
+          "edu_type": "Naturvidenskab",
           "type": "BSC",
-          "internal_id": "e_12193195703404",
+          "internal_id": "e_14317046954648",
           "course": {
             "internal_id": "c_8410861574543",
             "code": "BMB547",
@@ -4531,8 +4620,9 @@
         {
           "title": "Diplomingeniør i Robotteknologi",
           "core_name": "Robotteknologi",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "type": "DPBSC",
-          "internal_id": "e_12193195703404",
+          "internal_id": "e_4952456892022",
           "course": {
             "internal_id": "c_1280462211216",
             "code": "T530035101",
@@ -4582,8 +4672,9 @@
         {
           "title": "Civillingeniør i Software Engineering",
           "core_name": "Software Engineering",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "type": "BSC",
-          "internal_id": "e_12193195703404",
+          "internal_id": "e_15227330595668",
           "course": {
             "internal_id": "c_16481505715569",
             "code": "T510024102",
@@ -4644,8 +4735,9 @@
         {
           "title": "Civillingeniør i Software Engineering (Sønderborg)",
           "core_name": "Software Engineering",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "type": "BSC",
-          "internal_id": "e_12193195703404",
+          "internal_id": "e_6288983120443",
           "course": {
             "internal_id": "c_8744402843665",
             "code": "T630001401",
@@ -4707,8 +4799,9 @@
         {
           "title": "Civilingeniør i Spiludvikling og Læringsteknologi",
           "core_name": "Spiludvikling og Læringsteknologi",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "type": "BSC",
-          "internal_id": "e_12193195703404",
+          "internal_id": "e_15987885613012",
           "course": {
             "internal_id": "c_16481505715569",
             "code": "T510024102",
@@ -4769,8 +4862,9 @@
         {
           "title": "Civilingeniør i Maskinteknik (Odense)",
           "core_name": "Maskinteknik",
+          "edu_type": "Mekanik, jern og metal",
           "type": "BSC",
-          "internal_id": "e_12193195703404",
+          "internal_id": "e_3094132818780",
           "course": {
             "internal_id": "c_10327824503090",
             "code": "T160005101",
@@ -4820,8 +4914,9 @@
         {
           "title": "Civilingeniør i Mechanical / Maskinteknik (Sønderborg)",
           "core_name": "Mechanical / Maskinteknik",
+          "edu_type": "Mekanik, jern og metal",
           "type": "BSC",
-          "internal_id": "e_12193195703404",
+          "internal_id": "e_13236246993440",
           "course": {
             "internal_id": "c_16519525802558",
             "code": "T320009402",
@@ -4883,8 +4978,9 @@
         {
           "title": "Datalogi",
           "core_name": "Datalogi",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "type": "BSC",
-          "internal_id": "e_12193195703404",
+          "internal_id": "e_5103293132875",
           "course": {
             "internal_id": "c_14725699159563",
             "code": "DM574",
@@ -4934,8 +5030,9 @@
         {
           "title": "Matematik",
           "core_name": "Matematik",
+          "edu_type": "Naturvidenskab",
           "type": "BSC",
-          "internal_id": "e_12193195703404",
+          "internal_id": "e_5987414620113",
           "course": {
             "internal_id": "c_4361251444206",
             "code": "N330004101",
@@ -4976,8 +5073,9 @@
         {
           "title": "Civilingeniør i Robotteknologi",
           "core_name": "Robotteknologi",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "type": "BSC",
-          "internal_id": "e_12193195703404",
+          "internal_id": "e_5082166554524",
           "course": {
             "internal_id": "c_8071308018172",
             "code": "T540049101",
@@ -5024,8 +5122,9 @@
         {
           "title": "Civilingeniør i Operations Management",
           "core_name": "Operations Management",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "type": "MSC",
-          "internal_id": "e_12193195703404",
+          "internal_id": "e_8831925686203",
           "course": {
             "internal_id": "c_10327699433938",
             "code": "T070005101",
@@ -5075,8 +5174,9 @@
         {
           "title": "Matematik-Økonomi",
           "core_name": "Matematik-Økonomi",
+          "edu_type": "Naturvidenskab",
           "type": "BSC",
-          "internal_id": "e_12193195703404",
+          "internal_id": "e_13291177389317",
           "course": {
             "internal_id": "c_10243911923919",
             "code": "N300042101",
@@ -5126,8 +5226,9 @@
         {
           "title": "Bachelor i Økonomi",
           "core_name": "Økonomi",
+          "edu_type": "Samfundsvidenskab",
           "type": "BSC",
-          "internal_id": "e_12193195703404",
+          "internal_id": "e_5984848356538",
           "course": {
             "internal_id": "c_9196188716646",
             "code": "B540023101",
@@ -5184,8 +5285,9 @@
         {
           "title": "Computational biomedicine",
           "core_name": "Computational biomedicine",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "type": "MSC",
-          "internal_id": "e_12193195703404",
+          "internal_id": "e_1168373986742",
           "course": {
             "code": "N340105101",
             "name": "Introduction to programming",
@@ -5251,8 +5353,9 @@
         {
           "title": "Elektrisk Energiteknologi",
           "core_name": "Elektrisk Energiteknologi",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "type": "DPBSC",
-          "internal_id": "e_7917332709626",
+          "internal_id": "e_12414216888180",
           "course": {
             "internal_id": "c_2168735847088",
             "code": "EH1GPR1-01",
@@ -5303,8 +5406,9 @@
         {
           "title": "Softwareteknologi",
           "core_name": "Softwareteknologi",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "type": "DPBSC",
-          "internal_id": "e_7917332709626",
+          "internal_id": "e_5228806026617",
           "course": {
             "internal_id": "c_7916247623751",
             "code": "SW1OPRG-01",
@@ -5359,8 +5463,9 @@
         {
           "title": "Elektroteknologi",
           "core_name": "Elektroteknologi",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "type": "BSC",
-          "internal_id": "e_7917332709626",
+          "internal_id": "e_9241680175192",
           "course": {
             "internal_id": "c_16791579788566",
             "code": "285191U010",
@@ -5400,8 +5505,9 @@
         {
           "title": "Digital Design -  IT, Æstetik og Interaktion",
           "core_name": "Digital Design -  IT, Æstetik og Interaktion",
+          "edu_type": "Samfundsvidenskab",
           "type": "BSC",
-          "internal_id": "e_7917332709626",
+          "internal_id": "e_13838568895548",
           "course": {
             "internal_id": "c_12938233819227",
             "code": "145181U013",
@@ -5448,8 +5554,9 @@
         {
           "title": "Bioteknologi",
           "core_name": "Bioteknologi",
+          "edu_type": "Naturvidenskab",
           "type": "BSC",
-          "internal_id": "e_7917332709626",
+          "internal_id": "e_1029192648466",
           "course": {
             "internal_id": "c_10782771304721",
             "code": "275221U001",
@@ -5488,8 +5595,9 @@
         {
           "title": "Molekylær Medicin",
           "core_name": "Molekylær Medicin",
+          "edu_type": "Naturvidenskab",
           "type": "BSC",
-          "internal_id": "e_7917332709626",
+          "internal_id": "e_4386189862144",
           "course": {
             "internal_id": "c_16469609457138",
             "code": "555171U010",
@@ -5533,8 +5641,9 @@
         {
           "title": "Molekylærbiologi",
           "core_name": "Molekylærbiologi",
+          "edu_type": "Naturvidenskab",
           "type": "BSC",
-          "internal_id": "e_7917332709626",
+          "internal_id": "e_9492761890856",
           "course": {
             "internal_id": "c_16469609457138",
             "code": "555171U010",
@@ -5578,8 +5687,9 @@
         {
           "title": "Fysik",
           "core_name": "Fysik",
+          "edu_type": "Naturvidenskab",
           "type": "BSC",
-          "internal_id": "e_7917332709626",
+          "internal_id": "e_9087557892206",
           "course": {
             "internal_id": "c_14833535717597",
             "code": "525171U009",
@@ -5638,8 +5748,9 @@
         {
           "title": "Elektronik (Herning)",
           "core_name": "Elektronik",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "type": "DPBSC",
-          "internal_id": "e_7917332709626",
+          "internal_id": "e_17273664366482",
           "course": {
             "internal_id": "c_2168735847088",
             "code": "EH1GPR1-01",
@@ -5690,8 +5801,9 @@
         {
           "title": "Elektronik",
           "core_name": "Elektronik",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "type": "DPBSC",
-          "internal_id": "e_7917332709626",
+          "internal_id": "e_1128721154210",
           "course": {
             "internal_id": "c_13036027405254",
             "code": "E1OPRG-01",
@@ -5743,8 +5855,9 @@
         {
           "title": "Computerteknologi",
           "core_name": "Computerteknologi",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "type": "BSC",
-          "internal_id": "e_7917332709626",
+          "internal_id": "e_6070937926193",
           "course": {
             "internal_id": "c_12476780347221",
             "code": "285191U013",
@@ -5782,8 +5895,9 @@
         {
           "title": "Agrobiologi",
           "core_name": "Agrobiologi",
+          "edu_type": "Jordbrug, skovbrug og fiskeri",
           "type": "BSC",
-          "internal_id": "e_7917332709626",
+          "internal_id": "e_6351926196210",
           "course": {
             "internal_id": "c_10782779302448",
             "code": "515221U001",
@@ -5842,8 +5956,9 @@
         {
           "title": "Datavidenskab",
           "core_name": "Datavidenskab",
+          "edu_type": "Naturvidenskab",
           "type": "BSC",
-          "internal_id": "e_7917332709626",
+          "internal_id": "e_8899901250011",
           "course": {
             "internal_id": "c_8348447859241",
             "code": "50191U004",
@@ -5882,8 +5997,9 @@
         {
           "title": "IT-Produktudvikling",
           "core_name": "IT-Produktudvikling",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "type": "BSC",
-          "internal_id": "e_7917332709626",
+          "internal_id": "e_8584389615002",
           "course": {
             "internal_id": "c_11889968982704",
             "code": "520171U001",
@@ -5926,8 +6042,9 @@
         {
           "title": "Cognitive Science",
           "core_name": "Cognitive Science",
+          "edu_type": "Naturvidenskab",
           "type": "BSC",
-          "internal_id": "e_7917332709626",
+          "internal_id": "e_12939197479382",
           "course": {
             "internal_id": "c_13425680322553",
             "code": "147201U009",
@@ -5971,8 +6088,9 @@
         {
           "title": "Geoscience",
           "core_name": "Geoscience",
+          "edu_type": "Naturvidenskab",
           "type": "BSC",
-          "internal_id": "e_7917332709626",
+          "internal_id": "e_6505204999641",
           "course": {
             "internal_id": "c_8936549593202",
             "code": "535201U003",
@@ -6015,8 +6133,9 @@
         {
           "title": "Informationsvidenskab",
           "core_name": "Informationsvidenskab",
+          "edu_type": "Samfundsvidenskab",
           "type": "BSC",
-          "internal_id": "e_7917332709626",
+          "internal_id": "e_14715410918004",
           "course": {
             "internal_id": "c_4648970949947",
             "code": "145181U002",
@@ -6070,8 +6189,9 @@
         {
           "title": "Kemiteknologi",
           "core_name": "Kemiteknologi",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "type": "BSC",
-          "internal_id": "e_7917332709626",
+          "internal_id": "e_16256178723452",
           "course": {
             "internal_id": "c_10782771304721",
             "code": "275221U001",
@@ -6110,8 +6230,9 @@
         {
           "title": "Mekanik",
           "core_name": "Mekanik",
+          "edu_type": "Mekanik, jern og metal",
           "type": "BSC",
-          "internal_id": "e_7917332709626",
+          "internal_id": "e_13270946748366",
           "course": {
             "internal_id": "c_11016577412666",
             "code": "290201U021",
@@ -6158,8 +6279,9 @@
         {
           "title": "Datalogi",
           "core_name": "Datalogi",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "type": "BSC",
-          "internal_id": "e_7917332709626",
+          "internal_id": "e_9684668043933",
           "course": {
             "internal_id": "c_542385285388",
             "code": "DSNDATFB105",
@@ -6209,8 +6331,9 @@
         {
           "title": "Datalogi",
           "core_name": "Datalogi",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "type": "BSC",
-          "internal_id": "e_7917332709626",
+          "internal_id": "e_9684668043933",
           "course": {
             "internal_id": "c_11889968982704",
             "code": "520171U001",
@@ -6253,8 +6376,9 @@
         {
           "title": "Kemiteknologi",
           "core_name": "Kemiteknologi",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "type": "DPBSC",
-          "internal_id": "e_7917332709626",
+          "internal_id": "e_16256178723452",
           "course": {
             "internal_id": "c_275960815955",
             "code": "27517PU026",
@@ -6302,8 +6426,9 @@
         {
           "title": "Matematik",
           "core_name": "Matematik",
+          "edu_type": "Naturvidenskab",
           "type": "BSC",
-          "internal_id": "e_7917332709626",
+          "internal_id": "e_10214146755783",
           "course": {
             "internal_id": "c_8875074549883",
             "code": "520171U028",
@@ -6346,8 +6471,9 @@
         {
           "title": "Biologi",
           "core_name": "Biologi",
+          "edu_type": "Naturvidenskab",
           "type": "BSC",
-          "internal_id": "e_7917332709626",
+          "internal_id": "e_9358723030857",
           "course": {
             "internal_id": "c_10782779302448",
             "code": "515221U001",
@@ -6406,8 +6532,9 @@
         {
           "title": "Bioinformatik",
           "core_name": "Bioinformatik",
+          "edu_type": "Naturvidenskab",
           "type": "MSC",
-          "internal_id": "e_7917332709626",
+          "internal_id": "e_13623696654818",
           "course": {
             "internal_id": "c_11117189015350",
             "code": "NMAK14029U",
@@ -6447,8 +6574,9 @@
         {
           "title": "Sundhedsteknologi",
           "core_name": "Sundhedsteknologi",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "type": "DPBSC",
-          "internal_id": "e_7917332709626",
+          "internal_id": "e_12352400824192",
           "course": {
             "internal_id": "c_17595349147966",
             "code": "28514PU162",
@@ -6491,8 +6619,9 @@
         {
           "title": "IT, Kommunikation og Organisation",
           "core_name": "IT, Kommunikation og Organisation",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "type": "MSC",
-          "internal_id": "e_7917332709626",
+          "internal_id": "e_8207588538059",
           "course": {
             "internal_id": "c_10986565875763",
             "code": "450202U003",
@@ -6536,8 +6665,9 @@
         {
           "title": "Matematik-Økonomi",
           "core_name": "Matematik-Økonomi",
+          "edu_type": "Naturvidenskab",
           "type": "BSC",
-          "internal_id": "e_7917332709626",
+          "internal_id": "e_524830714131",
           "course": {
             "internal_id": "c_8875074549883",
             "code": "520171U028",
@@ -6580,8 +6710,9 @@
         {
           "title": "Byggeri",
           "core_name": "Byggeri",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "type": "BSC",
-          "internal_id": "e_7917332709626",
+          "internal_id": "e_17197540011077",
           "course": {
             "code": "280201U001",
             "name": "Digitale værktøjer i byggeriet",
@@ -6634,8 +6765,9 @@
         {
           "title": "Diplomingeniør i Maskinteknologi",
           "core_name": "Maskinteknologi",
+          "edu_type": "Mekanik, jern og metal",
           "type": "DPBSC",
-          "internal_id": "e_5726952407095",
+          "internal_id": "e_10958659098906",
           "course": {
             "internal_id": "c_1859847161034",
             "code": "Projekt 3 - Automatik, Elektronik og Programmering",
@@ -6721,8 +6853,9 @@
         {
           "title": "Softwareingeniør",
           "core_name": "Softwareteknologi",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "type": "DPBSC",
-          "internal_id": "e_5715875065104",
+          "internal_id": "e_10816376934605",
           "course": {
             "internal_id": "c_10644502598129",
             "code": "SW-SDJ1",
@@ -6779,8 +6912,9 @@
         {
           "title": "Informatik",
           "core_name": "Informatik",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "type": "BSC",
-          "internal_id": "e_7765956999818",
+          "internal_id": "e_8604908715958",
           "course": {
             "internal_id": "c_15664146710233",
             "code": "Fagmodulprojekt i Informatik",
@@ -6827,8 +6961,9 @@
         {
           "title": "Molecular Health Science",
           "core_name": "Molecular Health Science",
+          "edu_type": "Naturvidenskab",
           "type": "MSC",
-          "internal_id": "e_7765956999818",
+          "internal_id": "e_3786894252378",
           "course": {
             "internal_id": "c_3302979450839",
             "code": "U60176",
@@ -6882,8 +7017,9 @@
         {
           "title": "Chemical Biology",
           "core_name": "Chemical Biology",
+          "edu_type": "Naturvidenskab",
           "type": "MSC",
-          "internal_id": "e_7765956999818",
+          "internal_id": "e_6250116200173",
           "course": {
             "internal_id": "c_9564750352349",
             "code": "Applied Data Science and Data Visualisation",
@@ -6930,8 +7066,9 @@
         {
           "title": "Datalogi",
           "core_name": "Datalogi",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "type": "BSC",
-          "internal_id": "e_7765956999818",
+          "internal_id": "e_15587013026093",
           "course": {
             "internal_id": "c_9263878432503",
             "code": "Fagmodulkursus 1: Essential Computing",
@@ -6971,8 +7108,9 @@
         {
           "title": "Physics and Scientific Modelling",
           "core_name": "Physics and Scientific Modelling",
+          "edu_type": "Naturvidenskab",
           "type": "MSC",
-          "internal_id": "e_7765956999818",
+          "internal_id": "e_7426698601424",
           "course": {
             "internal_id": "c_14843731445151",
             "code": "U60190",
@@ -7023,8 +7161,9 @@
         {
           "title": "Agriculture",
           "core_name": "Agriculture",
+          "edu_type": "Jordbrug, skovbrug og fiskeri",
           "type": "MSC",
-          "internal_id": "e_1878915026416",
+          "internal_id": "e_12172544919099",
           "course": {
             "internal_id": "c_11713331283326",
             "code": "NMAK14003U",
@@ -7077,8 +7216,9 @@
         {
           "title": "Environmental Science",
           "core_name": "Environmental Science",
+          "edu_type": "Naturvidenskab",
           "type": "MSC",
-          "internal_id": "e_1878915026416",
+          "internal_id": "e_14810913406502",
           "course": {
             "internal_id": "c_11713331283326",
             "code": "NMAK14003U",
@@ -7131,8 +7271,9 @@
         {
           "title": "Environment and Development",
           "core_name": "Environment and Development",
+          "edu_type": "Jordbrug, skovbrug og fiskeri",
           "type": "MSC",
-          "internal_id": "e_1878915026416",
+          "internal_id": "e_9216762644103",
           "course": {
             "internal_id": "c_11713331283326",
             "code": "NMAK14003U",
@@ -7185,8 +7326,9 @@
         {
           "title": "Global Environment and Development",
           "core_name": "Global Environment and Development",
+          "edu_type": "Jordbrug, skovbrug og fiskeri",
           "type": "MSC",
-          "internal_id": "e_1878915026416",
+          "internal_id": "e_7904754851820",
           "course": {
             "internal_id": "c_11713331283326",
             "code": "NMAK14003U",
@@ -7239,8 +7381,9 @@
         {
           "title": "Bacheloruddannelsen i Fysik",
           "core_name": "Fysik",
+          "edu_type": "Naturvidenskab",
           "type": "BSC",
-          "internal_id": "e_1878915026416",
+          "internal_id": "e_6270734027892",
           "course": {
             "internal_id": "c_13829794695470",
             "code": "NFYA06018U",
@@ -7294,8 +7437,9 @@
         {
           "title": "Bacheloruddannelsen i Kemi",
           "core_name": "Kemi",
+          "edu_type": "Naturvidenskab",
           "type": "BSC",
-          "internal_id": "e_1878915026416",
+          "internal_id": "e_494196830256",
           "course": {
             "internal_id": "c_13829794695470",
             "code": "NFYA06018U",
@@ -7349,8 +7493,9 @@
         {
           "title": "Kandidat i Social Datavidenskab",
           "core_name": "Social Datavidenskab",
+          "edu_type": "Samfundsvidenskab",
           "type": "MSC",
-          "internal_id": "e_1878915026416",
+          "internal_id": "e_12801475801851",
           "course": {
             "internal_id": "c_8066378139087",
             "code": "ASDK20001U",
@@ -7406,8 +7551,9 @@
         {
           "title": "Bachelor i Kommunikation og IT",
           "core_name": "Kommunikation og IT",
+          "edu_type": "Samfundsvidenskab",
           "type": "BSC",
-          "internal_id": "e_1878915026416",
+          "internal_id": "e_14152722335722",
           "course": {
             "internal_id": "c_9099365413849",
             "code": "HKMB00271U",
@@ -7450,8 +7596,9 @@
         {
           "title": "Bioteknologi",
           "core_name": "Bioteknologi",
+          "edu_type": "Naturvidenskab",
           "type": "BSC",
-          "internal_id": "e_1878915026416",
+          "internal_id": "e_397214837592",
           "course": {
             "internal_id": "c_2869847947410",
             "code": "LMAB10066U",
@@ -7509,8 +7656,9 @@
         {
           "title": "Bachelor i Fødevarer og Ernæring",
           "core_name": "Bachelor i Fødevarer og Ernæring",
+          "edu_type": "Social og sundhed",
           "type": "BSC",
-          "internal_id": "e_1878915026416",
+          "internal_id": "e_12512874383607",
           "course": {
             "internal_id": "c_2869847947410",
             "code": "LMAB10066U",
@@ -7568,8 +7716,9 @@
         {
           "title": "Bachelor i Husdyrvidenskab",
           "core_name": "Bachelor i Husdyrvidenskab",
+          "edu_type": "Jordbrug, skovbrug og fiskeri",
           "type": "BSC",
-          "internal_id": "e_1878915026416",
+          "internal_id": "e_3405464825557",
           "course": {
             "internal_id": "c_2869847947410",
             "code": "LMAB10066U",
@@ -7627,8 +7776,9 @@
         {
           "title": "Bachelor i Miljø- og Fødevareøkonomi",
           "core_name": "Miljø- og Fødevareøkonomi",
+          "edu_type": "Jordbrug, skovbrug og fiskeri",
           "type": "BSC",
-          "internal_id": "e_1878915026416",
+          "internal_id": "e_13779875068038",
           "course": {
             "internal_id": "c_2869847947410",
             "code": "LMAB10066U",
@@ -7686,8 +7836,9 @@
         {
           "title": "Bachelor i Naturressourcer",
           "core_name": "Naturressourcer",
+          "edu_type": "Naturvidenskab",
           "type": "BSC",
-          "internal_id": "e_1878915026416",
+          "internal_id": "e_10922828358664",
           "course": {
             "internal_id": "c_2869847947410",
             "code": "LMAB10066U",
@@ -7745,8 +7896,9 @@
         {
           "title": "Bachelor i Geologi-Geogscience",
           "core_name": "Geologi-Geogscience",
+          "edu_type": "Naturvidenskab",
           "type": "BSC",
-          "internal_id": "e_1878915026416",
+          "internal_id": "e_9400434270028",
           "course": {
             "internal_id": "c_15646175958677",
             "code": "NIGB21027U",
@@ -7807,8 +7959,9 @@
         {
           "title": "Bachelor i Datalogi",
           "core_name": "Datalogi",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "type": "BSC",
-          "internal_id": "e_1878915026416",
+          "internal_id": "e_10878707007842",
           "course": {
             "internal_id": "c_1073101482293",
             "code": "NDAB15009U",
@@ -7859,8 +8012,9 @@
         {
           "title": "Bachelor i Datalogi-Økonomi",
           "core_name": "Datalogi-Økonomi",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "type": "BSC",
-          "internal_id": "e_1878915026416",
+          "internal_id": "e_13894325010102",
           "course": {
             "internal_id": "c_1073101482293",
             "code": "NDAB15009U",
@@ -7911,8 +8065,9 @@
         {
           "title": "Bachelor i Machinelearning og Datavidenskab",
           "core_name": "Machinelearning og Datavidenskab",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "type": "BSC",
-          "internal_id": "e_1878915026416",
+          "internal_id": "e_7203026362269",
           "course": {
             "internal_id": "c_1073101482293",
             "code": "NDAB15009U",
@@ -7963,8 +8118,9 @@
         {
           "title": "Bachelor i Kognitions- og Datavidenskab",
           "core_name": "Kognitions- og Datavidenskab",
+          "edu_type": "Naturvidenskab",
           "type": "BSC",
-          "internal_id": "e_1878915026416",
+          "internal_id": "e_6667327095658",
           "course": {
             "internal_id": "c_1073101482293",
             "code": "NDAB15009U",
@@ -8015,8 +8171,9 @@
         {
           "title": "Bachelor i Nanoscience",
           "core_name": "Nanoscience",
+          "edu_type": "Naturvidenskab",
           "type": "BSC",
-          "internal_id": "e_1878915026416",
+          "internal_id": "e_732980471941",
           "course": {
             "internal_id": "c_4531627025650",
             "code": "NKEB23000U",
@@ -8064,8 +8221,9 @@
         {
           "title": "Bachelor i Sundhed og Informatik",
           "core_name": "Sundhed og Informatik",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "type": "BSC",
-          "internal_id": "e_1878915026416",
+          "internal_id": "e_13358367227028",
           "course": {
             "internal_id": "c_12313396195096",
             "code": "NDAB21003U",
@@ -8121,8 +8279,9 @@
         {
           "title": "Økonomi",
           "core_name": "Økonomi",
+          "edu_type": "Samfundsvidenskab",
           "type": "MSC",
-          "internal_id": "e_1878915026416",
+          "internal_id": "e_4369136966803",
           "course": {
             "internal_id": "c_14033226883813",
             "code": "AØKA08186U",
@@ -8171,8 +8330,9 @@
         {
           "title": "Kandidat i Bioinformatik",
           "core_name": "Bioinformatik",
+          "edu_type": "Naturvidenskab",
           "type": "MSC",
-          "internal_id": "e_1878915026416",
+          "internal_id": "e_3125505513465",
           "course": {
             "internal_id": "c_11117189015350",
             "code": "NMAK14029U",
@@ -8238,8 +8398,9 @@
         {
           "title": "Kandidat i Molekylær Biomedicin",
           "core_name": "Molekylær Biomedicin",
+          "edu_type": "Naturvidenskab",
           "type": "MSC",
-          "internal_id": "e_1878915026416",
+          "internal_id": "e_11946627172639",
           "course": {
             "internal_id": "c_27021238109",
             "code": "NBIA08011U",
@@ -8300,8 +8461,9 @@
         {
           "title": "Bachelor i Biokemi",
           "core_name": "Biokemi",
+          "edu_type": "Naturvidenskab",
           "type": "BSC",
-          "internal_id": "e_1878915026416",
+          "internal_id": "e_6801075698705",
           "course": {
             "internal_id": "c_1139253817246",
             "code": "NMAA08015U",
@@ -8354,8 +8516,9 @@
         {
           "title": "Bachelor i Geografi og Geoinformatik",
           "core_name": "Geografi og Geoinformatik",
+          "edu_type": "Naturvidenskab",
           "type": "BSC",
-          "internal_id": "e_1878915026416",
+          "internal_id": "e_8957778047210",
           "course": {
             "internal_id": "c_1001217505367",
             "code": "NGEA04069U",
@@ -8413,8 +8576,9 @@
         {
           "title": "Bachelor i Matematik-Økonomi",
           "core_name": "Matematik-Økonomi",
+          "edu_type": "Naturvidenskab",
           "type": "BSC",
-          "internal_id": "e_1878915026416",
+          "internal_id": "e_3824450303468",
           "course": {
             "internal_id": "c_7776846392254",
             "code": "NMAA09014U",
@@ -8476,8 +8640,9 @@
         {
           "title": "Bachelor i Økonomi",
           "core_name": "Økonomi",
+          "edu_type": "Samfundsvidenskab",
           "type": "BSC",
-          "internal_id": "e_1878915026416",
+          "internal_id": "e_16944562349478",
           "course": {
             "internal_id": "c_5579473375905",
             "code": "AØKB08019U",
@@ -8553,8 +8718,9 @@
         {
           "title": "Ha(Mat.) Erhvervsøkonomi - Matematik",
           "core_name": "Erhvervsøkonomi - Matematik",
+          "edu_type": "Erhvervsøkonomi, administration og jura",
           "type": "BSC",
-          "internal_id": "e_14124979143868",
+          "internal_id": "e_5771298106320",
           "course": {
             "internal_id": "c_12620953598657",
             "code": "BA-BMECO1900U",
@@ -8602,8 +8768,9 @@
         {
           "title": "MSc in Business Adminstration and Digital Business",
           "core_name": "Business Adminstration and Digital Business",
+          "edu_type": "Erhvervsøkonomi, administration og jura",
           "type": "MSC",
-          "internal_id": "e_14124979143868",
+          "internal_id": "e_1340409907562",
           "course": {
             "internal_id": "c_13280121567144",
             "code": "KAN-CBUSO1801U",
@@ -8652,8 +8819,9 @@
         {
           "title": "HA(it.) - Erhvervsøkonomi - Informationsteknologi",
           "core_name": "Erhvervsøkonomi - Informationsteknologi",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "type": "BSC",
-          "internal_id": "e_14124979143868",
+          "internal_id": "e_807901473078",
           "course": {
             "internal_id": "c_9582746751090",
             "code": "BA-BINTO1064U",
@@ -8711,8 +8879,9 @@
         {
           "title": "BSc in Business Administration and Digital Management",
           "core_name": "Business Administration and Digital Management",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "type": "BSC",
-          "internal_id": "e_14124979143868",
+          "internal_id": "e_1769685199929",
           "course": {
             "internal_id": "c_3519802756842",
             "code": "BA-BDMAO1023U",
@@ -8759,113 +8928,23 @@
         {
           "title": "HA i Europæisk Business",
           "core_name": "Europæisk Business",
+          "edu_type": "Erhvervsøkonomi, administration og jura",
           "type": "BSC",
-          "internal_id": "e_14124979143868",
-          "course": {
-            "internal_id": "c_8692992716292",
-            "code": "BA-BHAAO1593U",
-            "name": "Statistik",
-            "contents": {
-              "type": "A",
-              "objectives": [
-                "Identificere og afgrænse en given statistisk problemstilling, herunder klart identificere nødvendig og tilstrækkelig information til at kunne gennemføre en given statistisk analyse.",
-                "Klart og præcist anvende grafiske og numeriske metoder til at opsummere og gengive de væsentligste tendenser og sammenhænge i et givet datamateriale.",
-                "Udførligt motivere valg af en relevant statistisk analysemetode til brug for analyse af et givet datamateriale.",
-                "Demonstrere korrekt brug af sandsynlighedsregningens grundbegreber og anvendelse af disse til identifikation af den usikkerhed, der eksisterer i et givet datamateriale.",
-                "Detaljeret redegøre for nødvendige og tilstrækkelige forudsætninger ved brug af en given statistisk analysemetode, kontrollere i hvilket omfang disse er opfyldt samt vurdere betydningen af eventuelt ikke opfyldte forudsætninger.",
-                "Kort og præcist redegøre for de bagvedliggende beregninger i en given statistisk analysemetode, herunder redegøre for de teoretiske og modelmæssige forudsætninger.",
-                "Foretage detaljerede konsekvensberegninger på baggrund af en estimeret statistisk model og præcist vurdere validitet og usikkerhed på disse beregninger.",
-                "Drage konkrete og præcise konklusioner på baggrund af en given statistisk analyse og kommunikere disse i et klart, fagligt korrekt og ikke-teknisk sprog."
-              ],
-              "contents": [
-                "Deskriptiv statistik",
-                "Grundlæggende sandsynlighedsregning",
-                "Diskrete og kontinuerte sandsynlighedsfordelinger",
-                "Konfidensintervaller og hypotesetest",
-                "Simpel og multipel regressionsanalyse",
-                "Kontingenstabeller, en- og tosidet variansanalyse",
-                "Bi- og multinomial logistisk regression",
-                "Tidsrækkens grundkomponenter",
-                "Eksponentielle udjævningsmetoder",
-                "Box-Jenkins ARIMA modeller",
-                "Forecasting med ARIMA fejlled",
-                "Dynamisk regression"
-              ]
-            },
-            "size": 15,
-            "time": {
-              "absolute": true,
-              "lectures_exercises": 332,
-              "exam": 80
-            },
-            "mandatory_activities": [
-              "unknown"
-            ],
-            "exam": {
-              "prerequisites": "unknown",
-              "type": "Prøven i faget består af fire delprøver. 10pct: Skriftligt produkt udarbejdet hjemme (individuel). 10pct: Skriftligt produkt udarbejdet hjemme (individuel). 40pct: Eksamen afholdes som en 4 timers skriftlig hjemmeopgave (midtvejsprøve). Der er ingen begrænsning på omfang, de studerende har 4 timer til deres rådighed. 40pct: Skriftlig stedprøve. 4 timer.",
-              "grading": "point",
-              "aids": "all"
-            },
-            "extended_description": "unknown"
-          }
+          "internal_id": "e_15866137864810"
         },
         {
           "title": "HA i Markeds- og Kulturanalyse",
           "core_name": "Markeds- og Kulturanalyse",
+          "edu_type": "Erhvervsøkonomi, administration og jura",
           "type": "BSC",
-          "internal_id": "e_14124979143868",
-          "course": {
-            "internal_id": "c_2472696176525",
-            "code": "BA-BINBO1139U",
-            "name": "Statistics",
-            "contents": {
-              "type": "A",
-              "objectives": [
-                "The goal is to enable the students to interpret, understand and apply basic statistical concepts as they apply in scientific research as well as in everyday life.",
-                "The students will become familiar with basic probability theory as a model for randomness, concepts of statistical inference as well as a number of concrete estimators, confidence intervals and test. Statistical software will be introduced.",
-                "Identify key theories, models and concepts of probability and statistics.",
-                "Use graphical and numerical methods for exploring and summarizing data on a single categorical or quantitative variable.",
-                "Describe basic probability and how probability helps us understand randomness in our lives, as well as grasp the crucial concept of a sampling distribution and how it relates to inference methods.",
-                "Choose and justify appropriate descriptive and inferential methods for examining and analyzing data and drawing conclusions.",
-                "Analysis of the association between categorical, discrete, and continuous variables, using contingency tables, correlation, regressions, and analysis of variance.",
-                "Communicate the conclusions of statistical analysis clearly and effectively, i.e identify connections between basic statistics and the real world."
-              ],
-              "contents": [
-                "The basic laws of probability and the most important probability distributions.",
-                "Descriptive statistics, both numerical and graphical.",
-                "Statistical inference; estimators, confidence intervals and significance tests of hypotheses.",
-                "One and two sample tests for means and proportions; paired and unpaired data.",
-                "Analysis of association using contingency tables and correlation.",
-                "Regression analysis; simple, multiple, logistic.",
-                "One-way and two-way analysis of variance, analysis of covariance."
-              ]
-            },
-            "size": 7.5,
-            "time": {
-              "absolute": true,
-              "lectures": 28,
-              "exercises": 18,
-              "workshops": 6,
-              "preparation": 156
-            },
-            "mandatory_activities": [
-              "unknown"
-            ],
-            "exam": {
-              "prerequisites": "unknown",
-              "type": "Written sit-in exam. 4 hours.",
-              "grading": "point",
-              "aids": "limited (USB containing notes, books and compendiums, calculator, books)"
-            },
-            "extended_description": "unknown"
-          }
+          "internal_id": "e_17520064663496"
         },
         {
           "title": "MSc in Business Administration and Innnovation in Health Care",
           "core_name": "Business Administration and Innovation in Health Care",
+          "edu_type": "Erhvervsøkonomi, administration og jura",
           "type": "MSC",
-          "internal_id": "e_14124979143868",
+          "internal_id": "e_13529584553938",
           "course": {
             "code": "KAN-CIHCO2007U",
             "name": "Managerial Statistics for Innovation",
@@ -8926,8 +9005,9 @@
         {
           "title": "Økonomi og IT",
           "core_name": "Økonomi og IT",
+          "edu_type": "Erhvervsøkonomi, administration og jura",
           "type": "DPBSC",
-          "internal_id": "e_4635101620417",
+          "internal_id": "e_17011157254743",
           "course": {
             "internal_id": "c_13059552084781",
             "code": "9141114",
@@ -8975,8 +9055,9 @@
         {
           "title": "Webudvikling",
           "core_name": "Webudvikling",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "type": "DPBSC",
-          "internal_id": "e_4635101620417",
+          "internal_id": "e_10087713031778",
           "course": {
             "internal_id": "c_7612076372445",
             "code": "Web Programming",
@@ -9027,8 +9108,9 @@
         {
           "title": "Webudvikling",
           "core_name": "Webudvikling",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "type": "DPBSC",
-          "internal_id": "e_4635101620417",
+          "internal_id": "e_10087713031778",
           "course": {
             "internal_id": "c_7612076372445",
             "code": "Web Programming",
@@ -9087,52 +9169,16 @@
         {
           "title": "Professionsbachelor i Økonomi og IT",
           "core_name": "Økonomi og IT",
+          "edu_type": "Erhvervsøkonomi, administration og jura",
           "type": "DPBSC",
-          "internal_id": "e_1259798630250",
-          "course": {
-            "internal_id": "c_14862763304841",
-            "code": "Systemudvikling 1",
-            "name": "Systemudvikling 1",
-            "contents": {
-              "type": "B",
-              "knowledge": [
-                "modellering af systemer ved hjælp af gængse modellerings-standarder",
-                "tilvejebringelse af kravspecifikationer og deres rolle i systemudvikling"
-              ],
-              "skills": [
-                "modellering og beskrivelse af IT-systemer",
-                "udarbejdelse af kravspecifikation til brug for systemudvikling"
-              ],
-              "competencies": [
-                "brug af modeller i arbejdet med systemudvikling",
-                "kravspecifikationer for mindre systemer.",
-                "Den studerende kan identificere egne læringsbehov og udvikling af egen viden, færdigheder samt kompetencer i relation til kravspecifikation af: mindre systemer og brug af modeller til støtte for udvikling af sådanne."
-              ],
-              "contents": [
-                "unknown"
-              ]
-            },
-            "size": 5,
-            "time": {
-              "unknown": "unknown"
-            },
-            "mandatory_activities": [
-              "unknown"
-            ],
-            "exam": {
-              "prerequisites": "unknown",
-              "type": "unknown",
-              "grading": "unknown",
-              "aids": "unknown"
-            },
-            "extended_description": "unknown"
-          }
+          "internal_id": "e_1005756533500"
         },
         {
           "title": "Professionsbacheloruddannelsen i Fødevareteknologi og Applikation",
           "core_name": "Fødevareteknologi og Applikation",
+          "edu_type": "Naturvidenskab",
           "type": "DPBSC",
-          "internal_id": "e_1259798630250",
+          "internal_id": "e_12726801259110",
           "course": {
             "internal_id": "c_6544463949713",
             "code": "Anvendt matematik",
@@ -9185,8 +9231,9 @@
         {
           "title": "Webudvikling",
           "core_name": "Webudvikling",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "type": "DPBSC",
-          "internal_id": "e_13128368177497",
+          "internal_id": "e_4073058629114",
           "course": {
             "internal_id": "c_7612076372445",
             "code": "Web Programming",
@@ -9245,8 +9292,9 @@
         {
           "title": "Webudvikling",
           "core_name": "Webudvikling",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "type": "DPBSC",
-          "internal_id": "e_12006854388772",
+          "internal_id": "e_4656426566503",
           "course": {
             "internal_id": "c_7612076372445",
             "code": "Web Programming",
@@ -9298,5 +9346,5 @@
     }
   ],
   "institutions_length": 14,
-  "educations_length": 182
+  "educations_length": 179
 }

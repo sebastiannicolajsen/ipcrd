@@ -3,7 +3,7 @@ const fs = require("fs");
 const print = require("./word-printer").print;
 
 
-const sample_size = 0.1; // %
+const sample_size = 1; // %
 
 
 const courses = JSON.parse(

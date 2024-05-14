@@ -3,7 +3,7 @@ const hash = require("hash-it").default;
 const fs = require("fs");
 
 const courses = JSON.parse(
-    fs.readFileSync("../output/courses_secret.json", "utf8")
+    fs.readFileSync("../output/random-sample-133.json", "utf8")
   );
 
 const length = courses.courses_length;

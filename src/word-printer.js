@@ -17,14 +17,14 @@ function print(courses, course_break = "\n\n"){
     for(const course of courses){
         str += course_break + output_delimiter + output_delimiter + "\n\n"
         str += `Course '${course.name}' (${course.code} / ${course.internal_id}) \n` + output_delimiter + `\n`
-        str += `Responsible(s): \n`
+        // str += `Responsible(s): \n`
     
     
-        const f = (t) => t === "unknown" || t === "none" ? " - " + t : ` - ${t.name}, ${t.position} (${t.email} / ${t.internal_id}) [${t.departments.join(" ; ")}]`
-        str += isArray(course.teachers.responsible, f)
+        // const f = (t) => t === "unknown" || t === "none" ? " - " + t : ` - ${t.name}, ${t.position} (${t.email} / ${t.internal_id}) [${t.departments.join(" ; ")}]`
+        // str += isArray(course.teachers.responsible, f)
     
-        str += "Teacher(s): \n"
-        str += isArray(course.teachers.teachers, f);
+        // str += "Teacher(s): \n"
+        // str += isArray(course.teachers.teachers, f);
     
         if(course.contents.type.includes("B")){
             str += output_delimiter + `\n`   
@@ -35,7 +35,7 @@ function print(courses, course_break = "\n\n"){
             str += isArray(course.contents.skills, (s) => " - " + s);
     
             str += 'Competences\n'
-            str += isArray(course.contents.competences, (c) => " - " + c);
+            str += isArray(course.contents.competencies, (c) => " - " + c);
 
         }
         if(course.contents.type.includes("A")){

@@ -60,6 +60,7 @@
         {
           "title": "Bachelor in Data Science",
           "core_name": "Data Science",
+          "edu_type": "Naturvidenskab",
           "institution": {
             "id": "ITU",
             "name": "IT University of Copenhagen",
@@ -70,7 +71,7 @@
           "domains": [
             "CS"
           ],
-          "internal_id": "e_14984917759334"
+          "internal_id": "e_7318774640291"
         }
       ]
     },
@@ -113,6 +114,7 @@
         {
           "title": "Design og Anvendelse af Kunstig Intelligens",
           "core_name": "Design og Anvendelse af Kunstig Intelligens",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "institution": {
             "id": "AAU",
             "name": "Aalborg University",
@@ -120,7 +122,7 @@
             "internal_id": "i_8559325836417"
           },
           "type": "DPBSC",
-          "internal_id": "e_8197352955995"
+          "internal_id": "e_2466516382444"
         }
       ]
     },
@@ -165,6 +167,7 @@
         {
           "title": "Diplomingeniør i Eksport og Teknologi",
           "core_name": "Eksport og Teknologi",
+          "edu_type": "Erhvervsøkonomi, administration og jura",
           "institution": {
             "id": "DTU",
             "name": "Technical University of Denmark",
@@ -172,7 +175,7 @@
             "internal_id": "i_8559284075825"
           },
           "type": "DPBSC",
-          "internal_id": "e_9782304812203"
+          "internal_id": "e_13775387926041"
         }
       ]
     },
@@ -218,6 +221,7 @@
         {
           "title": "Diplomingeniør i Elektrisk Energiteknologi",
           "core_name": "Elektrisk Energiteknologi",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "institution": {
             "id": "DTU",
             "name": "Technical University of Denmark",
@@ -225,11 +229,12 @@
             "internal_id": "i_8559284075825"
           },
           "type": "DPBSC",
-          "internal_id": "e_9782304812203"
+          "internal_id": "e_4263852401175"
         },
         {
           "title": "Diplomingeniør i Elektroteknologi",
           "core_name": "Elektroteknologi",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "institution": {
             "id": "DTU",
             "name": "Technical University of Denmark",
@@ -237,7 +242,7 @@
             "internal_id": "i_8559284075825"
           },
           "type": "DPBSC",
-          "internal_id": "e_9782304812203"
+          "internal_id": "e_2530941231771"
         }
       ]
     },
@@ -299,6 +304,7 @@
         {
           "title": "Diplomingeniør i Elektrisk Energiteknologi",
           "core_name": "Elektrisk Energiteknologi",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "institution": {
             "id": "SDU",
             "name": "University of Southern Denmark",
@@ -306,11 +312,12 @@
             "internal_id": "i_8559354482646"
           },
           "type": "DPBSC",
-          "internal_id": "e_12193195703404"
+          "internal_id": "e_6000325133744"
         },
         {
           "title": "Diplomingeniør i Elektronik",
           "core_name": "Elektronik",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "institution": {
             "id": "SDU",
             "name": "University of Southern Denmark",
@@ -318,7 +325,7 @@
             "internal_id": "i_8559354482646"
           },
           "type": "DPBSC",
-          "internal_id": "e_12193195703404"
+          "internal_id": "e_12765109019494"
         }
       ]
     },
@@ -371,6 +378,7 @@
         {
           "title": "Elektrisk Energiteknologi",
           "core_name": "Elektrisk Energiteknologi",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "institution": {
             "id": "AU",
             "name": "Aarhus University",
@@ -378,11 +386,12 @@
             "internal_id": "i_794292227712"
           },
           "type": "DPBSC",
-          "internal_id": "e_7917332709626"
+          "internal_id": "e_12414216888180"
         },
         {
           "title": "Elektronik (Herning)",
           "core_name": "Elektronik",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "institution": {
             "id": "AU",
             "name": "Aarhus University",
@@ -390,7 +399,7 @@
             "internal_id": "i_794292227712"
           },
           "type": "DPBSC",
-          "internal_id": "e_7917332709626"
+          "internal_id": "e_17273664366482"
         }
       ]
     },
@@ -437,6 +446,7 @@
         {
           "title": "IT-Elektronik",
           "core_name": "IT-Elektronik",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "institution": {
             "id": "DTU",
             "name": "Technical University of Denmark",
@@ -444,7 +454,7 @@
             "internal_id": "i_8559284075825"
           },
           "type": "DPBSC",
-          "internal_id": "e_9782304812203"
+          "internal_id": "e_13283055887907"
         }
       ]
     },
@@ -487,6 +497,7 @@
         {
           "title": "Diplomingeniør i Maskinteknik",
           "core_name": "Maskinteknik",
+          "edu_type": "Mekanik, jern og metal",
           "institution": {
             "id": "DTU",
             "name": "Technical University of Denmark",
@@ -494,7 +505,7 @@
             "internal_id": "i_8559284075825"
           },
           "type": "DPBSC",
-          "internal_id": "e_9782304812203"
+          "internal_id": "e_4543554842918"
         }
       ]
     },
@@ -574,6 +585,7 @@
         {
           "title": "Diplomingeniør i Maskinteknologi",
           "core_name": "Maskinteknologi",
+          "edu_type": "Mekanik, jern og metal",
           "institution": {
             "id": "PHA",
             "name": "University College Absalon",
@@ -581,7 +593,7 @@
             "internal_id": "i_8557609074733"
           },
           "type": "DPBSC",
-          "internal_id": "e_5726952407095"
+          "internal_id": "e_10958659098906"
         }
       ]
     },
@@ -645,6 +657,7 @@
         {
           "title": "Diplomingeniør i Mechanical / Maskinteknik",
           "core_name": "Mechanical / Maskinteknik",
+          "edu_type": "Mekanik, jern og metal",
           "institution": {
             "id": "SDU",
             "name": "University of Southern Denmark",
@@ -652,11 +665,12 @@
             "internal_id": "i_8559354482646"
           },
           "type": "DPBSC",
-          "internal_id": "e_12193195703404"
+          "internal_id": "e_3712466966405"
         },
         {
           "title": "Civilingeniør i Mechanical / Maskinteknik (Sønderborg)",
           "core_name": "Mechanical / Maskinteknik",
+          "edu_type": "Mekanik, jern og metal",
           "institution": {
             "id": "SDU",
             "name": "University of Southern Denmark",
@@ -664,7 +678,7 @@
             "internal_id": "i_8559354482646"
           },
           "type": "BSC",
-          "internal_id": "e_12193195703404"
+          "internal_id": "e_13236246993440"
         }
       ]
     },
@@ -722,6 +736,7 @@
         {
           "title": "Maskinteknik",
           "core_name": "Maskinteknik",
+          "edu_type": "Mekanik, jern og metal",
           "institution": {
             "id": "AAU",
             "name": "Aalborg University",
@@ -729,7 +744,7 @@
             "internal_id": "i_8559325836417"
           },
           "type": "DPBSC",
-          "internal_id": "e_8197352955995"
+          "internal_id": "e_12983900362564"
         }
       ]
     },
@@ -785,6 +800,7 @@
         {
           "title": "Softwareteknologi",
           "core_name": "Softwareteknologi",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "institution": {
             "id": "DTU",
             "name": "Technical University of Denmark",
@@ -792,7 +808,7 @@
             "internal_id": "i_8559284075825"
           },
           "type": "DPBSC",
-          "internal_id": "e_9782304812203"
+          "internal_id": "e_12601251493544"
         }
       ]
     },
@@ -843,6 +859,7 @@
         {
           "title": "Softwareingeniør",
           "core_name": "Softwareteknologi",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "institution": {
             "id": "VIA",
             "name": "VIA University College",
@@ -850,7 +867,7 @@
             "internal_id": "i_8557595939754"
           },
           "type": "DPBSC",
-          "internal_id": "e_5715875065104"
+          "internal_id": "e_10816376934605"
         }
       ]
     },
@@ -913,6 +930,7 @@
         {
           "title": "Diplomingeniør i Softwareteknologi",
           "core_name": "Softwareteknologi",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "institution": {
             "id": "SDU",
             "name": "University of Southern Denmark",
@@ -920,11 +938,12 @@
             "internal_id": "i_8559354482646"
           },
           "type": "DPBSC",
-          "internal_id": "e_12193195703404"
+          "internal_id": "e_16512690448029"
         },
         {
           "title": "Civillingeniør i Software Engineering",
           "core_name": "Software Engineering",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "institution": {
             "id": "SDU",
             "name": "University of Southern Denmark",
@@ -932,11 +951,12 @@
             "internal_id": "i_8559354482646"
           },
           "type": "BSC",
-          "internal_id": "e_12193195703404"
+          "internal_id": "e_15227330595668"
         },
         {
           "title": "Civilingeniør i Spiludvikling og Læringsteknologi",
           "core_name": "Spiludvikling og Læringsteknologi",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "institution": {
             "id": "SDU",
             "name": "University of Southern Denmark",
@@ -944,7 +964,7 @@
             "internal_id": "i_8559354482646"
           },
           "type": "BSC",
-          "internal_id": "e_12193195703404"
+          "internal_id": "e_15987885613012"
         }
       ]
     },
@@ -1001,6 +1021,7 @@
         {
           "title": "Softwareteknologi",
           "core_name": "Softwareteknologi",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "institution": {
             "id": "AU",
             "name": "Aarhus University",
@@ -1008,7 +1029,7 @@
             "internal_id": "i_794292227712"
           },
           "type": "DPBSC",
-          "internal_id": "e_7917332709626"
+          "internal_id": "e_5228806026617"
         }
       ]
     },
@@ -1058,6 +1079,7 @@
         {
           "title": "Elektroteknologi",
           "core_name": "Elektroteknologi",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "institution": {
             "id": "DTU",
             "name": "Technical University of Denmark",
@@ -1065,11 +1087,12 @@
             "internal_id": "i_8559284075825"
           },
           "type": "BSC",
-          "internal_id": "e_9782304812203"
+          "internal_id": "e_12168774500905"
         },
         {
           "title": "Bachelor i Cyberteknologi",
           "core_name": "Cyberteknologi",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "institution": {
             "id": "DTU",
             "name": "Technical University of Denmark",
@@ -1077,7 +1100,7 @@
             "internal_id": "i_8559284075825"
           },
           "type": "BSC",
-          "internal_id": "e_9782304812203"
+          "internal_id": "e_5726421989757"
         }
       ]
     },
@@ -1119,6 +1142,7 @@
         {
           "title": "Elektroteknologi",
           "core_name": "Elektroteknologi",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "institution": {
             "id": "AU",
             "name": "Aarhus University",
@@ -1126,7 +1150,7 @@
             "internal_id": "i_794292227712"
           },
           "type": "BSC",
-          "internal_id": "e_7917332709626"
+          "internal_id": "e_9241680175192"
         }
       ]
     },
@@ -1175,6 +1199,7 @@
         {
           "title": "Informatik",
           "core_name": "Informatik",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "institution": {
             "id": "RUC",
             "name": "Roskilde University",
@@ -1182,7 +1207,7 @@
             "internal_id": "i_8558475545072"
           },
           "type": "BSC",
-          "internal_id": "e_7765956999818"
+          "internal_id": "e_8604908715958"
         }
       ]
     },
@@ -1231,6 +1256,7 @@
         {
           "title": "Digital Design -  IT, Æstetik og Interaktion",
           "core_name": "Digital Design -  IT, Æstetik og Interaktion",
+          "edu_type": "Samfundsvidenskab",
           "institution": {
             "id": "AU",
             "name": "Aarhus University",
@@ -1238,7 +1264,7 @@
             "internal_id": "i_794292227712"
           },
           "type": "BSC",
-          "internal_id": "e_7917332709626"
+          "internal_id": "e_13838568895548"
         }
       ]
     },
@@ -1311,6 +1337,7 @@
         {
           "title": "Biomedicin",
           "core_name": "Biomedicin",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "institution": {
             "id": "SDU",
             "name": "University of Southern Denmark",
@@ -1318,7 +1345,7 @@
             "internal_id": "i_8559354482646"
           },
           "type": "BSC",
-          "internal_id": "e_12193195703404"
+          "internal_id": "e_9516429379571"
         }
       ]
     },
@@ -1369,6 +1396,7 @@
         {
           "title": "Bioteknologi",
           "core_name": "Bioteknologi",
+          "edu_type": "Naturvidenskab",
           "institution": {
             "id": "AAU",
             "name": "Aalborg University",
@@ -1376,7 +1404,7 @@
             "internal_id": "i_8559325836417"
           },
           "type": "BSC",
-          "internal_id": "e_8197352955995"
+          "internal_id": "e_10703869335059"
         }
       ]
     },
@@ -1417,6 +1445,7 @@
         {
           "title": "Bioteknologi",
           "core_name": "Bioteknologi",
+          "edu_type": "Naturvidenskab",
           "institution": {
             "id": "AU",
             "name": "Aarhus University",
@@ -1424,11 +1453,12 @@
             "internal_id": "i_794292227712"
           },
           "type": "BSC",
-          "internal_id": "e_7917332709626"
+          "internal_id": "e_1029192648466"
         },
         {
           "title": "Kemiteknologi",
           "core_name": "Kemiteknologi",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "institution": {
             "id": "AU",
             "name": "Aarhus University",
@@ -1436,7 +1466,7 @@
             "internal_id": "i_794292227712"
           },
           "type": "BSC",
-          "internal_id": "e_7917332709626"
+          "internal_id": "e_16256178723452"
         }
       ]
     },
@@ -1492,6 +1522,7 @@
         {
           "title": "Molecular Health Science",
           "core_name": "Molecular Health Science",
+          "edu_type": "Naturvidenskab",
           "institution": {
             "id": "RUC",
             "name": "Roskilde University",
@@ -1499,7 +1530,7 @@
             "internal_id": "i_8558475545072"
           },
           "type": "MSC",
-          "internal_id": "e_7765956999818"
+          "internal_id": "e_3786894252378"
         }
       ]
     },
@@ -1548,6 +1579,7 @@
         {
           "title": "Chemical Biology",
           "core_name": "Chemical Biology",
+          "edu_type": "Naturvidenskab",
           "institution": {
             "id": "RUC",
             "name": "Roskilde University",
@@ -1555,7 +1587,7 @@
             "internal_id": "i_8558475545072"
           },
           "type": "MSC",
-          "internal_id": "e_7765956999818"
+          "internal_id": "e_6250116200173"
         }
       ]
     },
@@ -1610,6 +1642,7 @@
         {
           "title": "Agriculture",
           "core_name": "Agriculture",
+          "edu_type": "Jordbrug, skovbrug og fiskeri",
           "institution": {
             "id": "KU",
             "name": "University of Copenhagen",
@@ -1617,11 +1650,12 @@
             "internal_id": "i_794294087626"
           },
           "type": "MSC",
-          "internal_id": "e_1878915026416"
+          "internal_id": "e_12172544919099"
         },
         {
           "title": "Environmental Science",
           "core_name": "Environmental Science",
+          "edu_type": "Naturvidenskab",
           "institution": {
             "id": "KU",
             "name": "University of Copenhagen",
@@ -1629,11 +1663,12 @@
             "internal_id": "i_794294087626"
           },
           "type": "MSC",
-          "internal_id": "e_1878915026416"
+          "internal_id": "e_14810913406502"
         },
         {
           "title": "Environment and Development",
           "core_name": "Environment and Development",
+          "edu_type": "Jordbrug, skovbrug og fiskeri",
           "institution": {
             "id": "KU",
             "name": "University of Copenhagen",
@@ -1641,11 +1676,12 @@
             "internal_id": "i_794294087626"
           },
           "type": "MSC",
-          "internal_id": "e_1878915026416"
+          "internal_id": "e_9216762644103"
         },
         {
           "title": "Global Environment and Development",
           "core_name": "Global Environment and Development",
+          "edu_type": "Jordbrug, skovbrug og fiskeri",
           "institution": {
             "id": "KU",
             "name": "University of Copenhagen",
@@ -1653,7 +1689,7 @@
             "internal_id": "i_794294087626"
           },
           "type": "MSC",
-          "internal_id": "e_1878915026416"
+          "internal_id": "e_7904754851820"
         }
       ]
     },
@@ -1699,6 +1735,7 @@
         {
           "title": "Molekylær Medicin",
           "core_name": "Molekylær Medicin",
+          "edu_type": "Naturvidenskab",
           "institution": {
             "id": "AU",
             "name": "Aarhus University",
@@ -1706,11 +1743,12 @@
             "internal_id": "i_794292227712"
           },
           "type": "BSC",
-          "internal_id": "e_7917332709626"
+          "internal_id": "e_4386189862144"
         },
         {
           "title": "Molekylærbiologi",
           "core_name": "Molekylærbiologi",
+          "edu_type": "Naturvidenskab",
           "institution": {
             "id": "AU",
             "name": "Aarhus University",
@@ -1718,7 +1756,7 @@
             "internal_id": "i_794292227712"
           },
           "type": "BSC",
-          "internal_id": "e_7917332709626"
+          "internal_id": "e_9492761890856"
         }
       ]
     },
@@ -1765,6 +1803,7 @@
         {
           "title": "Biokemi og Molekylær Biologi",
           "core_name": "Biokemi og Molekylær Biologi",
+          "edu_type": "Naturvidenskab",
           "institution": {
             "id": "SDU",
             "name": "University of Southern Denmark",
@@ -1772,10 +1811,11 @@
             "internal_id": "i_8559354482646"
           },
           "type": "MSC",
-          "internal_id": "e_12193195703404"
+          "internal_id": "e_14317046954648"
         },
         {
           "title": "Biomedicinsk informatik",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "institution": {
             "id": "SDU",
             "name": "University of Southern Denmark",
@@ -1783,7 +1823,7 @@
             "internal_id": "i_8559354482646"
           },
           "type": "MSC",
-          "internal_id": "e_12193195703404"
+          "internal_id": "e_14530471546861"
         }
       ]
     },
@@ -1833,6 +1873,7 @@
         {
           "title": "Civilingeniør i Energisystemer",
           "core_name": "Energisystemer",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "institution": {
             "id": "SDU",
             "name": "University of Southern Denmark",
@@ -1840,7 +1881,7 @@
             "internal_id": "i_8559354482646"
           },
           "type": "BSC",
-          "internal_id": "e_12193195703404"
+          "internal_id": "e_13427221881326"
         }
       ]
     },
@@ -1896,6 +1937,7 @@
         {
           "title": "Bacheloruddannelsen i Fysik",
           "core_name": "Fysik",
+          "edu_type": "Naturvidenskab",
           "institution": {
             "id": "KU",
             "name": "University of Copenhagen",
@@ -1903,11 +1945,12 @@
             "internal_id": "i_794294087626"
           },
           "type": "BSC",
-          "internal_id": "e_1878915026416"
+          "internal_id": "e_6270734027892"
         },
         {
           "title": "Bacheloruddannelsen i Kemi",
           "core_name": "Kemi",
+          "edu_type": "Naturvidenskab",
           "institution": {
             "id": "KU",
             "name": "University of Copenhagen",
@@ -1915,7 +1958,7 @@
             "internal_id": "i_794294087626"
           },
           "type": "BSC",
-          "internal_id": "e_1878915026416"
+          "internal_id": "e_494196830256"
         }
       ]
     },
@@ -1976,6 +2019,7 @@
         {
           "title": "Fysik",
           "core_name": "Fysik",
+          "edu_type": "Naturvidenskab",
           "institution": {
             "id": "AU",
             "name": "Aarhus University",
@@ -1983,7 +2027,7 @@
             "internal_id": "i_794292227712"
           },
           "type": "BSC",
-          "internal_id": "e_7917332709626"
+          "internal_id": "e_9087557892206"
         }
       ]
     },
@@ -2072,6 +2116,7 @@
         {
           "title": "Civilingeniør i Fysik og Teknologi",
           "core_name": "Fysik og Teknologi",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "institution": {
             "id": "SDU",
             "name": "University of Southern Denmark",
@@ -2079,7 +2124,7 @@
             "internal_id": "i_8559354482646"
           },
           "type": "BSC",
-          "internal_id": "e_12193195703404"
+          "internal_id": "e_3288985978462"
         }
       ]
     },
@@ -2127,6 +2172,7 @@
         {
           "title": "Elektronik og Systemdesign",
           "core_name": "Elektronik og Systemdesign",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "institution": {
             "id": "AAU",
             "name": "Aalborg University",
@@ -2134,11 +2180,12 @@
             "internal_id": "i_8559325836417"
           },
           "type": "BSC",
-          "internal_id": "e_8197352955995"
+          "internal_id": "e_3595303225628"
         },
         {
           "title": "Elektronik",
           "core_name": "Elektronik",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "institution": {
             "id": "AAU",
             "name": "Aalborg University",
@@ -2146,7 +2193,7 @@
             "internal_id": "i_8559325836417"
           },
           "type": "DPBSC",
-          "internal_id": "e_8197352955995"
+          "internal_id": "e_9618952837603"
         }
       ]
     },
@@ -2204,6 +2251,7 @@
         {
           "title": "Kandidat i Social Datavidenskab",
           "core_name": "Social Datavidenskab",
+          "edu_type": "Samfundsvidenskab",
           "institution": {
             "id": "KU",
             "name": "University of Copenhagen",
@@ -2211,7 +2259,7 @@
             "internal_id": "i_794294087626"
           },
           "type": "MSC",
-          "internal_id": "e_1878915026416"
+          "internal_id": "e_12801475801851"
         }
       ]
     },
@@ -2267,6 +2315,7 @@
         {
           "title": "Diplomingeniør i Mechatronics",
           "core_name": "Mechatronics",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "institution": {
             "id": "SDU",
             "name": "University of Southern Denmark",
@@ -2274,11 +2323,12 @@
             "internal_id": "i_8559354482646"
           },
           "type": "DPBSC",
-          "internal_id": "e_12193195703404"
+          "internal_id": "e_16446830868408"
         },
         {
           "title": "Skov- og Landskabsingeniør",
           "core_name": "Skov- og Landskabsingeniør",
+          "edu_type": "Jordbrug, skovbrug og fiskeri",
           "institution": {
             "id": "SDU",
             "name": "University of Southern Denmark",
@@ -2286,11 +2336,12 @@
             "internal_id": "i_8559354482646"
           },
           "type": "DPBSC",
-          "internal_id": "e_12193195703404"
+          "internal_id": "e_8511335013461"
         },
         {
           "title": "Diplomingeniør i Electronics",
           "core_name": "Electronics",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "institution": {
             "id": "SDU",
             "name": "University of Southern Denmark",
@@ -2298,7 +2349,7 @@
             "internal_id": "i_8559354482646"
           },
           "type": "DPBSC",
-          "internal_id": "e_12193195703404"
+          "internal_id": "e_7903116026293"
         }
       ]
     },
@@ -2347,6 +2398,7 @@
         {
           "title": "Skov- og Landskabsingeniør",
           "core_name": "Skov- og Landskabsingeniør",
+          "edu_type": "Jordbrug, skovbrug og fiskeri",
           "institution": {
             "id": "SDU",
             "name": "University of Southern Denmark",
@@ -2354,11 +2406,12 @@
             "internal_id": "i_8559354482646"
           },
           "type": "DPBSC",
-          "internal_id": "e_12193195703404"
+          "internal_id": "e_8511335013461"
         },
         {
           "title": "Urban Landskabsingeniør",
           "core_name": "Urban Landskabsingeniør",
+          "edu_type": "Jordbrug, skovbrug og fiskeri",
           "institution": {
             "id": "SDU",
             "name": "University of Southern Denmark",
@@ -2366,7 +2419,7 @@
             "internal_id": "i_8559354482646"
           },
           "type": "BSC",
-          "internal_id": "e_12193195703404"
+          "internal_id": "e_4480933912667"
         }
       ]
     },
@@ -2416,6 +2469,7 @@
         {
           "title": "Civilingeniør i Bygningsteknik",
           "core_name": "Bygningsteknik",
+          "edu_type": "Bygge- og anlægsteknik",
           "institution": {
             "id": "SDU",
             "name": "University of Southern Denmark",
@@ -2423,7 +2477,7 @@
             "internal_id": "i_8559354482646"
           },
           "type": "BSC",
-          "internal_id": "e_12193195703404"
+          "internal_id": "e_7423637049017"
         }
       ]
     },
@@ -2468,6 +2522,7 @@
         {
           "title": "Bachelor i Kommunikation og IT",
           "core_name": "Kommunikation og IT",
+          "edu_type": "Samfundsvidenskab",
           "institution": {
             "id": "KU",
             "name": "University of Copenhagen",
@@ -2475,7 +2530,7 @@
             "internal_id": "i_794294087626"
           },
           "type": "BSC",
-          "internal_id": "e_1878915026416"
+          "internal_id": "e_14152722335722"
         }
       ]
     },
@@ -2532,6 +2587,7 @@
         {
           "title": "Civilingeniør i Sundheds- og Velfærdsteknologi",
           "core_name": "Sundheds- og Velfærdsteknologi",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "institution": {
             "id": "SDU",
             "name": "University of Southern Denmark",
@@ -2539,7 +2595,7 @@
             "internal_id": "i_8559354482646"
           },
           "type": "BSC",
-          "internal_id": "e_12193195703404"
+          "internal_id": "e_7563993263377"
         }
       ]
     },
@@ -2589,6 +2645,7 @@
         {
           "title": "Digitalisering og Applikationsudvikling",
           "core_name": "Digitalisering og Applikationsudvikling",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "institution": {
             "id": "AAU",
             "name": "Aalborg University",
@@ -2596,7 +2653,7 @@
             "internal_id": "i_8559325836417"
           },
           "type": "MSC",
-          "internal_id": "e_8197352955995"
+          "internal_id": "e_11030163097430"
         }
       ]
     },
@@ -2641,6 +2698,7 @@
         {
           "title": "Bachelor i Softwareudvikling",
           "core_name": "Softwareudvikling",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "institution": {
             "id": "ITU",
             "name": "IT University of Copenhagen",
@@ -2648,7 +2706,7 @@
             "internal_id": "i_8559286611612"
           },
           "type": "BSC",
-          "internal_id": "e_14984917759334"
+          "internal_id": "e_4485943773679"
         }
       ]
     },
@@ -2702,6 +2760,7 @@
         {
           "title": "Elektronik",
           "core_name": "Elektronik",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "institution": {
             "id": "AU",
             "name": "Aarhus University",
@@ -2709,7 +2768,7 @@
             "internal_id": "i_794292227712"
           },
           "type": "DPBSC",
-          "internal_id": "e_7917332709626"
+          "internal_id": "e_1128721154210"
         }
       ]
     },
@@ -2752,6 +2811,7 @@
         {
           "title": "Informations-videnskab, IT og Interaktionsdesign",
           "core_name": "Informations-videnskab, IT og Interaktionsdesign",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "institution": {
             "id": "SDU",
             "name": "University of Southern Denmark",
@@ -2759,7 +2819,7 @@
             "internal_id": "i_8559354482646"
           },
           "type": "BSC",
-          "internal_id": "e_12193195703404"
+          "internal_id": "e_6772637248229"
         }
       ]
     },
@@ -2810,6 +2870,7 @@
         {
           "title": "Computerteknologi",
           "core_name": "Computerteknologi",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "institution": {
             "id": "AAU",
             "name": "Aalborg University",
@@ -2817,7 +2878,7 @@
             "internal_id": "i_8559325836417"
           },
           "type": "BSC",
-          "internal_id": "e_8197352955995"
+          "internal_id": "e_12578082312528"
         }
       ]
     },
@@ -2857,6 +2918,7 @@
         {
           "title": "Computerteknologi",
           "core_name": "Computerteknologi",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "institution": {
             "id": "AU",
             "name": "Aarhus University",
@@ -2864,7 +2926,7 @@
             "internal_id": "i_794292227712"
           },
           "type": "BSC",
-          "internal_id": "e_7917332709626"
+          "internal_id": "e_6070937926193"
         }
       ]
     },
@@ -2916,6 +2978,7 @@
         {
           "title": "Software",
           "core_name": "Software",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "institution": {
             "id": "AAU",
             "name": "Aalborg University",
@@ -2923,11 +2986,12 @@
             "internal_id": "i_8559325836417"
           },
           "type": "BSC",
-          "internal_id": "e_8197352955995"
+          "internal_id": "e_13764828357806"
         },
         {
           "title": "Datalogi",
           "core_name": "Datalogi",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "institution": {
             "id": "AU",
             "name": "Aarhus University",
@@ -2935,7 +2999,7 @@
             "internal_id": "i_794292227712"
           },
           "type": "BSC",
-          "internal_id": "e_7917332709626"
+          "internal_id": "e_9684668043933"
         }
       ]
     },
@@ -2989,6 +3053,7 @@
         {
           "title": "Diplomingeniør i IT og Økonomi",
           "core_name": "IT og Økonomi",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "institution": {
             "id": "DTU",
             "name": "Technical University of Denmark",
@@ -2996,7 +3061,7 @@
             "internal_id": "i_8559284075825"
           },
           "type": "DPBSC",
-          "internal_id": "e_9782304812203"
+          "internal_id": "e_2662588903855"
         }
       ]
     },
@@ -3049,6 +3114,7 @@
         {
           "title": "Datavidenskab og Machine Learning",
           "core_name": "Datavidenskab og Machine Learning",
+          "edu_type": "Naturvidenskab",
           "institution": {
             "id": "AAU",
             "name": "Aalborg University",
@@ -3056,7 +3122,7 @@
             "internal_id": "i_8559325836417"
           },
           "type": "BSC",
-          "internal_id": "e_8197352955995"
+          "internal_id": "e_5974845393155"
         }
       ]
     },
@@ -3117,6 +3183,7 @@
         {
           "title": "Agrobiologi",
           "core_name": "Agrobiologi",
+          "edu_type": "Jordbrug, skovbrug og fiskeri",
           "institution": {
             "id": "AU",
             "name": "Aarhus University",
@@ -3124,11 +3191,12 @@
             "internal_id": "i_794292227712"
           },
           "type": "BSC",
-          "internal_id": "e_7917332709626"
+          "internal_id": "e_6351926196210"
         },
         {
           "title": "Biologi",
           "core_name": "Biologi",
+          "edu_type": "Naturvidenskab",
           "institution": {
             "id": "AU",
             "name": "Aarhus University",
@@ -3136,7 +3204,7 @@
             "internal_id": "i_794292227712"
           },
           "type": "BSC",
-          "internal_id": "e_7917332709626"
+          "internal_id": "e_9358723030857"
         }
       ]
     },
@@ -3182,6 +3250,7 @@
         {
           "title": "Bachelor i Global Business Informatics",
           "core_name": "Global Business Informatics",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "institution": {
             "id": "ITU",
             "name": "IT University of Copenhagen",
@@ -3189,7 +3258,7 @@
             "internal_id": "i_8559286611612"
           },
           "type": "BSC",
-          "internal_id": "e_14984917759334"
+          "internal_id": "e_681094691289"
         }
       ]
     },
@@ -3239,6 +3308,7 @@
         {
           "title": "Bachelor i General Engineering",
           "core_name": "General Engineering",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "institution": {
             "id": "DTU",
             "name": "Technical University of Denmark",
@@ -3246,11 +3316,12 @@
             "internal_id": "i_8559284075825"
           },
           "type": "BSC",
-          "internal_id": "e_9782304812203"
+          "internal_id": "e_12822410197131"
         },
         {
           "title": "Bachelor i Bæredygtigt Energidesign",
           "core_name": "Bæredygtigt Energidesign",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "institution": {
             "id": "DTU",
             "name": "Technical University of Denmark",
@@ -3258,11 +3329,12 @@
             "internal_id": "i_8559284075825"
           },
           "type": "BSC",
-          "internal_id": "e_9782304812203"
+          "internal_id": "e_12745701044291"
         },
         {
           "title": "Bachelor i Kunstig Intelligens og Data",
           "core_name": "Kunstig Intelligens og Data",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "institution": {
             "id": "DTU",
             "name": "Technical University of Denmark",
@@ -3270,7 +3342,7 @@
             "internal_id": "i_8559284075825"
           },
           "type": "BSC",
-          "internal_id": "e_9782304812203"
+          "internal_id": "e_13335993281925"
         }
       ]
     },
@@ -3321,6 +3393,7 @@
         {
           "title": "Kandidat i Softwaredesign",
           "core_name": "Softwaredesign",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "institution": {
             "id": "ITU",
             "name": "IT University of Copenhagen",
@@ -3328,7 +3401,7 @@
             "internal_id": "i_8559286611612"
           },
           "type": "MSC",
-          "internal_id": "e_14984917759334"
+          "internal_id": "e_1995042255888"
         }
       ]
     },
@@ -3369,6 +3442,7 @@
         {
           "title": "Datavidenskab",
           "core_name": "Datavidenskab",
+          "edu_type": "Naturvidenskab",
           "institution": {
             "id": "AU",
             "name": "Aarhus University",
@@ -3376,7 +3450,7 @@
             "internal_id": "i_794292227712"
           },
           "type": "BSC",
-          "internal_id": "e_7917332709626"
+          "internal_id": "e_8899901250011"
         }
       ]
     },
@@ -3435,6 +3509,7 @@
         {
           "title": "Interaktionsdesign",
           "core_name": "Interaktionsdesign",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "institution": {
             "id": "AAU",
             "name": "Aalborg University",
@@ -3442,7 +3517,7 @@
             "internal_id": "i_8559325836417"
           },
           "type": "BSC",
-          "internal_id": "e_8197352955995"
+          "internal_id": "e_2979312768658"
         }
       ]
     },
@@ -3485,6 +3560,7 @@
         {
           "title": "Anvendt Matematik",
           "core_name": "Anvendt Matematik",
+          "edu_type": "Naturvidenskab",
           "institution": {
             "id": "SDU",
             "name": "University of Southern Denmark",
@@ -3492,11 +3568,12 @@
             "internal_id": "i_8559354482646"
           },
           "type": "BSC",
-          "internal_id": "e_12193195703404"
+          "internal_id": "e_4564767121427"
         },
         {
           "title": "Matematik",
           "core_name": "Matematik",
+          "edu_type": "Naturvidenskab",
           "institution": {
             "id": "SDU",
             "name": "University of Southern Denmark",
@@ -3504,7 +3581,7 @@
             "internal_id": "i_8559354482646"
           },
           "type": "BSC",
-          "internal_id": "e_12193195703404"
+          "internal_id": "e_5987414620113"
         }
       ]
     },
@@ -3553,6 +3630,7 @@
         {
           "title": "Bæredygtigt Design",
           "core_name": "Bæredygtigt Design",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "institution": {
             "id": "AAU",
             "name": "Aalborg University",
@@ -3560,7 +3638,7 @@
             "internal_id": "i_8559325836417"
           },
           "type": "BSC",
-          "internal_id": "e_8197352955995"
+          "internal_id": "e_5164674195988"
         }
       ]
     },
@@ -3611,6 +3689,7 @@
         {
           "title": "Master of Science (MSc) in Sustainable Fisheries and Aquaculture",
           "core_name": "Sustainable Fisheries and Aquaculture",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "institution": {
             "id": "DTU",
             "name": "Technical University of Denmark",
@@ -3618,7 +3697,7 @@
             "internal_id": "i_8559284075825"
           },
           "type": "MSC",
-          "internal_id": "e_9782304812203"
+          "internal_id": "e_9647534137465"
         }
       ]
     },
@@ -3664,6 +3743,7 @@
         {
           "title": "Bachelor i Digital Design og Interaktive Teknologier",
           "core_name": "Digital Design og Interaktive Teknologier",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "institution": {
             "id": "ITU",
             "name": "IT University of Copenhagen",
@@ -3671,7 +3751,7 @@
             "internal_id": "i_8559286611612"
           },
           "type": "BSC",
-          "internal_id": "e_14984917759334"
+          "internal_id": "e_16718356560104"
         }
       ]
     },
@@ -3721,6 +3801,7 @@
         {
           "title": "Ha(Mat.) Erhvervsøkonomi - Matematik",
           "core_name": "Erhvervsøkonomi - Matematik",
+          "edu_type": "Erhvervsøkonomi, administration og jura",
           "institution": {
             "id": "CBS",
             "name": "Copenhagen Business School",
@@ -3728,7 +3809,7 @@
             "internal_id": "i_8560767324806"
           },
           "type": "BSC",
-          "internal_id": "e_14124979143868"
+          "internal_id": "e_5771298106320"
         }
       ]
     },
@@ -3773,6 +3854,7 @@
         {
           "title": "IT-Produktudvikling",
           "core_name": "IT-Produktudvikling",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "institution": {
             "id": "AU",
             "name": "Aarhus University",
@@ -3780,11 +3862,12 @@
             "internal_id": "i_794292227712"
           },
           "type": "BSC",
-          "internal_id": "e_7917332709626"
+          "internal_id": "e_8584389615002"
         },
         {
           "title": "Datalogi",
           "core_name": "Datalogi",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "institution": {
             "id": "AU",
             "name": "Aarhus University",
@@ -3792,7 +3875,7 @@
             "internal_id": "i_794292227712"
           },
           "type": "BSC",
-          "internal_id": "e_7917332709626"
+          "internal_id": "e_9684668043933"
         }
       ]
     },
@@ -3844,6 +3927,7 @@
         {
           "title": "Kunstig Intelligens",
           "core_name": "Kunstig Intelligens",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "institution": {
             "id": "SDU",
             "name": "University of Southern Denmark",
@@ -3851,11 +3935,12 @@
             "internal_id": "i_8559354482646"
           },
           "type": "BSC",
-          "internal_id": "e_12193195703404"
+          "internal_id": "e_6253140204559"
         },
         {
           "title": "Datalogi",
           "core_name": "Datalogi",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "institution": {
             "id": "SDU",
             "name": "University of Southern Denmark",
@@ -3863,7 +3948,7 @@
             "internal_id": "i_8559354482646"
           },
           "type": "BSC",
-          "internal_id": "e_12193195703404"
+          "internal_id": "e_5103293132875"
         }
       ]
     },
@@ -3905,6 +3990,7 @@
         {
           "title": "Sundhedsteknologi",
           "core_name": "Sundhedsteknologi",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "institution": {
             "id": "AAU",
             "name": "Aalborg University",
@@ -3912,7 +3998,7 @@
             "internal_id": "i_8559325836417"
           },
           "type": "BSC",
-          "internal_id": "e_8197352955995"
+          "internal_id": "e_16467424659553"
         }
       ]
     },
@@ -3958,6 +4044,7 @@
         {
           "title": "Kandidat i Digital Design og Interaktive Teknologier",
           "core_name": "Digital Design og Interaktive Teknologier",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "institution": {
             "id": "ITU",
             "name": "IT University of Copenhagen",
@@ -3965,7 +4052,7 @@
             "internal_id": "i_8559286611612"
           },
           "type": "MSC",
-          "internal_id": "e_14984917759334"
+          "internal_id": "e_11572734703212"
         }
       ]
     },
@@ -4014,6 +4101,7 @@
         {
           "title": "Informationsteknologi",
           "core_name": "Informationsteknologi",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "institution": {
             "id": "AAU",
             "name": "Aalborg University",
@@ -4021,7 +4109,7 @@
             "internal_id": "i_8559325836417"
           },
           "type": "BSC",
-          "internal_id": "e_8197352955995"
+          "internal_id": "e_2861258660008"
         }
       ]
     },
@@ -4081,6 +4169,7 @@
         {
           "title": "Bioteknologi",
           "core_name": "Bioteknologi",
+          "edu_type": "Naturvidenskab",
           "institution": {
             "id": "KU",
             "name": "University of Copenhagen",
@@ -4088,11 +4177,12 @@
             "internal_id": "i_794294087626"
           },
           "type": "BSC",
-          "internal_id": "e_1878915026416"
+          "internal_id": "e_397214837592"
         },
         {
           "title": "Bachelor i Fødevarer og Ernæring",
           "core_name": "Bachelor i Fødevarer og Ernæring",
+          "edu_type": "Social og sundhed",
           "institution": {
             "id": "KU",
             "name": "University of Copenhagen",
@@ -4100,11 +4190,12 @@
             "internal_id": "i_794294087626"
           },
           "type": "BSC",
-          "internal_id": "e_1878915026416"
+          "internal_id": "e_12512874383607"
         },
         {
           "title": "Bachelor i Husdyrvidenskab",
           "core_name": "Bachelor i Husdyrvidenskab",
+          "edu_type": "Jordbrug, skovbrug og fiskeri",
           "institution": {
             "id": "KU",
             "name": "University of Copenhagen",
@@ -4112,11 +4203,12 @@
             "internal_id": "i_794294087626"
           },
           "type": "BSC",
-          "internal_id": "e_1878915026416"
+          "internal_id": "e_3405464825557"
         },
         {
           "title": "Bachelor i Miljø- og Fødevareøkonomi",
           "core_name": "Miljø- og Fødevareøkonomi",
+          "edu_type": "Jordbrug, skovbrug og fiskeri",
           "institution": {
             "id": "KU",
             "name": "University of Copenhagen",
@@ -4124,11 +4216,12 @@
             "internal_id": "i_794294087626"
           },
           "type": "BSC",
-          "internal_id": "e_1878915026416"
+          "internal_id": "e_13779875068038"
         },
         {
           "title": "Bachelor i Naturressourcer",
           "core_name": "Naturressourcer",
+          "edu_type": "Naturvidenskab",
           "institution": {
             "id": "KU",
             "name": "University of Copenhagen",
@@ -4136,7 +4229,7 @@
             "internal_id": "i_794294087626"
           },
           "type": "BSC",
-          "internal_id": "e_1878915026416"
+          "internal_id": "e_10922828358664"
         }
       ]
     },
@@ -4182,6 +4275,7 @@
         {
           "title": "Cognitive Science",
           "core_name": "Cognitive Science",
+          "edu_type": "Naturvidenskab",
           "institution": {
             "id": "AU",
             "name": "Aarhus University",
@@ -4189,7 +4283,7 @@
             "internal_id": "i_794292227712"
           },
           "type": "BSC",
-          "internal_id": "e_7917332709626"
+          "internal_id": "e_12939197479382"
         }
       ]
     },
@@ -4259,6 +4353,7 @@
         {
           "title": "Biokemi og Molekylær Biologi",
           "core_name": "Biokemi og Molekylær Biologi",
+          "edu_type": "Naturvidenskab",
           "institution": {
             "id": "SDU",
             "name": "University of Southern Denmark",
@@ -4266,7 +4361,7 @@
             "internal_id": "i_8559354482646"
           },
           "type": "BSC",
-          "internal_id": "e_12193195703404"
+          "internal_id": "e_14317046954648"
         }
       ]
     },
@@ -4329,6 +4424,7 @@
         {
           "title": "Bachelor i Geologi-Geogscience",
           "core_name": "Geologi-Geogscience",
+          "edu_type": "Naturvidenskab",
           "institution": {
             "id": "KU",
             "name": "University of Copenhagen",
@@ -4336,7 +4432,7 @@
             "internal_id": "i_794294087626"
           },
           "type": "BSC",
-          "internal_id": "e_1878915026416"
+          "internal_id": "e_9400434270028"
         }
       ]
     },
@@ -4381,6 +4477,7 @@
         {
           "title": "Geoscience",
           "core_name": "Geoscience",
+          "edu_type": "Naturvidenskab",
           "institution": {
             "id": "AU",
             "name": "Aarhus University",
@@ -4388,7 +4485,7 @@
             "internal_id": "i_794292227712"
           },
           "type": "BSC",
-          "internal_id": "e_7917332709626"
+          "internal_id": "e_6505204999641"
         }
       ]
     },
@@ -4439,6 +4536,7 @@
         {
           "title": "MSc in Business Adminstration and Digital Business",
           "core_name": "Business Adminstration and Digital Business",
+          "edu_type": "Erhvervsøkonomi, administration og jura",
           "institution": {
             "id": "CBS",
             "name": "Copenhagen Business School",
@@ -4446,7 +4544,7 @@
             "internal_id": "i_8560767324806"
           },
           "type": "MSC",
-          "internal_id": "e_14124979143868"
+          "internal_id": "e_1340409907562"
         }
       ]
     },
@@ -4498,6 +4596,7 @@
         {
           "title": "Diplomingeniør i Robotteknologi",
           "core_name": "Robotteknologi",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "institution": {
             "id": "SDU",
             "name": "University of Southern Denmark",
@@ -4505,7 +4604,7 @@
             "internal_id": "i_8559354482646"
           },
           "type": "DPBSC",
-          "internal_id": "e_12193195703404"
+          "internal_id": "e_4952456892022"
         }
       ]
     },
@@ -4569,6 +4668,7 @@
         {
           "title": "Civillingeniør i Software Engineering (Sønderborg)",
           "core_name": "Software Engineering",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "institution": {
             "id": "SDU",
             "name": "University of Southern Denmark",
@@ -4576,7 +4676,7 @@
             "internal_id": "i_8559354482646"
           },
           "type": "BSC",
-          "internal_id": "e_12193195703404"
+          "internal_id": "e_6288983120443"
         }
       ]
     },
@@ -4632,6 +4732,7 @@
         {
           "title": "Informationsvidenskab",
           "core_name": "Informationsvidenskab",
+          "edu_type": "Samfundsvidenskab",
           "institution": {
             "id": "AU",
             "name": "Aarhus University",
@@ -4639,7 +4740,7 @@
             "internal_id": "i_794292227712"
           },
           "type": "BSC",
-          "internal_id": "e_7917332709626"
+          "internal_id": "e_14715410918004"
         }
       ]
     },
@@ -4690,6 +4791,7 @@
         {
           "title": "Bachelor i Kemi og Teknologi",
           "core_name": "Kemi og Teknologi",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "institution": {
             "id": "DTU",
             "name": "Technical University of Denmark",
@@ -4697,7 +4799,7 @@
             "internal_id": "i_8559284075825"
           },
           "type": "BSC",
-          "internal_id": "e_9782304812203"
+          "internal_id": "e_8563706642896"
         }
       ]
     },
@@ -4747,6 +4849,7 @@
         {
           "title": "Økonomi og IT",
           "core_name": "Økonomi og IT",
+          "edu_type": "Erhvervsøkonomi, administration og jura",
           "institution": {
             "id": "KEA",
             "name": "Københavns erhvervsakademi",
@@ -4754,59 +4857,7 @@
             "internal_id": "i_8557542125659"
           },
           "type": "DPBSC",
-          "internal_id": "e_4635101620417"
-        }
-      ]
-    },
-    {
-      "internal_id": "c_14862763304841",
-      "code": "Systemudvikling 1",
-      "name": "Systemudvikling 1",
-      "contents": {
-        "type": "B",
-        "knowledge": [
-          "modellering af systemer ved hjælp af gængse modellerings-standarder",
-          "tilvejebringelse af kravspecifikationer og deres rolle i systemudvikling"
-        ],
-        "skills": [
-          "modellering og beskrivelse af IT-systemer",
-          "udarbejdelse af kravspecifikation til brug for systemudvikling"
-        ],
-        "competencies": [
-          "brug af modeller i arbejdet med systemudvikling",
-          "kravspecifikationer for mindre systemer.",
-          "Den studerende kan identificere egne læringsbehov og udvikling af egen viden, færdigheder samt kompetencer i relation til kravspecifikation af: mindre systemer og brug af modeller til støtte for udvikling af sådanne."
-        ],
-        "contents": [
-          "unknown"
-        ]
-      },
-      "size": 5,
-      "time": {
-        "unknown": "unknown"
-      },
-      "mandatory_activities": [
-        "unknown"
-      ],
-      "exam": {
-        "prerequisites": "unknown",
-        "type": "unknown",
-        "grading": "unknown",
-        "aids": "unknown"
-      },
-      "extended_description": "unknown",
-      "educations": [
-        {
-          "title": "Professionsbachelor i Økonomi og IT",
-          "core_name": "Økonomi og IT",
-          "institution": {
-            "id": "EA",
-            "name": "Erhvervsakademi Aarhus",
-            "type": "BA",
-            "internal_id": "i_794238278416"
-          },
-          "type": "DPBSC",
-          "internal_id": "e_1259798630250"
+          "internal_id": "e_17011157254743"
         }
       ]
     },
@@ -4852,6 +4903,7 @@
         {
           "title": "Ingeniørvidenskab",
           "core_name": "Ingeniørvidenskab",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "institution": {
             "id": "AAU",
             "name": "Aalborg University",
@@ -4859,7 +4911,7 @@
             "internal_id": "i_8559325836417"
           },
           "type": "BSC",
-          "internal_id": "e_8197352955995"
+          "internal_id": "e_126589527714"
         }
       ]
     },
@@ -4911,6 +4963,7 @@
         {
           "title": "Civilingeniør i Maskinteknik (Odense)",
           "core_name": "Maskinteknik",
+          "edu_type": "Mekanik, jern og metal",
           "institution": {
             "id": "SDU",
             "name": "University of Southern Denmark",
@@ -4918,7 +4971,7 @@
             "internal_id": "i_8559354482646"
           },
           "type": "BSC",
-          "internal_id": "e_12193195703404"
+          "internal_id": "e_3094132818780"
         }
       ]
     },
@@ -4967,6 +5020,7 @@
         {
           "title": "Mekanik",
           "core_name": "Mekanik",
+          "edu_type": "Mekanik, jern og metal",
           "institution": {
             "id": "AU",
             "name": "Aarhus University",
@@ -4974,7 +5028,7 @@
             "internal_id": "i_794292227712"
           },
           "type": "BSC",
-          "internal_id": "e_7917332709626"
+          "internal_id": "e_13270946748366"
         }
       ]
     },
@@ -5027,6 +5081,7 @@
         {
           "title": "Bachelor i Datalogi",
           "core_name": "Datalogi",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "institution": {
             "id": "KU",
             "name": "University of Copenhagen",
@@ -5034,11 +5089,12 @@
             "internal_id": "i_794294087626"
           },
           "type": "BSC",
-          "internal_id": "e_1878915026416"
+          "internal_id": "e_10878707007842"
         },
         {
           "title": "Bachelor i Datalogi-Økonomi",
           "core_name": "Datalogi-Økonomi",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "institution": {
             "id": "KU",
             "name": "University of Copenhagen",
@@ -5046,11 +5102,12 @@
             "internal_id": "i_794294087626"
           },
           "type": "BSC",
-          "internal_id": "e_1878915026416"
+          "internal_id": "e_13894325010102"
         },
         {
           "title": "Bachelor i Machinelearning og Datavidenskab",
           "core_name": "Machinelearning og Datavidenskab",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "institution": {
             "id": "KU",
             "name": "University of Copenhagen",
@@ -5058,11 +5115,12 @@
             "internal_id": "i_794294087626"
           },
           "type": "BSC",
-          "internal_id": "e_1878915026416"
+          "internal_id": "e_7203026362269"
         },
         {
           "title": "Bachelor i Kognitions- og Datavidenskab",
           "core_name": "Kognitions- og Datavidenskab",
+          "edu_type": "Naturvidenskab",
           "institution": {
             "id": "KU",
             "name": "University of Copenhagen",
@@ -5070,7 +5128,7 @@
             "internal_id": "i_794294087626"
           },
           "type": "BSC",
-          "internal_id": "e_1878915026416"
+          "internal_id": "e_6667327095658"
         }
       ]
     },
@@ -5112,6 +5170,7 @@
         {
           "title": "Datalogi",
           "core_name": "Datalogi",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "institution": {
             "id": "RUC",
             "name": "Roskilde University",
@@ -5119,7 +5178,7 @@
             "internal_id": "i_8558475545072"
           },
           "type": "BSC",
-          "internal_id": "e_7765956999818"
+          "internal_id": "e_15587013026093"
         }
       ]
     },
@@ -5179,6 +5238,7 @@
         {
           "title": "HA(it.) - Erhvervsøkonomi - Informationsteknologi",
           "core_name": "Erhvervsøkonomi - Informationsteknologi",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "institution": {
             "id": "CBS",
             "name": "Copenhagen Business School",
@@ -5186,7 +5246,7 @@
             "internal_id": "i_8560767324806"
           },
           "type": "BSC",
-          "internal_id": "e_14124979143868"
+          "internal_id": "e_807901473078"
         }
       ]
     },
@@ -5233,6 +5293,7 @@
         {
           "title": "Globale Forretningssystemer, Diplomingeniør",
           "core_name": "Globale Forretningssystemer",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "institution": {
             "id": "AAU",
             "name": "Aalborg University",
@@ -5240,11 +5301,12 @@
             "internal_id": "i_8559325836417"
           },
           "type": "DPBSC",
-          "internal_id": "e_8197352955995"
+          "internal_id": "e_4302344455311"
         },
         {
           "title": "Globale Forretningssystemer",
           "core_name": "Globale Forretningssystemer",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "institution": {
             "id": "AAU",
             "name": "Aalborg University",
@@ -5252,7 +5314,7 @@
             "internal_id": "i_8559325836417"
           },
           "type": "BSC",
-          "internal_id": "e_8197352955995"
+          "internal_id": "e_6523509044600"
         }
       ]
     },
@@ -5301,6 +5363,7 @@
         {
           "title": "Service Systems Design (København)",
           "core_name": "Service Systems Design",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "institution": {
             "id": "AAU",
             "name": "Aalborg University",
@@ -5308,7 +5371,7 @@
             "internal_id": "i_8559325836417"
           },
           "type": "MSC",
-          "internal_id": "e_8197352955995"
+          "internal_id": "e_11742347854130"
         }
       ]
     },
@@ -5358,6 +5421,7 @@
         {
           "title": "Kemiteknologi",
           "core_name": "Kemiteknologi",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "institution": {
             "id": "AU",
             "name": "Aarhus University",
@@ -5365,7 +5429,7 @@
             "internal_id": "i_794292227712"
           },
           "type": "DPBSC",
-          "internal_id": "e_7917332709626"
+          "internal_id": "e_16256178723452"
         }
       ]
     },
@@ -5414,6 +5478,7 @@
         {
           "title": "Matematik",
           "core_name": "Matematik",
+          "edu_type": "Naturvidenskab",
           "institution": {
             "id": "AAU",
             "name": "Aalborg University",
@@ -5421,11 +5486,12 @@
             "internal_id": "i_8559325836417"
           },
           "type": "BSC",
-          "internal_id": "e_8197352955995"
+          "internal_id": "e_12744575603366"
         },
         {
           "title": "Bachelor i Produkt- og Designpsykologi",
           "core_name": "Produkt- og Designpsykologi",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "institution": {
             "id": "AAU",
             "name": "Aalborg University",
@@ -5433,11 +5499,12 @@
             "internal_id": "i_8559325836417"
           },
           "type": "BSC",
-          "internal_id": "e_8197352955995"
+          "internal_id": "e_712785454931"
         },
         {
           "title": "Matematik-Teknologi",
           "core_name": "Matematik-Teknologi",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "institution": {
             "id": "AAU",
             "name": "Aalborg University",
@@ -5445,11 +5512,12 @@
             "internal_id": "i_8559325836417"
           },
           "type": "BSC",
-          "internal_id": "e_8197352955995"
+          "internal_id": "e_8147994996765"
         },
         {
           "title": "Matematik-Økonomi",
           "core_name": "Matematik-Økonomi",
+          "edu_type": "Naturvidenskab",
           "institution": {
             "id": "AAU",
             "name": "Aalborg University",
@@ -5457,7 +5525,7 @@
             "internal_id": "i_8559325836417"
           },
           "type": "BSC",
-          "internal_id": "e_8197352955995"
+          "internal_id": "e_13760164196402"
         }
       ]
     },
@@ -5502,6 +5570,7 @@
         {
           "title": "Matematik",
           "core_name": "Matematik",
+          "edu_type": "Naturvidenskab",
           "institution": {
             "id": "AU",
             "name": "Aarhus University",
@@ -5509,11 +5578,12 @@
             "internal_id": "i_794292227712"
           },
           "type": "BSC",
-          "internal_id": "e_7917332709626"
+          "internal_id": "e_10214146755783"
         },
         {
           "title": "Bachelor i Datavidenskab",
           "core_name": "Datavidenskab",
+          "edu_type": "Naturvidenskab",
           "institution": {
             "id": "AAU",
             "name": "Aalborg University",
@@ -5521,11 +5591,12 @@
             "internal_id": "i_8559325836417"
           },
           "type": "BSC",
-          "internal_id": "e_8197352955995"
+          "internal_id": "e_7702783629295"
         },
         {
           "title": "Matematik-Økonomi",
           "core_name": "Matematik-Økonomi",
+          "edu_type": "Naturvidenskab",
           "institution": {
             "id": "AU",
             "name": "Aarhus University",
@@ -5533,7 +5604,7 @@
             "internal_id": "i_794292227712"
           },
           "type": "BSC",
-          "internal_id": "e_7917332709626"
+          "internal_id": "e_524830714131"
         }
       ]
     },
@@ -5581,6 +5652,7 @@
         {
           "title": "Matematik og Teknologi",
           "core_name": "Matematik og Teknologi",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "institution": {
             "id": "DTU",
             "name": "Technical University of Denmark",
@@ -5588,7 +5660,7 @@
             "internal_id": "i_8559284075825"
           },
           "type": "BSC",
-          "internal_id": "e_9782304812203"
+          "internal_id": "e_16078491379496"
         }
       ]
     },
@@ -5635,6 +5707,7 @@
         {
           "title": "Medialogi",
           "core_name": "Medialogi",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "institution": {
             "id": "AAU",
             "name": "Aalborg University",
@@ -5642,7 +5715,7 @@
             "internal_id": "i_8559325836417"
           },
           "type": "BSC",
-          "internal_id": "e_8197352955995"
+          "internal_id": "e_16429791927752"
         }
       ]
     },
@@ -5694,6 +5767,7 @@
         {
           "title": "Bachelor i Medicin og Teknologi",
           "core_name": "Medicin og Teknologi",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "institution": {
             "id": "DTU",
             "name": "Technical University of Denmark",
@@ -5701,11 +5775,12 @@
             "internal_id": "i_8559284075825"
           },
           "type": "BSC",
-          "internal_id": "e_9782304812203"
+          "internal_id": "e_16758827699355"
         },
         {
           "title": "Bachelor i Geofysik og Rumteknologi",
           "core_name": "Geofysik og Rumteknologi",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "institution": {
             "id": "DTU",
             "name": "Technical University of Denmark",
@@ -5713,11 +5788,12 @@
             "internal_id": "i_8559284075825"
           },
           "type": "BSC",
-          "internal_id": "e_9782304812203"
+          "internal_id": "e_5656979270259"
         },
         {
           "title": "Softwareteknologi",
           "core_name": "Softwareteknologi",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "institution": {
             "id": "DTU",
             "name": "Technical University of Denmark",
@@ -5725,7 +5801,7 @@
             "internal_id": "i_8559284075825"
           },
           "type": "BSC",
-          "internal_id": "e_9782304812203"
+          "internal_id": "e_12601251493544"
         }
       ]
     },
@@ -5790,6 +5866,7 @@
         {
           "title": "Mekanik og Produktion",
           "core_name": "Mekanik og Produktion",
+          "edu_type": "Mekanik, jern og metal",
           "institution": {
             "id": "AAU",
             "name": "Aalborg University",
@@ -5797,7 +5874,7 @@
             "internal_id": "i_8559325836417"
           },
           "type": "BSC",
-          "internal_id": "e_8197352955995"
+          "internal_id": "e_16638487240044"
         }
       ]
     },
@@ -5837,6 +5914,7 @@
         {
           "title": "Digital Innovation og Management",
           "core_name": "Digital Innovation og Management",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "institution": {
             "id": "ITU",
             "name": "IT University of Copenhagen",
@@ -5844,7 +5922,7 @@
             "internal_id": "i_8559286611612"
           },
           "type": "MSC",
-          "internal_id": "e_14984917759334"
+          "internal_id": "e_5980762261904"
         }
       ]
     },
@@ -5894,6 +5972,7 @@
         {
           "title": "Bachelor i Nanoscience",
           "core_name": "Nanoscience",
+          "edu_type": "Naturvidenskab",
           "institution": {
             "id": "KU",
             "name": "University of Copenhagen",
@@ -5901,7 +5980,7 @@
             "internal_id": "i_794294087626"
           },
           "type": "BSC",
-          "internal_id": "e_1878915026416"
+          "internal_id": "e_732980471941"
         }
       ]
     },
@@ -5959,6 +6038,7 @@
         {
           "title": "Bachelor i Sundhed og Informatik",
           "core_name": "Sundhed og Informatik",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "institution": {
             "id": "KU",
             "name": "University of Copenhagen",
@@ -5966,7 +6046,7 @@
             "internal_id": "i_794294087626"
           },
           "type": "BSC",
-          "internal_id": "e_1878915026416"
+          "internal_id": "e_13358367227028"
         }
       ]
     },
@@ -6013,6 +6093,7 @@
         {
           "title": "Bachelor i Kemi",
           "core_name": "Kemi",
+          "edu_type": "Naturvidenskab",
           "institution": {
             "id": "AAU",
             "name": "Aalborg University",
@@ -6020,11 +6101,12 @@
             "internal_id": "i_8559325836417"
           },
           "type": "BSC",
-          "internal_id": "e_8197352955995"
+          "internal_id": "e_17362711291998"
         },
         {
           "title": "Bachelor i Biologi",
           "core_name": "Biologi",
+          "edu_type": "Naturvidenskab",
           "institution": {
             "id": "AAU",
             "name": "Aalborg University",
@@ -6032,11 +6114,12 @@
             "internal_id": "i_8559325836417"
           },
           "type": "BSC",
-          "internal_id": "e_8197352955995"
+          "internal_id": "e_2998457012797"
         },
         {
           "title": "Bachelor i Kemiteknologi",
           "core_name": "Kemiteknologi",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "institution": {
             "id": "AAU",
             "name": "Aalborg University",
@@ -6044,11 +6127,12 @@
             "internal_id": "i_8559325836417"
           },
           "type": "BSC",
-          "internal_id": "e_8197352955995"
+          "internal_id": "e_12557496259432"
         },
         {
           "title": "Chemical Engineering and Biotechnology",
           "core_name": "Chemical Engineering and Biotechnology",
+          "edu_type": "Naturvidenskab",
           "institution": {
             "id": "AAU",
             "name": "Aalborg University",
@@ -6056,11 +6140,12 @@
             "internal_id": "i_8559325836417"
           },
           "type": "BSC",
-          "internal_id": "e_8197352955995"
+          "internal_id": "e_15132570847381"
         },
         {
           "title": "Miljøvidenskab",
           "core_name": "Miljøvidenskab",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "institution": {
             "id": "AAU",
             "name": "Aalborg University",
@@ -6068,11 +6153,12 @@
             "internal_id": "i_8559325836417"
           },
           "type": "BSC",
-          "internal_id": "e_8197352955995"
+          "internal_id": "e_287419699856"
         },
         {
           "title": "Kemi og Bioteknologi, diplomingeniør (Aalborg)",
           "core_name": "Kemi og Bioteknologi",
+          "edu_type": "Naturvidenskab",
           "institution": {
             "id": "AAU",
             "name": "Aalborg University",
@@ -6080,7 +6166,7 @@
             "internal_id": "i_8559325836417"
           },
           "type": "DPBSC",
-          "internal_id": "e_8197352955995"
+          "internal_id": "e_6022729842163"
         }
       ]
     },
@@ -6146,6 +6232,7 @@
         {
           "title": "Applied Industrial Electronics",
           "core_name": "Applied Industrial Electronics",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "institution": {
             "id": "AAU",
             "name": "Aalborg University",
@@ -6153,7 +6240,7 @@
             "internal_id": "i_8559325836417"
           },
           "type": "BSC",
-          "internal_id": "e_8197352955995"
+          "internal_id": "e_5076048427346"
         }
       ]
     },
@@ -6215,6 +6302,7 @@
         {
           "title": "Bæredygtig Energiteknik, Diplomingeniør",
           "core_name": "Bæredygtig Energiteknik",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "institution": {
             "id": "AAU",
             "name": "Aalborg University",
@@ -6222,11 +6310,12 @@
             "internal_id": "i_8559325836417"
           },
           "type": "DPBSC",
-          "internal_id": "e_8197352955995"
+          "internal_id": "e_14569204860001"
         },
         {
           "title": "Energi",
           "core_name": "Energi",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "institution": {
             "id": "AAU",
             "name": "Aalborg University",
@@ -6234,7 +6323,7 @@
             "internal_id": "i_8559325836417"
           },
           "type": "BSC",
-          "internal_id": "e_8197352955995"
+          "internal_id": "e_4163550588755"
         }
       ]
     },
@@ -6286,6 +6375,7 @@
         {
           "title": "Robotteknologi",
           "core_name": "Robotteknologi",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "institution": {
             "id": "AAU",
             "name": "Aalborg University",
@@ -6293,7 +6383,7 @@
             "internal_id": "i_8559325836417"
           },
           "type": "BSC",
-          "internal_id": "e_8197352955995"
+          "internal_id": "e_8817385932787"
         }
       ]
     },
@@ -6342,6 +6432,7 @@
         {
           "title": "Civilingeniør i Robotteknologi",
           "core_name": "Robotteknologi",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "institution": {
             "id": "SDU",
             "name": "University of Southern Denmark",
@@ -6349,7 +6440,7 @@
             "internal_id": "i_8559354482646"
           },
           "type": "BSC",
-          "internal_id": "e_12193195703404"
+          "internal_id": "e_5082166554524"
         }
       ]
     },
@@ -6401,6 +6492,7 @@
         {
           "title": "Civilingeniør i Operations Management",
           "core_name": "Operations Management",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "institution": {
             "id": "SDU",
             "name": "University of Southern Denmark",
@@ -6408,7 +6500,7 @@
             "internal_id": "i_8559354482646"
           },
           "type": "MSC",
-          "internal_id": "e_12193195703404"
+          "internal_id": "e_8831925686203"
         }
       ]
     },
@@ -6453,6 +6545,7 @@
         {
           "title": "Physics and Scientific Modelling",
           "core_name": "Physics and Scientific Modelling",
+          "edu_type": "Naturvidenskab",
           "institution": {
             "id": "RUC",
             "name": "Roskilde University",
@@ -6460,7 +6553,7 @@
             "internal_id": "i_8558475545072"
           },
           "type": "MSC",
-          "internal_id": "e_7765956999818"
+          "internal_id": "e_7426698601424"
         }
       ]
     },
@@ -6507,6 +6600,7 @@
         {
           "title": "Økonomi",
           "core_name": "Økonomi",
+          "edu_type": "Samfundsvidenskab",
           "institution": {
             "id": "AAU",
             "name": "Aalborg University",
@@ -6514,7 +6608,7 @@
             "internal_id": "i_8559325836417"
           },
           "type": "MSC",
-          "internal_id": "e_8197352955995"
+          "internal_id": "e_14888591359864"
         }
       ]
     },
@@ -6565,6 +6659,7 @@
         {
           "title": "Økonomi",
           "core_name": "Økonomi",
+          "edu_type": "Samfundsvidenskab",
           "institution": {
             "id": "KU",
             "name": "University of Copenhagen",
@@ -6572,7 +6667,7 @@
             "internal_id": "i_794294087626"
           },
           "type": "MSC",
-          "internal_id": "e_1878915026416"
+          "internal_id": "e_4369136966803"
         }
       ]
     },
@@ -6640,6 +6735,7 @@
         {
           "title": "Kandidat i Bioinformatik",
           "core_name": "Bioinformatik",
+          "edu_type": "Naturvidenskab",
           "institution": {
             "id": "KU",
             "name": "University of Copenhagen",
@@ -6647,7 +6743,7 @@
             "internal_id": "i_794294087626"
           },
           "type": "MSC",
-          "internal_id": "e_1878915026416"
+          "internal_id": "e_3125505513465"
         }
       ]
     },
@@ -6689,6 +6785,7 @@
         {
           "title": "Bioinformatik",
           "core_name": "Bioinformatik",
+          "edu_type": "Naturvidenskab",
           "institution": {
             "id": "AU",
             "name": "Aarhus University",
@@ -6696,7 +6793,7 @@
             "internal_id": "i_794292227712"
           },
           "type": "MSC",
-          "internal_id": "e_7917332709626"
+          "internal_id": "e_13623696654818"
         }
       ]
     },
@@ -6759,6 +6856,7 @@
         {
           "title": "Kandidat i Molekylær Biomedicin",
           "core_name": "Molekylær Biomedicin",
+          "edu_type": "Naturvidenskab",
           "institution": {
             "id": "KU",
             "name": "University of Copenhagen",
@@ -6766,7 +6864,7 @@
             "internal_id": "i_794294087626"
           },
           "type": "MSC",
-          "internal_id": "e_1878915026416"
+          "internal_id": "e_11946627172639"
         }
       ]
     },
@@ -6821,6 +6919,7 @@
         {
           "title": "Bachelor i Biokemi",
           "core_name": "Biokemi",
+          "edu_type": "Naturvidenskab",
           "institution": {
             "id": "KU",
             "name": "University of Copenhagen",
@@ -6828,7 +6927,7 @@
             "internal_id": "i_794294087626"
           },
           "type": "BSC",
-          "internal_id": "e_1878915026416"
+          "internal_id": "e_6801075698705"
         }
       ]
     },
@@ -6877,6 +6976,7 @@
         {
           "title": "BSc in Business Administration and Digital Management",
           "core_name": "Business Administration and Digital Management",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "institution": {
             "id": "CBS",
             "name": "Copenhagen Business School",
@@ -6884,7 +6984,7 @@
             "internal_id": "i_8560767324806"
           },
           "type": "BSC",
-          "internal_id": "e_14124979143868"
+          "internal_id": "e_1769685199929"
         }
       ]
     },
@@ -6935,6 +7035,7 @@
         {
           "title": "Bachelor i Bygningsdesign",
           "core_name": "Bygningsdesign",
+          "edu_type": "Bygge- og anlægsteknik",
           "institution": {
             "id": "DTU",
             "name": "Technical University of Denmark",
@@ -6942,7 +7043,7 @@
             "internal_id": "i_8559284075825"
           },
           "type": "BSC",
-          "internal_id": "e_9782304812203"
+          "internal_id": "e_1563740541943"
         }
       ]
     },
@@ -6989,6 +7090,7 @@
         {
           "title": "Diplomingeniør i Sundhedsteknologi",
           "core_name": "Sundhedsteknologi",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "institution": {
             "id": "DTU",
             "name": "Technical University of Denmark",
@@ -6996,7 +7098,7 @@
             "internal_id": "i_8559284075825"
           },
           "type": "DPBSC",
-          "internal_id": "e_9782304812203"
+          "internal_id": "e_17231141385187"
         }
       ]
     },
@@ -7041,6 +7143,7 @@
         {
           "title": "Sundhedsteknologi",
           "core_name": "Sundhedsteknologi",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "institution": {
             "id": "AU",
             "name": "Aarhus University",
@@ -7048,7 +7151,7 @@
             "internal_id": "i_794292227712"
           },
           "type": "DPBSC",
-          "internal_id": "e_7917332709626"
+          "internal_id": "e_12352400824192"
         }
       ]
     },
@@ -7095,6 +7198,7 @@
         {
           "title": "Professionsbacheloruddannelsen i Fødevareteknologi og Applikation",
           "core_name": "Fødevareteknologi og Applikation",
+          "edu_type": "Naturvidenskab",
           "institution": {
             "id": "EA",
             "name": "Erhvervsakademi Aarhus",
@@ -7102,7 +7206,7 @@
             "internal_id": "i_794238278416"
           },
           "type": "DPBSC",
-          "internal_id": "e_1259798630250"
+          "internal_id": "e_12726801259110"
         }
       ]
     },
@@ -7155,6 +7259,7 @@
         {
           "title": "Geografi",
           "core_name": "Geografi",
+          "edu_type": "Naturvidenskab",
           "institution": {
             "id": "AAU",
             "name": "Aalborg University",
@@ -7162,7 +7267,7 @@
             "internal_id": "i_8559325836417"
           },
           "type": "BSC",
-          "internal_id": "e_8197352955995"
+          "internal_id": "e_14374603105143"
         }
       ]
     },
@@ -7222,6 +7327,7 @@
         {
           "title": "Bachelor i Geografi og Geoinformatik",
           "core_name": "Geografi og Geoinformatik",
+          "edu_type": "Naturvidenskab",
           "institution": {
             "id": "KU",
             "name": "University of Copenhagen",
@@ -7229,128 +7335,7 @@
             "internal_id": "i_794294087626"
           },
           "type": "BSC",
-          "internal_id": "e_1878915026416"
-        }
-      ]
-    },
-    {
-      "internal_id": "c_8692992716292",
-      "code": "BA-BHAAO1593U",
-      "name": "Statistik",
-      "contents": {
-        "type": "A",
-        "objectives": [
-          "Identificere og afgrænse en given statistisk problemstilling, herunder klart identificere nødvendig og tilstrækkelig information til at kunne gennemføre en given statistisk analyse.",
-          "Klart og præcist anvende grafiske og numeriske metoder til at opsummere og gengive de væsentligste tendenser og sammenhænge i et givet datamateriale.",
-          "Udførligt motivere valg af en relevant statistisk analysemetode til brug for analyse af et givet datamateriale.",
-          "Demonstrere korrekt brug af sandsynlighedsregningens grundbegreber og anvendelse af disse til identifikation af den usikkerhed, der eksisterer i et givet datamateriale.",
-          "Detaljeret redegøre for nødvendige og tilstrækkelige forudsætninger ved brug af en given statistisk analysemetode, kontrollere i hvilket omfang disse er opfyldt samt vurdere betydningen af eventuelt ikke opfyldte forudsætninger.",
-          "Kort og præcist redegøre for de bagvedliggende beregninger i en given statistisk analysemetode, herunder redegøre for de teoretiske og modelmæssige forudsætninger.",
-          "Foretage detaljerede konsekvensberegninger på baggrund af en estimeret statistisk model og præcist vurdere validitet og usikkerhed på disse beregninger.",
-          "Drage konkrete og præcise konklusioner på baggrund af en given statistisk analyse og kommunikere disse i et klart, fagligt korrekt og ikke-teknisk sprog."
-        ],
-        "contents": [
-          "Deskriptiv statistik",
-          "Grundlæggende sandsynlighedsregning",
-          "Diskrete og kontinuerte sandsynlighedsfordelinger",
-          "Konfidensintervaller og hypotesetest",
-          "Simpel og multipel regressionsanalyse",
-          "Kontingenstabeller, en- og tosidet variansanalyse",
-          "Bi- og multinomial logistisk regression",
-          "Tidsrækkens grundkomponenter",
-          "Eksponentielle udjævningsmetoder",
-          "Box-Jenkins ARIMA modeller",
-          "Forecasting med ARIMA fejlled",
-          "Dynamisk regression"
-        ]
-      },
-      "size": 15,
-      "time": {
-        "absolute": true,
-        "lectures_exercises": 332,
-        "exam": 80
-      },
-      "mandatory_activities": [
-        "unknown"
-      ],
-      "exam": {
-        "prerequisites": "unknown",
-        "type": "Prøven i faget består af fire delprøver. 10pct: Skriftligt produkt udarbejdet hjemme (individuel). 10pct: Skriftligt produkt udarbejdet hjemme (individuel). 40pct: Eksamen afholdes som en 4 timers skriftlig hjemmeopgave (midtvejsprøve). Der er ingen begrænsning på omfang, de studerende har 4 timer til deres rådighed. 40pct: Skriftlig stedprøve. 4 timer.",
-        "grading": "point",
-        "aids": "all"
-      },
-      "extended_description": "unknown",
-      "educations": [
-        {
-          "title": "HA i Europæisk Business",
-          "core_name": "Europæisk Business",
-          "institution": {
-            "id": "CBS",
-            "name": "Copenhagen Business School",
-            "type": "U",
-            "internal_id": "i_8560767324806"
-          },
-          "type": "BSC",
-          "internal_id": "e_14124979143868"
-        }
-      ]
-    },
-    {
-      "internal_id": "c_2472696176525",
-      "code": "BA-BINBO1139U",
-      "name": "Statistics",
-      "contents": {
-        "type": "A",
-        "objectives": [
-          "The goal is to enable the students to interpret, understand and apply basic statistical concepts as they apply in scientific research as well as in everyday life.",
-          "The students will become familiar with basic probability theory as a model for randomness, concepts of statistical inference as well as a number of concrete estimators, confidence intervals and test. Statistical software will be introduced.",
-          "Identify key theories, models and concepts of probability and statistics.",
-          "Use graphical and numerical methods for exploring and summarizing data on a single categorical or quantitative variable.",
-          "Describe basic probability and how probability helps us understand randomness in our lives, as well as grasp the crucial concept of a sampling distribution and how it relates to inference methods.",
-          "Choose and justify appropriate descriptive and inferential methods for examining and analyzing data and drawing conclusions.",
-          "Analysis of the association between categorical, discrete, and continuous variables, using contingency tables, correlation, regressions, and analysis of variance.",
-          "Communicate the conclusions of statistical analysis clearly and effectively, i.e identify connections between basic statistics and the real world."
-        ],
-        "contents": [
-          "The basic laws of probability and the most important probability distributions.",
-          "Descriptive statistics, both numerical and graphical.",
-          "Statistical inference; estimators, confidence intervals and significance tests of hypotheses.",
-          "One and two sample tests for means and proportions; paired and unpaired data.",
-          "Analysis of association using contingency tables and correlation.",
-          "Regression analysis; simple, multiple, logistic.",
-          "One-way and two-way analysis of variance, analysis of covariance."
-        ]
-      },
-      "size": 7.5,
-      "time": {
-        "absolute": true,
-        "lectures": 28,
-        "exercises": 18,
-        "workshops": 6,
-        "preparation": 156
-      },
-      "mandatory_activities": [
-        "unknown"
-      ],
-      "exam": {
-        "prerequisites": "unknown",
-        "type": "Written sit-in exam. 4 hours.",
-        "grading": "point",
-        "aids": "limited (USB containing notes, books and compendiums, calculator, books)"
-      },
-      "extended_description": "unknown",
-      "educations": [
-        {
-          "title": "HA i Markeds- og Kulturanalyse",
-          "core_name": "Markeds- og Kulturanalyse",
-          "institution": {
-            "id": "CBS",
-            "name": "Copenhagen Business School",
-            "type": "U",
-            "internal_id": "i_8560767324806"
-          },
-          "type": "BSC",
-          "internal_id": "e_14124979143868"
+          "internal_id": "e_8957778047210"
         }
       ]
     },
@@ -7396,6 +7381,7 @@
         {
           "title": "IT, Kommunikation og Organisation",
           "core_name": "IT, Kommunikation og Organisation",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "institution": {
             "id": "AU",
             "name": "Aarhus University",
@@ -7403,7 +7389,7 @@
             "internal_id": "i_794292227712"
           },
           "type": "MSC",
-          "internal_id": "e_7917332709626"
+          "internal_id": "e_8207588538059"
         }
       ]
     },
@@ -7449,6 +7435,7 @@
         {
           "title": "Kunst og Teknologi",
           "core_name": "Kunst og Teknologi",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "institution": {
             "id": "AAU",
             "name": "Aalborg University",
@@ -7456,7 +7443,7 @@
             "internal_id": "i_8559325836417"
           },
           "type": "BSC",
-          "internal_id": "e_8197352955995"
+          "internal_id": "e_7605626574536"
         }
       ]
     },
@@ -7520,6 +7507,7 @@
         {
           "title": "Bachelor i Matematik-Økonomi",
           "core_name": "Matematik-Økonomi",
+          "edu_type": "Naturvidenskab",
           "institution": {
             "id": "KU",
             "name": "University of Copenhagen",
@@ -7527,7 +7515,7 @@
             "internal_id": "i_794294087626"
           },
           "type": "BSC",
-          "internal_id": "e_1878915026416"
+          "internal_id": "e_3824450303468"
         }
       ]
     },
@@ -7579,6 +7567,7 @@
         {
           "title": "Matematik-Økonomi",
           "core_name": "Matematik-Økonomi",
+          "edu_type": "Naturvidenskab",
           "institution": {
             "id": "SDU",
             "name": "University of Southern Denmark",
@@ -7586,7 +7575,7 @@
             "internal_id": "i_8559354482646"
           },
           "type": "BSC",
-          "internal_id": "e_12193195703404"
+          "internal_id": "e_13291177389317"
         }
       ]
     },
@@ -7637,6 +7626,7 @@
         {
           "title": "Økonomi",
           "core_name": "Økonomi",
+          "edu_type": "Samfundsvidenskab",
           "institution": {
             "id": "AAU",
             "name": "Aalborg University",
@@ -7644,7 +7634,7 @@
             "internal_id": "i_8559325836417"
           },
           "type": "BSC",
-          "internal_id": "e_8197352955995"
+          "internal_id": "e_14888591359864"
         }
       ]
     },
@@ -7714,6 +7704,7 @@
         {
           "title": "Bachelor i Økonomi",
           "core_name": "Økonomi",
+          "edu_type": "Samfundsvidenskab",
           "institution": {
             "id": "KU",
             "name": "University of Copenhagen",
@@ -7721,7 +7712,7 @@
             "internal_id": "i_794294087626"
           },
           "type": "BSC",
-          "internal_id": "e_1878915026416"
+          "internal_id": "e_16944562349478"
         }
       ]
     },
@@ -7780,6 +7771,7 @@
         {
           "title": "Bachelor i Økonomi",
           "core_name": "Økonomi",
+          "edu_type": "Samfundsvidenskab",
           "institution": {
             "id": "SDU",
             "name": "University of Southern Denmark",
@@ -7787,7 +7779,7 @@
             "internal_id": "i_8559354482646"
           },
           "type": "BSC",
-          "internal_id": "e_12193195703404"
+          "internal_id": "e_5984848356538"
         }
       ]
     },
@@ -7839,6 +7831,7 @@
         {
           "title": "Webudvikling",
           "core_name": "Webudvikling",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "institution": {
             "id": "EAS",
             "name": "Erhvervsakademi Sydvest",
@@ -7846,7 +7839,7 @@
             "internal_id": "i_8560779103683"
           },
           "type": "DPBSC",
-          "internal_id": "e_13128368177497"
+          "internal_id": "e_4073058629114"
         }
       ]
     },
@@ -7899,6 +7892,7 @@
         {
           "title": "Webudvikling",
           "core_name": "Webudvikling",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "institution": {
             "id": "EAS",
             "name": "Erhvervsakademi Sydvest",
@@ -7906,11 +7900,12 @@
             "internal_id": "i_8560779103683"
           },
           "type": "DPBSC",
-          "internal_id": "e_13128368177497"
+          "internal_id": "e_4073058629114"
         },
         {
           "title": "Webudvikling",
           "core_name": "Webudvikling",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "institution": {
             "id": "IBA",
             "name": "Erhvervsakademi Kolding",
@@ -7918,11 +7913,12 @@
             "internal_id": "i_8557564949790"
           },
           "type": "DPBSC",
-          "internal_id": "e_12006854388772"
+          "internal_id": "e_4656426566503"
         },
         {
           "title": "Webudvikling",
           "core_name": "Webudvikling",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "institution": {
             "id": "KEA",
             "name": "Københavns erhvervsakademi",
@@ -7930,11 +7926,12 @@
             "internal_id": "i_8557542125659"
           },
           "type": "DPBSC",
-          "internal_id": "e_4635101620417"
+          "internal_id": "e_10087713031778"
         },
         {
           "title": "Webudvikling",
           "core_name": "Webudvikling",
+          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "institution": {
             "id": "KEA",
             "name": "Københavns erhvervsakademi",
@@ -7942,7 +7939,7 @@
             "internal_id": "i_8557542125659"
           },
           "type": "DPBSC",
-          "internal_id": "e_4635101620417"
+          "internal_id": "e_10087713031778"
         }
       ]
     },
@@ -7992,6 +7989,7 @@
         {
           "title": "Master of Science in Bioinformatics and Systems Biology",
           "core_name": "Bioniformatics and Systems Biology",
+          "edu_type": "Naturvidenskab",
           "institution": {
             "id": "DTU",
             "name": "Technical University of Denmark",
@@ -7999,7 +7997,7 @@
             "internal_id": "i_8559284075825"
           },
           "type": "MSC",
-          "internal_id": "e_9782304812203"
+          "internal_id": "e_13838865107114"
         }
       ]
     },
@@ -8054,6 +8052,7 @@
         {
           "title": "MSc in Business Administration and Innnovation in Health Care",
           "core_name": "Business Administration and Innovation in Health Care",
+          "edu_type": "Erhvervsøkonomi, administration og jura",
           "institution": {
             "id": "CBS",
             "name": "Copenhagen Business School",
@@ -8061,7 +8060,7 @@
             "internal_id": "i_8560767324806"
           },
           "type": "MSC",
-          "internal_id": "e_14124979143868"
+          "internal_id": "e_13529584553938"
         }
       ]
     },
@@ -8108,6 +8107,7 @@
         {
           "title": "Byggeri",
           "core_name": "Byggeri",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "institution": {
             "id": "AU",
             "name": "Aarhus University",
@@ -8115,7 +8115,7 @@
             "internal_id": "i_794292227712"
           },
           "type": "BSC",
-          "internal_id": "e_7917332709626"
+          "internal_id": "e_17197540011077"
         }
       ]
     },
@@ -8175,6 +8175,7 @@
         {
           "title": "Computational biomedicine",
           "core_name": "Computational biomedicine",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "institution": {
             "id": "SDU",
             "name": "University of Southern Denmark",
@@ -8182,7 +8183,7 @@
             "internal_id": "i_8559354482646"
           },
           "type": "MSC",
-          "internal_id": "e_12193195703404"
+          "internal_id": "e_1168373986742"
         }
       ]
     },
@@ -8241,6 +8242,7 @@
         {
           "title": "BSC in General Engineering",
           "core_name": "General Engineering",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "institution": {
             "id": "DTU",
             "name": "Technical University of Denmark",
@@ -8248,7 +8250,7 @@
             "internal_id": "i_8559284075825"
           },
           "type": "BSC",
-          "internal_id": "e_9782304812203"
+          "internal_id": "e_17192623869675"
         }
       ]
     },
@@ -8296,6 +8298,7 @@
         {
           "title": "Indoor Environmental and Energy Engineering, MSc in Engineering",
           "core_name": "Indoor Environmental and Energy Engineering",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "institution": {
             "id": "AAU",
             "name": "Aalborg University",
@@ -8303,7 +8306,7 @@
             "internal_id": "i_8559325836417"
           },
           "type": "MSC",
-          "internal_id": "e_8197352955995"
+          "internal_id": "e_6852346709527"
         }
       ]
     },
@@ -8350,6 +8353,7 @@
         {
           "title": "Industrial Engineering and Management",
           "core_name": "Industrial Engineering and Management",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "institution": {
             "id": "DTU",
             "name": "Technical University of Denmark",
@@ -8357,7 +8361,7 @@
             "internal_id": "i_8559284075825"
           },
           "type": "MSC",
-          "internal_id": "e_9782304812203"
+          "internal_id": "e_952113321047"
         }
       ]
     },
@@ -8407,6 +8411,7 @@
         {
           "title": "Industrial Engineering and Management",
           "core_name": "Industrial Engineering and Management",
+          "edu_type": "Teknik, teknologi og industriel produktion",
           "institution": {
             "id": "DTU",
             "name": "Technical University of Denmark",
@@ -8414,7 +8419,7 @@
             "internal_id": "i_8559284075825"
           },
           "type": "MSC",
-          "internal_id": "e_9782304812203"
+          "internal_id": "e_952113321047"
         }
       ]
     },
@@ -8465,6 +8470,7 @@
         {
           "title": "Surveying, Planning and Land Management",
           "core_name": "Surveying, Planning and Land Management",
+          "edu_type": "Bygge- og anlægsteknik",
           "institution": {
             "id": "AAU",
             "name": "Aalborg University",
@@ -8472,10 +8478,10 @@
             "internal_id": "i_8559325836417"
           },
           "type": "MSC",
-          "internal_id": "e_8197352955995"
+          "internal_id": "e_1994046639953"
         }
       ]
     }
   ],
-  "courses_length": 133
+  "courses_length": 130
 }

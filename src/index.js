@@ -6,8 +6,8 @@ const hash = require("hash-it").default;
 // ID generators
 const _hash = (prefix, obj) => `${prefix}_${hash(obj)}`;
 const hash_institution = (institution) => _hash("i", institution.id);
-const hash_education = (education) =>
-  _hash("e", education.name + education.institution);
+const hash_education = (education) =>  _hash("e", education.title + education.institution);
+  
 const hash_course = (course) => _hash("c", course.code);
 
 // list to map helper

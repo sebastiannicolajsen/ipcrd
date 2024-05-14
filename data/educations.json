@@ -6,6 +6,7 @@
       "temp_id": 0,
       "title": "Bachelor in Data Science",
       "core_name": "Data Science",
+      "edu_type": "Naturvidenskab",
       "institution": "ITU",
       "type": "BSC",
       "domains":["CS"]
@@ -14,6 +15,7 @@
       "temp_id": 1,
       "title": "Design og Anvendelse af Kunstig Intelligens",
       "core_name": "Design og Anvendelse af Kunstig Intelligens",
+      "edu_type": "Teknik, teknologi og industriel produktion",
       "institution": "AAU",
       "type": "DPBSC"
     },
@@ -21,6 +23,7 @@
       "temp_id": 2,
       "title": "Diplomingeniør i Eksport og Teknologi",
       "core_name": "Eksport og Teknologi",
+      "edu_type": "Erhvervsøkonomi, administration og jura",
       "institution": "DTU",
       "type": "DPBSC"
     },
@@ -28,6 +31,7 @@
       "temp_id": 3,
       "title": "Diplomingeniør i Elektrisk Energiteknologi",
       "core_name": "Elektrisk Energiteknologi",
+      "edu_type": "Teknik, teknologi og industriel produktion",
       "institution": "DTU",
       "type": "DPBSC"
     },
@@ -35,6 +39,7 @@
       "temp_id": 4,
       "title": "Diplomingeniør i Elektrisk Energiteknologi",
       "core_name": "Elektrisk Energiteknologi",
+      "edu_type": "Teknik, teknologi og industriel produktion",
       "institution": "SDU",
       "type": "DPBSC"
     },
@@ -42,6 +47,7 @@
       "temp_id": 5,
       "title": "Elektrisk Energiteknologi",
       "core_name": "Elektrisk Energiteknologi",
+      "edu_type": "Teknik, teknologi og industriel produktion",
       "institution": "AU",
       "type": "DPBSC"
     },
@@ -49,6 +55,7 @@
       "temp_id": 6,
       "title": "Diplomingeniør i Elektroteknologi",
       "core_name": "Elektroteknologi",
+      "edu_type": "Teknik, teknologi og industriel produktion",
       "institution": "DTU",
       "type": "DPBSC"
     },
@@ -56,6 +63,7 @@
       "temp_id": 7,
       "title": "IT-Elektronik",
       "core_name": "IT-Elektronik",
+      "edu_type": "Teknik, teknologi og industriel produktion",
       "institution": "DTU",
       "type": "DPBSC"
     },
@@ -63,6 +71,7 @@
       "temp_id": 8,
       "title": "Diplomingeniør i Maskinteknik",
       "core_name": "Maskinteknik",
+      "edu_type": "Mekanik, jern og metal",
       "institution": "DTU",
       "type": "DPBSC"
     },
@@ -70,6 +79,7 @@
       "temp_id": 9,
       "title": "Diplomingeniør i Maskinteknologi",
       "core_name":"Maskinteknologi",
+      "edu_type": "Mekanik, jern og metal",
       "institution": "PHA",
       "type": "DPBSC"
     },
@@ -77,6 +87,7 @@
       "temp_id": 10,
       "title": "Diplomingeniør i Mechanical / Maskinteknik",
       "core_name": "Mechanical / Maskinteknik",
+      "edu_type": "Mekanik, jern og metal",
       "institution": "SDU",
       "type": "DPBSC"
     },
@@ -84,6 +95,7 @@
       "temp_id": 11,
       "title": "Maskinteknik",
       "core_name": "Maskinteknik",
+      "edu_type": "Mekanik, jern og metal",
       "institution": "AAU",
       "type": "DPBSC"
     },
@@ -91,6 +103,7 @@
       "temp_id": 12,
       "title": "Softwareteknologi",
       "core_name": "Softwareteknologi",
+      "edu_type": "Informations- og kommunikationsteknologi (IKT)",
       "institution": "DTU",
       "type": "DPBSC"
     },
@@ -98,6 +111,7 @@
       "temp_id": 13,
       "title": "Softwareingeniør",
       "core_name": "Softwareteknologi",
+      "edu_type": "Informations- og kommunikationsteknologi (IKT)",
       "institution": "VIA",
       "type": "DPBSC"
     },
@@ -105,6 +119,7 @@
       "temp_id": 14,
       "title": "Diplomingeniør i Softwareteknologi",
       "core_name": "Softwareteknologi",
+      "edu_type": "Informations- og kommunikationsteknologi (IKT)",
       "institution": "SDU",
       "type": "DPBSC"
     },
@@ -112,6 +127,7 @@
       "temp_id": 15,
       "title": "Softwareteknologi",
       "core_name": "Softwareteknologi",
+      "edu_type": "Informations- og kommunikationsteknologi (IKT)",
       "institution": "AU",
       "type": "DPBSC"
     },
@@ -119,6 +135,7 @@
       "temp_id": 16,
       "title": "Elektroteknologi",
       "core_name": "Elektroteknologi",
+      "edu_type": "Teknik, teknologi og industriel produktion",
       "institution": "DTU",
       "type": "BSC"
     },
@@ -126,6 +143,7 @@
       "temp_id": 17,
       "title": "Elektroteknologi",
       "core_name": "Elektroteknologi",
+      "edu_type": "Teknik, teknologi og industriel produktion",
       "institution": "AU",
       "type": "BSC"
     },
@@ -133,6 +151,7 @@
       "temp_id": 18,
       "title": "Informatik",
       "core_name": "Informatik",
+      "edu_type": "Informations- og kommunikationsteknologi (IKT)",
       "institution": "RUC",
       "type": "BSC"
     },
@@ -140,6 +159,7 @@
       "temp_id": 19,
       "title": "Digital Design -  IT, Æstetik og Interaktion",
       "core_name": "Digital Design -  IT, Æstetik og Interaktion",
+      "edu_type": "Samfundsvidenskab",
       "institution": "AU",
       "type": "BSC"
     },
@@ -147,6 +167,7 @@
       "temp_id": 20,
       "title": "Biomedicin",
       "core_name": "Biomedicin",
+      "edu_type": "Teknik, teknologi og industriel produktion",
       "institution": "SDU",
       "type": "BSC"
     },
@@ -154,6 +175,7 @@
       "temp_id": 21,
       "title": "Bioteknologi",
       "core_name": "Bioteknologi",
+      "edu_type": "Naturvidenskab",
       "institution": "AAU",
       "type": "BSC"
     },
@@ -161,6 +183,7 @@
       "temp_id": 22,
       "title": "Bioteknologi",
       "core_name": "Bioteknologi",
+      "edu_type": "Naturvidenskab",
       "institution": "AU",
       "type": "BSC"
     },
@@ -168,6 +191,7 @@
       "temp_id": 23,
       "title": "Molecular Health Science",
       "core_name": "Molecular Health Science",
+      "edu_type": "Naturvidenskab",
       "institution": "RUC",
       "type": "MSC"
     },
@@ -175,6 +199,7 @@
       "temp_id": 24,
       "title": "Chemical Biology",
       "core_name": "Chemical Biology",
+      "edu_type": "Naturvidenskab",
       "institution": "RUC",
       "type": "MSC"
     },
@@ -182,6 +207,7 @@
       "temp_id": 25,
       "title": "Agriculture",
       "core_name": "Agriculture",
+      "edu_type": "Jordbrug, skovbrug og fiskeri",
       "institution": "KU",
       "type": "MSC"
     },
@@ -189,6 +215,7 @@
       "temp_id": 26,
       "title": "Environmental Science",
       "core_name": "Environmental Science",
+      "edu_type": "Naturvidenskab",
       "institution": "KU",
       "type": "MSC"
     },
@@ -196,6 +223,7 @@
       "temp_id": 27,
       "title": "Environment and Development",
       "core_name": "Environment and Development",
+      "edu_type": "Jordbrug, skovbrug og fiskeri",
       "institution": "KU",
       "type": "MSC"
     },
@@ -203,6 +231,7 @@
       "temp_id": 28,
       "title": "Global Environment and Development",
       "core_name": "Global Environment and Development",
+      "edu_type": "Jordbrug, skovbrug og fiskeri",
       "institution": "KU",
       "type": "MSC"
     },
@@ -210,6 +239,7 @@
       "temp_id": 29,
       "title": "Molekylær Medicin",
       "core_name": "Molekylær Medicin",
+      "edu_type": "Naturvidenskab",
       "institution": "AU",
       "type": "BSC"
     },
@@ -217,6 +247,7 @@
       "temp_id": 30,
       "title": "Molekylærbiologi",
       "core_name": "Molekylærbiologi",
+      "edu_type": "Naturvidenskab",
       "institution": "AU",
       "type": "BSC"
     },
@@ -224,12 +255,14 @@
       "temp_id": 31,
       "title": "Biokemi og Molekylær Biologi",
       "core_name": "Biokemi og Molekylær Biologi",
+      "edu_type": "Naturvidenskab",
       "institution": "SDU",
       "type": "MSC"
     },
     {
       "temp_id": 32,
       "title": "Biomedicinsk informatik",
+      "edu_type": "Teknik, teknologi og industriel produktion",
       "institution": "SDU",
       "type": "MSC"
     },
@@ -237,6 +270,7 @@
       "temp_id": 33,
       "title": "Civilingeniør i Energisystemer",
       "core_name": "Energisystemer",
+      "edu_type": "Teknik, teknologi og industriel produktion",
       "institution": "SDU",
       "type": "BSC"
     },
@@ -244,6 +278,7 @@
       "temp_id": 34,
       "title": "Bacheloruddannelsen i Fysik",
       "core_name": "Fysik",
+      "edu_type": "Naturvidenskab",
       "institution": "KU",
       "type": "BSC"
     },
@@ -251,6 +286,7 @@
       "temp_id": 35,
       "title": "Bacheloruddannelsen i Kemi",
       "core_name": "Kemi",
+      "edu_type": "Naturvidenskab",
       "institution": "KU",
       "type": "BSC"
     },
@@ -258,6 +294,7 @@
       "temp_id": 36,
       "title": "Fysik",
       "core_name": "Fysik",
+      "edu_type": "Naturvidenskab",
       "institution": "AU",
       "type": "BSC"
     },
@@ -265,6 +302,7 @@
       "temp_id": 37,
       "title": "Civilingeniør i Fysik og Teknologi",
       "core_name": "Fysik og Teknologi",
+      "edu_type": "Teknik, teknologi og industriel produktion",
       "institution": "SDU",
       "type": "BSC"
     },
@@ -272,6 +310,7 @@
       "temp_id": 38,
       "title": "Elektronik og Systemdesign",
       "core_name": "Elektronik og Systemdesign",
+      "edu_type": "Teknik, teknologi og industriel produktion",
       "institution": "AAU",
       "type": "BSC"
     },
@@ -279,6 +318,7 @@
       "temp_id": 39,
       "title": "Kandidat i Social Datavidenskab",
       "core_name": "Social Datavidenskab",
+      "edu_type": "Samfundsvidenskab",
       "institution": "KU",
       "type": "MSC"
     },
@@ -286,6 +326,7 @@
       "temp_id": 40,
       "title": "Diplomingeniør i Mechatronics",
       "core_name": "Mechatronics",
+      "edu_type": "Teknik, teknologi og industriel produktion",
       "institution": "SDU",
       "type": "DPBSC"
     },
@@ -293,6 +334,7 @@
       "temp_id": 41,
       "title": "Skov- og Landskabsingeniør",
       "core_name": "Skov- og Landskabsingeniør",
+      "edu_type": "Jordbrug, skovbrug og fiskeri",
       "institution": "SDU",
       "type": "DPBSC"
     },
@@ -300,6 +342,7 @@
       "temp_id": 42,
       "title": "Urban Landskabsingeniør",
       "core_name": "Urban Landskabsingeniør",
+      "edu_type": "Jordbrug, skovbrug og fiskeri",
       "institution": "SDU",
       "type": "BSC"
     },
@@ -307,6 +350,7 @@
       "temp_id": 43,
       "title": "Civilingeniør i Bygningsteknik",
       "core_name": "Bygningsteknik",
+      "edu_type": "Bygge- og anlægsteknik",
       "institution": "SDU",
       "type": "BSC"
     },
@@ -314,6 +358,7 @@
       "temp_id": 44,
       "title": "Bachelor i Kommunikation og IT",
       "core_name": "Kommunikation og IT",
+      "edu_type": "Samfundsvidenskab",
       "institution": "KU",
       "type": "BSC"
     },
@@ -321,6 +366,7 @@
       "temp_id": 45,
       "title": "Civilingeniør i Sundheds- og Velfærdsteknologi",
       "core_name": "Sundheds- og Velfærdsteknologi",
+      "edu_type": "Teknik, teknologi og industriel produktion",
       "institution": "SDU",
       "type": "BSC"
     },
@@ -328,6 +374,7 @@
       "temp_id": 46,
       "title": "Digitalisering og Applikationsudvikling",
       "core_name": "Digitalisering og Applikationsudvikling",
+      "edu_type": "Informations- og kommunikationsteknologi (IKT)",
       "institution": "AAU",
       "type": "MSC"
     },
@@ -335,6 +382,7 @@
       "temp_id": 47,
       "title": "Bachelor i Softwareudvikling",
       "core_name": "Softwareudvikling",
+      "edu_type": "Informations- og kommunikationsteknologi (IKT)",
       "institution": "ITU",
       "type": "BSC"
     },
@@ -342,6 +390,7 @@
       "temp_id": 48,
       "title": "Elektronik (Herning)",
       "core_name": "Elektronik",
+      "edu_type": "Teknik, teknologi og industriel produktion",
       "institution": "AU",
       "type": "DPBSC"
     },
@@ -349,6 +398,7 @@
       "temp_id": 49,
       "title": "Diplomingeniør i Elektronik",
       "core_name": "Elektronik",
+      "edu_type": "Teknik, teknologi og industriel produktion",
       "institution": "SDU",
       "type": "DPBSC"
     },
@@ -356,6 +406,7 @@
       "temp_id": 50,
       "title": "Diplomingeniør i Electronics",
       "core_name": "Electronics",
+      "edu_type": "Teknik, teknologi og industriel produktion",
       "institution": "SDU",
       "type": "DPBSC"
     },
@@ -363,6 +414,7 @@
       "temp_id": 51,
       "title": "Elektronik",
       "core_name": "Elektronik",
+      "edu_type": "Teknik, teknologi og industriel produktion",
       "institution": "AAU",
       "type": "DPBSC"
     },
@@ -370,6 +422,7 @@
       "temp_id": 52,
       "title": "Elektronik",
       "core_name": "Elektronik",
+      "edu_type": "Teknik, teknologi og industriel produktion",
       "institution": "AU",
       "type": "DPBSC"
     },
@@ -377,6 +430,7 @@
       "temp_id": 53,
       "title": "Informations-videnskab, IT og Interaktionsdesign",
       "core_name": "Informations-videnskab, IT og Interaktionsdesign",
+      "edu_type": "Informations- og kommunikationsteknologi (IKT)",
       "institution": "SDU",
       "type": "BSC"
     },
@@ -384,6 +438,7 @@
       "temp_id": 54,
       "title": "Computerteknologi",
       "core_name": "Computerteknologi",
+      "edu_type": "Informations- og kommunikationsteknologi (IKT)",
       "institution": "AAU",
       "type": "BSC"
     },
@@ -391,6 +446,7 @@
       "temp_id": 55,
       "title": "Computerteknologi",
       "core_name": "Computerteknologi",
+      "edu_type": "Informations- og kommunikationsteknologi (IKT)",
       "institution": "AU",
       "type": "BSC"
     },
@@ -398,6 +454,7 @@
       "temp_id": 56,
       "title": "Software",
       "core_name": "Software",
+      "edu_type": "Informations- og kommunikationsteknologi (IKT)",
       "institution": "AAU",
       "type": "BSC"
     },
@@ -405,6 +462,7 @@
       "temp_id": 57,
       "title": "Diplomingeniør i IT og Økonomi",
       "core_name": "IT og Økonomi",
+      "edu_type": "Teknik, teknologi og industriel produktion",
       "institution": "DTU",
       "type": "DPBSC"
     },
@@ -412,6 +470,7 @@
       "temp_id": 58,
       "title": "Datavidenskab og Machine Learning",
       "core_name": "Datavidenskab og Machine Learning",
+      "edu_type": "Naturvidenskab",
       "institution": "AAU",
       "type": "BSC"
     },
@@ -419,6 +478,7 @@
       "temp_id": 59,
       "title": "Agrobiologi",
       "core_name": "Agrobiologi",
+      "edu_type": "Jordbrug, skovbrug og fiskeri",
       "institution": "AU",
       "type": "BSC"
     },
@@ -426,6 +486,7 @@
       "temp_id": 60,
       "title": "Bachelor i Global Business Informatics",
       "core_name": "Global Business Informatics",
+      "edu_type": "Informations- og kommunikationsteknologi (IKT)",
       "institution": "ITU",
       "type": "BSC"
     },
@@ -433,6 +494,7 @@
       "temp_id": 61,
       "title": "Bachelor i General Engineering",
       "core_name": "General Engineering",
+      "edu_type": "Teknik, teknologi og industriel produktion",
       "institution": "DTU",
       "type": "BSC"
     },
@@ -440,6 +502,7 @@
       "temp_id": 62,
       "title": "Kandidat i Softwaredesign",
       "core_name": "Softwaredesign",
+      "edu_type": "Informations- og kommunikationsteknologi (IKT)",
       "institution": "ITU",
       "type": "MSC"
     },
@@ -447,6 +510,7 @@
       "temp_id": 63,
       "title": "Datavidenskab",
       "core_name": "Datavidenskab",
+      "edu_type": "Naturvidenskab",
       "institution": "AU",
       "type": "BSC"
     },
@@ -454,6 +518,7 @@
       "temp_id": 64,
       "title": "Interaktionsdesign",
       "core_name": "Interaktionsdesign",
+      "edu_type": "Informations- og kommunikationsteknologi (IKT)",
       "institution": "AAU",
       "type": "BSC"
     },
@@ -461,6 +526,7 @@
       "temp_id": 65,
       "title": "Anvendt Matematik",
       "core_name": "Anvendt Matematik",
+      "edu_type": "Naturvidenskab",
       "institution": "SDU",
       "type": "BSC"
     },
@@ -468,6 +534,7 @@
       "temp_id": 66,
       "title": "Bæredygtigt Design",
       "core_name": "Bæredygtigt Design",
+      "edu_type": "Teknik, teknologi og industriel produktion",
       "institution": "AAU",
       "type": "BSC"
     },
@@ -475,6 +542,7 @@
       "temp_id": 67,
       "title": "Bachelor i Bæredygtigt Energidesign",
       "core_name": "Bæredygtigt Energidesign",
+      "edu_type": "Teknik, teknologi og industriel produktion",
       "institution": "DTU",
       "type": "BSC"
     },
@@ -482,6 +550,7 @@
       "temp_id": 68,
       "title": "Master of Science (MSc) in Sustainable Fisheries and Aquaculture",
       "core_name": "Sustainable Fisheries and Aquaculture",
+      "edu_type": "Teknik, teknologi og industriel produktion",
       "institution": "DTU",
       "type": "MSC"
     },
@@ -489,6 +558,7 @@
       "temp_id": 69,
       "title": "Bachelor i Digital Design og Interaktive Teknologier",
       "core_name": "Digital Design og Interaktive Teknologier",
+      "edu_type": "Informations- og kommunikationsteknologi (IKT)",
       "institution": "ITU",
       "type": "BSC"
     },
@@ -496,6 +566,7 @@
       "temp_id": 70,
       "title": "Ha(Mat.) Erhvervsøkonomi - Matematik",
       "core_name": "Erhvervsøkonomi - Matematik",
+      "edu_type": "Erhvervsøkonomi, administration og jura",
       "institution": "CBS",
       "type": "BSC"
     },
@@ -503,6 +574,7 @@
       "temp_id": 71,
       "title": "IT-Produktudvikling",
       "core_name": "IT-Produktudvikling",
+      "edu_type": "Informations- og kommunikationsteknologi (IKT)",
       "institution": "AU",
       "type": "BSC"
     },
@@ -510,6 +582,7 @@
       "temp_id": 72,
       "title": "Kunstig Intelligens",
       "core_name": "Kunstig Intelligens",
+      "edu_type": "Teknik, teknologi og industriel produktion",
       "institution": "SDU",
       "type": "BSC"
     },
@@ -517,6 +590,7 @@
       "temp_id": 73,
       "title": "Bachelor i Kunstig Intelligens og Data",
       "core_name": "Kunstig Intelligens og Data",
+      "edu_type": "Teknik, teknologi og industriel produktion",
       "institution": "DTU",
       "type": "BSC"
     },
@@ -524,6 +598,7 @@
       "temp_id": 74,
       "title": "Sundhedsteknologi",
       "core_name": "Sundhedsteknologi",
+      "edu_type": "Teknik, teknologi og industriel produktion",
       "institution": "AAU",
       "type": "BSC"
     },
@@ -531,6 +606,7 @@
       "temp_id": 75,
       "title": "Kandidat i Digital Design og Interaktive Teknologier",
       "core_name": "Digital Design og Interaktive Teknologier",
+      "edu_type": "Informations- og kommunikationsteknologi (IKT)",
       "institution": "ITU",
       "type": "MSC"
     },
@@ -538,6 +614,7 @@
       "temp_id": 77,
       "title": "Informationsteknologi",
       "core_name": "Informationsteknologi",
+      "edu_type": "Informations- og kommunikationsteknologi (IKT)",
       "institution": "AAU",
       "type": "BSC"
     },
@@ -545,6 +622,7 @@
       "temp_id": 78,
       "title": "Bioteknologi",
       "core_name": "Bioteknologi",
+      "edu_type": "Naturvidenskab",
       "institution": "KU",
       "type": "BSC"
     },
@@ -552,6 +630,7 @@
       "temp_id": 79,
       "title": "Bachelor i Fødevarer og Ernæring",
       "core_name": "Bachelor i Fødevarer og Ernæring",
+      "edu_type": "Social og sundhed",
       "institution": "KU",
       "type": "BSC"
     },
@@ -559,6 +638,7 @@
       "temp_id": 80,
       "title": "Bachelor i Husdyrvidenskab",
       "core_name": "Bachelor i Husdyrvidenskab",
+      "edu_type": "Jordbrug, skovbrug og fiskeri",
       "institution": "KU",
       "type": "BSC"
     },
@@ -566,6 +646,7 @@
       "temp_id": 81,
       "title": "Bachelor i Miljø- og Fødevareøkonomi",
       "core_name": "Miljø- og Fødevareøkonomi",
+      "edu_type": "Jordbrug, skovbrug og fiskeri",
       "institution": "KU",
       "type": "BSC"
     },
@@ -573,6 +654,7 @@
       "temp_id": 82,
       "title": "Bachelor i Naturressourcer",
       "core_name": "Naturressourcer",
+      "edu_type": "Naturvidenskab",
       "institution": "KU",
       "type": "BSC"
     },
@@ -580,6 +662,7 @@
       "temp_id": 83,
       "title": "Cognitive Science",
       "core_name": "Cognitive Science",
+      "edu_type": "Naturvidenskab",
       "institution": "AU",
       "type": "BSC"
     },
@@ -587,6 +670,7 @@
       "temp_id": 84,
       "title": "Biokemi og Molekylær Biologi",
       "core_name": "Biokemi og Molekylær Biologi",
+      "edu_type": "Naturvidenskab",
       "institution": "SDU",
       "type": "BSC"
     },
@@ -594,6 +678,7 @@
       "temp_id": 85,
       "title": "Bachelor i Geologi-Geogscience",
       "core_name": "Geologi-Geogscience",
+      "edu_type": "Naturvidenskab",
       "institution": "KU",
       "type": "BSC"
     },
@@ -601,6 +686,7 @@
       "temp_id": 86,
       "title": "Geoscience",
       "core_name": "Geoscience",
+      "edu_type": "Naturvidenskab",
       "institution": "AU",
       "type": "BSC"
     },
@@ -608,6 +694,7 @@
       "temp_id": 87,
       "title": "MSc in Business Adminstration and Digital Business",
       "core_name": "Business Adminstration and Digital Business",
+      "edu_type": "Erhvervsøkonomi, administration og jura",
       "institution": "CBS",
       "type": "MSC"
     },
@@ -615,6 +702,7 @@
       "temp_id": 88,
       "title": "Diplomingeniør i Robotteknologi",
       "core_name": "Robotteknologi",
+      "edu_type": "Teknik, teknologi og industriel produktion",
       "institution": "SDU",
       "type": "DPBSC"
     },
@@ -622,6 +710,7 @@
       "temp_id": 89,
       "title": "Civillingeniør i Software Engineering",
       "core_name": "Software Engineering",
+      "edu_type": "Informations- og kommunikationsteknologi (IKT)",
       "institution": "SDU",
       "type": "BSC"
     },
@@ -629,6 +718,7 @@
       "temp_id": 90,
       "title": "Civillingeniør i Software Engineering (Sønderborg)",
       "core_name": "Software Engineering",
+      "edu_type": "Informations- og kommunikationsteknologi (IKT)",
       "institution": "SDU",
       "type": "BSC"
     },
@@ -636,6 +726,7 @@
       "temp_id": 91,
       "title": "Civilingeniør i Spiludvikling og Læringsteknologi",
       "core_name": "Spiludvikling og Læringsteknologi",
+      "edu_type": "Teknik, teknologi og industriel produktion",
       "institution": "SDU",
       "type": "BSC"
     },
@@ -643,6 +734,7 @@
       "temp_id": 94,
       "title": "Informationsvidenskab",
       "core_name": "Informationsvidenskab",
+      "edu_type": "Samfundsvidenskab",
       "institution": "AU",
       "type": "BSC"
     },
@@ -650,6 +742,7 @@
       "temp_id": 99,
       "title": "Bachelor i Kemi og Teknologi",
       "core_name": "Kemi og Teknologi",
+      "edu_type": "Teknik, teknologi og industriel produktion",
       "institution": "DTU",
       "type": "BSC"
     },
@@ -657,6 +750,7 @@
       "temp_id": 100,
       "title": "Kemiteknologi",
       "core_name": "Kemiteknologi",
+      "edu_type": "Teknik, teknologi og industriel produktion",
       "institution": "AU",
       "type": "BSC"
     },
@@ -664,6 +758,7 @@
       "temp_id": 101,
       "title": "Økonomi og IT",
       "core_name": "Økonomi og IT",
+      "edu_type": "Erhvervsøkonomi, administration og jura",
       "institution": "KEA",
       "type": "DPBSC"
     },
@@ -671,6 +766,7 @@
       "temp_id": 102,
       "title": "Professionsbachelor i Økonomi og IT",
       "core_name": "Økonomi og IT",
+      "edu_type": "Erhvervsøkonomi, administration og jura",
       "institution": "EA",
       "type": "DPBSC"
     },
@@ -678,6 +774,7 @@
       "temp_id": 103,
       "title": "Ingeniørvidenskab",
       "core_name": "Ingeniørvidenskab",
+      "edu_type": "Teknik, teknologi og industriel produktion",
       "institution": "AAU",
       "type": "BSC"
     },
@@ -685,6 +782,7 @@
       "temp_id": 104,
       "title": "Civilingeniør i Maskinteknik (Odense)",
       "core_name": "Maskinteknik",
+      "edu_type": "Mekanik, jern og metal",
       "institution": "SDU",
       "type": "BSC"
     },
@@ -692,6 +790,7 @@
       "temp_id": 105,
       "title": "Civilingeniør i Mechanical / Maskinteknik (Sønderborg)",
       "core_name": "Mechanical / Maskinteknik",
+      "edu_type": "Mekanik, jern og metal",
       "institution": "SDU",
       "type": "BSC"
     },
@@ -699,6 +798,7 @@
       "temp_id": 106,
       "title": "Mekanik",
       "core_name": "Mekanik",
+      "edu_type": "Mekanik, jern og metal",
       "institution": "AU",
       "type": "BSC"
     },
@@ -706,6 +806,7 @@
       "temp_id": 107,
       "title": "Datalogi",
       "core_name": "Datalogi",
+      "edu_type": "Informations- og kommunikationsteknologi (IKT)",
       "institution": "AU",
       "type": "BSC"
     },
@@ -713,6 +814,7 @@
       "temp_id": 108,
       "title": "Datalogi",
       "core_name": "Datalogi",
+      "edu_type": "Informations- og kommunikationsteknologi (IKT)",
       "institution": "KU",
       "type": "BSC"
     },
@@ -720,6 +822,7 @@
       "temp_id": 108,
       "title": "Bachelor i Datalogi",
       "core_name": "Datalogi",
+      "edu_type": "Informations- og kommunikationsteknologi (IKT)",
       "institution": "KU",
       "type": "BSC"
     },
@@ -727,6 +830,7 @@
       "temp_id": 109,
       "title": "Bachelor i Datalogi-Økonomi",
       "core_name": "Datalogi-Økonomi",
+      "edu_type": "Informations- og kommunikationsteknologi (IKT)",
       "institution": "KU",
       "type": "BSC"
     },
@@ -734,6 +838,7 @@
       "temp_id": 110,
       "title": "Bachelor i Machinelearning og Datavidenskab",
       "core_name": "Machinelearning og Datavidenskab",
+      "edu_type": "Informations- og kommunikationsteknologi (IKT)",
       "institution": "KU",
       "type": "BSC"
     },
@@ -741,6 +846,7 @@
       "temp_id": 111,
       "title": "Bachelor i Kognitions- og Datavidenskab",
       "core_name": "Kognitions- og Datavidenskab",
+      "edu_type": "Naturvidenskab",
       "institution": "KU",
       "type": "BSC"
     },
@@ -748,6 +854,7 @@
       "temp_id": 112,
       "title": "Datalogi",
       "core_name": "Datalogi",
+      "edu_type": "Informations- og kommunikationsteknologi (IKT)",
       "institution": "AU",
       "type": "BSC"
     },
@@ -755,6 +862,7 @@
       "temp_id": 113,
       "title": "Datalogi",
       "core_name": "Datalogi",
+      "edu_type": "Informations- og kommunikationsteknologi (IKT)",
       "institution": "SDU",
       "type": "BSC"
     },
@@ -762,6 +870,7 @@
       "temp_id": 114,
       "title": "Datalogi",
       "core_name": "Datalogi",
+      "edu_type": "Informations- og kommunikationsteknologi (IKT)",
       "institution": "RUC",
       "type": "BSC"
     },
@@ -769,6 +878,7 @@
       "temp_id": 115,
       "title": "HA(it.) - Erhvervsøkonomi - Informationsteknologi",
       "core_name": "Erhvervsøkonomi - Informationsteknologi",
+      "edu_type": "Informations- og kommunikationsteknologi (IKT)",
       "institution": "CBS",
       "type": "BSC"
     },
@@ -776,6 +886,7 @@
       "temp_id": 116,
       "title": "Globale Forretningssystemer, Diplomingeniør",
       "core_name": "Globale Forretningssystemer",
+      "edu_type": "Teknik, teknologi og industriel produktion",
       "institution": "AAU",
       "type": "DPBSC"
     },
@@ -783,6 +894,7 @@
       "temp_id": 117,
       "title": "Globale Forretningssystemer",
       "core_name": "Globale Forretningssystemer",
+      "edu_type": "Teknik, teknologi og industriel produktion",
       "institution": "AAU",
       "type": "BSC"
     },
@@ -790,6 +902,7 @@
       "temp_id": 118,
       "title": "Service Systems Design (København)",
       "core_name": "Service Systems Design",
+      "edu_type": "Informations- og kommunikationsteknologi (IKT)",
       "institution": "AAU",
       "type": "MSC"
     },
@@ -797,6 +910,7 @@
       "temp_id": 119,
       "title": "Kemiteknologi",
       "core_name": "Kemiteknologi",
+      "edu_type": "Teknik, teknologi og industriel produktion",
       "institution": "AU",
       "type": "DPBSC"
     },
@@ -804,6 +918,7 @@
       "temp_id": 120,
       "title": "Matematik",
       "core_name": "Matematik",
+      "edu_type": "Naturvidenskab",
       "institution": "AAU",
       "type": "BSC"
     },
@@ -811,6 +926,7 @@
       "temp_id": 121,
       "title": "Matematik",
       "core_name": "Matematik",
+      "edu_type": "Naturvidenskab",
       "institution": "AU",
       "type": "BSC"
     },
@@ -818,6 +934,7 @@
       "temp_id": 122,
       "title": "Bachelor i Produkt- og Designpsykologi",
       "core_name": "Produkt- og Designpsykologi",
+      "edu_type": "Teknik, teknologi og industriel produktion",
       "institution": "AAU",
       "type": "BSC"
     },
@@ -825,6 +942,7 @@
       "temp_id": 123,
       "title": "Bachelor i Datavidenskab",
       "core_name": "Datavidenskab",
+      "edu_type": "Naturvidenskab",
       "institution": "AAU",
       "type": "BSC"
     },
@@ -832,6 +950,7 @@
       "temp_id": 124,
       "title": "Matematik",
       "core_name": "Matematik",
+      "edu_type": "Naturvidenskab",
       "institution": "SDU",
       "type": "BSC"
     },
@@ -839,6 +958,7 @@
       "temp_id": 125,
       "title": "Matematik og Teknologi",
       "core_name": "Matematik og Teknologi",
+      "edu_type": "Teknik, teknologi og industriel produktion",
       "institution": "DTU",
       "type": "BSC"
     },
@@ -846,6 +966,7 @@
       "temp_id": 126,
       "title": "Matematik-Teknologi",
       "core_name": "Matematik-Teknologi",
+      "edu_type": "Teknik, teknologi og industriel produktion",
       "institution": "AAU",
       "type": "BSC"
     },
@@ -853,6 +974,7 @@
       "temp_id": 127,
       "title": "Medialogi",
       "core_name": "Medialogi",
+      "edu_type": "Informations- og kommunikationsteknologi (IKT)",
       "institution": "AAU",
       "type": "BSC"
     },
@@ -860,6 +982,7 @@
       "temp_id": 128,
       "title": "Bachelor i Medicin og Teknologi",
       "core_name": "Medicin og Teknologi",
+      "edu_type": "Teknik, teknologi og industriel produktion",
       "institution": "DTU",
       "type": "BSC"
     },
@@ -867,6 +990,7 @@
       "temp_id": 129,
       "title": "Mekanik og Produktion",
       "core_name": "Mekanik og Produktion",
+      "edu_type": "Mekanik, jern og metal",
       "institution": "AAU",
       "type": "BSC"
     },
@@ -874,6 +998,7 @@
       "temp_id": 131,
       "title": "Digital Innovation og Management",
       "core_name": "Digital Innovation og Management",
+      "edu_type": "Informations- og kommunikationsteknologi (IKT)",
       "institution": "ITU",
       "type": "MSC"
     },
@@ -881,6 +1006,7 @@
       "temp_id": 132,
       "title": "Bachelor i Geofysik og Rumteknologi",
       "core_name": "Geofysik og Rumteknologi",
+      "edu_type": "Teknik, teknologi og industriel produktion",
       "institution": "DTU",
       "type": "BSC"
     },
@@ -888,6 +1014,7 @@
       "temp_id": 133,
       "title": "Bachelor i Nanoscience",
       "core_name": "Nanoscience",
+      "edu_type": "Naturvidenskab",
       "institution": "KU",
       "type": "BSC"
     },
@@ -895,6 +1022,7 @@
       "temp_id": 134,
       "title": "Bachelor i Sundhed og Informatik",
       "core_name": "Sundhed og Informatik",
+      "edu_type": "Informations- og kommunikationsteknologi (IKT)",
       "institution": "KU",
       "type": "BSC"
     },
@@ -902,6 +1030,7 @@
       "temp_id": 136,
       "title": "Bachelor i Kemi",
       "core_name": "Kemi",
+      "edu_type": "Naturvidenskab",
       "institution": "AAU",
       "type": "BSC"
     },
@@ -909,6 +1038,7 @@
       "temp_id": 137,
       "title": "Bachelor i Biologi",
       "core_name": "Biologi",
+      "edu_type": "Naturvidenskab",
       "institution": "AAU",
       "type": "BSC"
     },
@@ -916,6 +1046,7 @@
       "temp_id": 138,
       "title": "Bachelor i Kemiteknologi",
       "core_name": "Kemiteknologi",
+      "edu_type": "Teknik, teknologi og industriel produktion",
       "institution": "AAU",
       "type": "BSC"
     },
@@ -923,6 +1054,7 @@
       "temp_id": 139,
       "title": "Chemical Engineering and Biotechnology",
       "core_name": "Chemical Engineering and Biotechnology",
+      "edu_type": "Naturvidenskab",
       "institution": "AAU",
       "type": "BSC"
     },
@@ -930,6 +1062,7 @@
       "temp_id": 140,
       "title": "Miljøvidenskab",
       "core_name": "Miljøvidenskab",
+      "edu_type": "Teknik, teknologi og industriel produktion",
       "institution": "AAU",
       "type": "BSC"
     },
@@ -937,6 +1070,7 @@
       "temp_id": 141,
       "title": "Kemi og Bioteknologi, diplomingeniør (Aalborg)",
       "core_name": "Kemi og Bioteknologi",
+      "edu_type": "Naturvidenskab",
       "institution": "AAU",
       "type": "DPBSC"
     },
@@ -944,6 +1078,7 @@
       "temp_id": 142,
       "title": "Biologi",
       "core_name": "Biologi",
+      "edu_type": "Naturvidenskab",
       "institution": "AU",
       "type": "BSC"
     },
@@ -951,6 +1086,7 @@
       "temp_id": 143,
       "title": "Applied Industrial Electronics",
       "core_name": "Applied Industrial Electronics",
+      "edu_type": "Teknik, teknologi og industriel produktion",
       "institution": "AAU",
       "type": "BSC"
     },
@@ -958,6 +1094,7 @@
       "temp_id": 144,
       "title": "Bæredygtig Energiteknik, Diplomingeniør",
       "core_name": "Bæredygtig Energiteknik",
+      "edu_type": "Teknik, teknologi og industriel produktion",
       "institution": "AAU",
       "type": "DPBSC"
     },
@@ -965,6 +1102,7 @@
       "temp_id": 145,
       "title": "Energi",
       "core_name": "Energi",
+      "edu_type": "Teknik, teknologi og industriel produktion",
       "institution": "AAU",
       "type": "BSC"
     },
@@ -972,6 +1110,7 @@
       "temp_id": 146,
       "title": "Robotteknologi",
       "core_name": "Robotteknologi",
+      "edu_type": "Teknik, teknologi og industriel produktion",
       "institution": "AAU",
       "type": "BSC"
     },
@@ -979,6 +1118,7 @@
       "temp_id": 147,
       "title": "Civilingeniør i Robotteknologi",
       "core_name": "Robotteknologi",
+      "edu_type": "Teknik, teknologi og industriel produktion",
       "institution": "SDU",
       "type": "BSC"
     },
@@ -986,6 +1126,7 @@
       "temp_id": 148,
       "title": "Civilingeniør i Operations Management",
       "core_name": "Operations Management",
+      "edu_type": "Teknik, teknologi og industriel produktion",
       "institution": "SDU",
       "type": "MSC"
     },
@@ -993,6 +1134,7 @@
       "temp_id": 149,
       "title": "Physics and Scientific Modelling",
       "core_name": "Physics and Scientific Modelling",
+      "edu_type": "Naturvidenskab",
       "institution": "RUC",
       "type": "MSC"
     },
@@ -1000,6 +1142,7 @@
       "temp_id": 150,
       "title": "Økonomi",
       "core_name": "Økonomi",
+      "edu_type": "Samfundsvidenskab",
       "institution": "AAU",
       "type": "MSC"
     },
@@ -1007,6 +1150,7 @@
       "temp_id": 151,
       "title": "Økonomi",
       "core_name": "Økonomi",
+      "edu_type": "Samfundsvidenskab",
       "institution": "KU",
       "type": "MSC"
     },
@@ -1014,6 +1158,7 @@
       "temp_id": 152,
       "title": "Kandidat i Bioinformatik",
       "core_name": "Bioinformatik",
+      "edu_type": "Naturvidenskab",
       "institution": "KU",
       "type": "MSC"
     },
@@ -1021,6 +1166,7 @@
       "temp_id": 153,
       "title": "Bioinformatik",
       "core_name": "Bioinformatik",
+      "edu_type": "Naturvidenskab",
       "institution": "AU",
       "type": "MSC"
     },
@@ -1028,6 +1174,7 @@
       "temp_id": 154,
       "title": "Kandidat i Molekylær Biomedicin",
       "core_name": "Molekylær Biomedicin",
+      "edu_type": "Naturvidenskab",
       "institution": "KU",
       "type": "MSC"
     },
@@ -1035,6 +1182,7 @@
       "temp_id": 155,
       "title": "Bachelor i Biokemi",
       "core_name": "Biokemi",
+      "edu_type": "Naturvidenskab",
       "institution": "KU",
       "type": "BSC"
     },
@@ -1042,6 +1190,7 @@
       "temp_id": 156,
       "title": "BSc in Business Administration and Digital Management",
       "core_name": "Business Administration and Digital Management",
+      "edu_type": "Informations- og kommunikationsteknologi (IKT)",
       "institution": "CBS",
       "type": "BSC"
     },
@@ -1049,6 +1198,7 @@
       "temp_id": 157,
       "title": "Bachelor i Bygningsdesign",
       "core_name": "Bygningsdesign",
+      "edu_type": "Bygge- og anlægsteknik",
       "institution": "DTU",
       "type": "BSC"
     },
@@ -1056,6 +1206,7 @@
       "temp_id": 158,
       "title": "Bachelor i Cyberteknologi",
       "core_name": "Cyberteknologi",
+      "edu_type": "Informations- og kommunikationsteknologi (IKT)",
       "institution": "DTU",
       "type": "BSC"
     },
@@ -1063,6 +1214,7 @@
       "temp_id": 165,
       "title": "Diplomingeniør i Sundhedsteknologi",
       "core_name": "Sundhedsteknologi",
+      "edu_type": "Teknik, teknologi og industriel produktion",
       "institution": "DTU",
       "type": "DPBSC"
     },
@@ -1070,6 +1222,7 @@
       "temp_id": 166,
       "title": "Sundhedsteknologi",
       "core_name": "Sundhedsteknologi",
+      "edu_type": "Teknik, teknologi og industriel produktion",
       "institution": "AU",
       "type": "DPBSC"
     },
@@ -1077,6 +1230,7 @@
       "temp_id": 167,
       "title": "Professionsbacheloruddannelsen i Fødevareteknologi og Applikation",
       "core_name": "Fødevareteknologi og Applikation",
+      "edu_type": "Naturvidenskab",
       "institution": "EA",
       "type": "DPBSC"
     },
@@ -1084,6 +1238,7 @@
       "temp_id": 168,
       "title": "Geografi",
       "core_name": "Geografi",
+      "edu_type": "Naturvidenskab",
       "institution": "AAU",
       "type": "BSC"
     },
@@ -1091,6 +1246,7 @@
       "temp_id": 169,
       "title": "Bachelor i Geografi og Geoinformatik",
       "core_name": "Geografi og Geoinformatik",
+      "edu_type": "Naturvidenskab",
       "institution": "KU",
       "type": "BSC"
     },
@@ -1098,6 +1254,7 @@
       "temp_id": 170,
       "title": "HA i Europæisk Business",
       "core_name": "Europæisk Business",
+      "edu_type": "Erhvervsøkonomi, administration og jura",
       "institution": "CBS",
       "type": "BSC"
     },
@@ -1105,6 +1262,7 @@
       "temp_id": 171,
       "title": "HA i Markeds- og Kulturanalyse",
       "core_name": "Markeds- og Kulturanalyse",
+      "edu_type": "Erhvervsøkonomi, administration og jura",
       "institution": "CBS",
       "type": "BSC"
     },
@@ -1112,6 +1270,7 @@
       "temp_id": 172,
       "title": "IT, Kommunikation og Organisation",
       "core_name": "IT, Kommunikation og Organisation",
+      "edu_type": "Informations- og kommunikationsteknologi (IKT)",
       "institution": "AU",
       "type": "MSC"
     },
@@ -1119,6 +1278,7 @@
       "temp_id": 175,
       "title": "Kunst og Teknologi",
       "core_name": "Kunst og Teknologi",
+      "edu_type": "Teknik, teknologi og industriel produktion",
       "institution": "AAU",
       "type": "BSC"
     },
@@ -1126,6 +1286,7 @@
       "temp_id": 176,
       "title": "Matematik-Økonomi",
       "core_name": "Matematik-Økonomi",
+      "edu_type": "Naturvidenskab",
       "institution": "AAU",
       "type": "BSC"
     },
@@ -1133,6 +1294,7 @@
       "temp_id": 177,
       "title": "Bachelor i Matematik-Økonomi",
       "core_name": "Matematik-Økonomi",
+      "edu_type": "Naturvidenskab",
       "institution": "KU",
       "type": "BSC"
     },
@@ -1140,6 +1302,7 @@
       "temp_id": 178,
       "title": "Matematik-Økonomi",
       "core_name": "Matematik-Økonomi",
+      "edu_type": "Naturvidenskab",
       "institution": "AU",
       "type": "BSC"
     },
@@ -1147,6 +1310,7 @@
       "temp_id": 179,
       "title": "Matematik-Økonomi",
       "core_name": "Matematik-Økonomi",
+      "edu_type": "Naturvidenskab",
       "institution": "SDU",
       "type": "BSC"
     },
@@ -1154,6 +1318,7 @@
       "temp_id": 180,
       "title": "Økonomi",
       "core_name": "Økonomi",
+      "edu_type": "Samfundsvidenskab",
       "institution": "AAU",
       "type": "BSC"
     },
@@ -1161,6 +1326,7 @@
       "temp_id": 181,
       "title": "Bachelor i Økonomi",
       "core_name": "Økonomi",
+      "edu_type": "Samfundsvidenskab",
       "institution": "KU",
       "type": "BSC"
     },
@@ -1168,6 +1334,7 @@
       "temp_id": 182,
       "title": "Bachelor i Økonomi",
       "core_name": "Økonomi",
+      "edu_type": "Samfundsvidenskab",
       "institution": "SDU",
       "type": "BSC"
     },
@@ -1175,6 +1342,7 @@
       "temp_id": 183,
       "title": "Webudvikling",
       "core_name": "Webudvikling",
+      "edu_type": "Informations- og kommunikationsteknologi (IKT)",
       "institution": "EAS",
       "type": "DPBSC"
     },
@@ -1182,6 +1350,7 @@
       "temp_id": 184,
       "title": "Webudvikling",
       "core_name": "Webudvikling",
+      "edu_type": "Informations- og kommunikationsteknologi (IKT)",
       "institution": "IBA",
       "type": "DPBSC"
     },
@@ -1189,13 +1358,7 @@
       "temp_id": 185,
       "title": "Webudvikling",
       "core_name": "Webudvikling",
-      "institution": "KEA",
-      "type": "DPBSC"
-    },
-    {
-      "temp_id": 186,
-      "title": "Webudvikling",
-      "core_name": "Webudvikling",
+      "edu_type": "Informations- og kommunikationsteknologi (IKT)",
       "institution": "KEA",
       "type": "DPBSC"
     },
@@ -1203,6 +1366,7 @@
       "temp_id": 187,
       "title": "Softwareteknologi",
       "core_name": "Softwareteknologi",
+      "edu_type": "Informations- og kommunikationsteknologi (IKT)",
       "institution": "DTU",
       "type": "BSC"
     },
@@ -1210,6 +1374,7 @@
       "temp_id": 188,
       "title": "Master of Science in Bioinformatics and Systems Biology",
       "core_name": "Bioniformatics and Systems Biology",
+      "edu_type": "Naturvidenskab",
       "institution": "DTU",
       "type": "MSC"
     },
@@ -1217,6 +1382,7 @@
       "temp_id": 189,
       "title": "MSc in Business Administration and Innnovation in Health Care",
       "core_name": "Business Administration and Innovation in Health Care",
+      "edu_type": "Erhvervsøkonomi, administration og jura",
       "institution": "CBS",
       "type": "MSC"
     },
@@ -1224,6 +1390,7 @@
       "temp_id": 190,
       "title": "Byggeri",
       "core_name": "Byggeri",
+      "edu_type": "Teknik, teknologi og industriel produktion",
       "institution": "AU",
       "type": "BSC"
     },
@@ -1231,6 +1398,7 @@
       "temp_id": 191,
       "title": "Computational biomedicine",
       "core_name": "Computational biomedicine",
+      "edu_type": "Teknik, teknologi og industriel produktion",
       "institution": "SDU",
       "type": "MSC"
     },
@@ -1238,6 +1406,7 @@
       "temp_id": 192,
       "title": "BSC in General Engineering",
       "core_name": "General Engineering",
+      "edu_type": "Teknik, teknologi og industriel produktion",
       "institution": "DTU",
       "type": "BSC"
     },
@@ -1245,6 +1414,7 @@
       "temp_id": 193,
       "title": "Indoor Environmental and Energy Engineering, MSc in Engineering",
       "core_name": "Indoor Environmental and Energy Engineering",
+      "edu_type": "Teknik, teknologi og industriel produktion",
       "institution": "AAU",
       "type": "MSC"
     },
@@ -1252,6 +1422,7 @@
       "temp_id": 194,
       "title": "Industrial Engineering and Management",
       "core_name": "Industrial Engineering and Management",
+      "edu_type": "Teknik, teknologi og industriel produktion",
       "institution": "DTU",
       "type": "MSC"
     },
@@ -1259,6 +1430,7 @@
       "temp_id": 195,
       "title": "Surveying, Planning and Land Management",
       "core_name": "Surveying, Planning and Land Management",
+      "edu_type":"Bygge- og anlægsteknik",
       "institution": "AAU",
       "type": "MSC"
     }

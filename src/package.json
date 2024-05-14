@@ -9,6 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "hash-it": "^6.0.0"
+    "canvas": "^2.11.2",
+    "csv-parser": "^3.0.0",
+    "hash-it": "^6.0.0",
+    "node-pre-gyp": "^0.17.0"
   }
 }
