@@ -3634,47 +3634,6 @@
       "extended_description": "unknown"
     },
     {
-      "internal_id": 431.3,
-      "code": "Systemudvikling 1",
-      "name": "Systemudvikling 1",
-      "contents": {
-        "type": "B",
-        "knowledge": [
-          "modellering af systemer ved hjælp af gængse modellerings-standarder",
-          "tilvejebringelse af kravspecifikationer og deres rolle i systemudvikling"
-        ],
-        "skills": [
-          "modellering og beskrivelse af IT-systemer",
-          "udarbejdelse af kravspecifikation til brug for systemudvikling"
-        ],
-        "competencies": [
-          "brug af modeller i arbejdet med systemudvikling",
-          "kravspecifikationer for mindre systemer.",
-          "Den studerende kan identificere egne læringsbehov og udvikling af egen viden, færdigheder samt kompetencer i relation til kravspecifikation af: mindre systemer og brug af modeller til støtte for udvikling af sådanne."
-        ],
-        "contents": [
-          "unknown"
-        ]
-      },
-      "size": 5,
-      "time": {
-        "unknown": "unknown"
-      },
-      "mandatory_activities": [
-        "unknown"
-      ],
-      "exam": {
-        "prerequisites": "unknown",
-        "type": "unknown",
-        "grading": "unknown",
-        "aids": "unknown"
-      },
-      "education_ids": [
-        102
-      ],
-      "extended_description": "unknown"
-    },
-    {
       "internal_id": 442,
       "code": "ESNCEB1K1",
       "name": "Grundlæggende programmering",
@@ -5492,105 +5451,7 @@
       ],
       "extended_description": "unknown"
     },
-    {
-      "internal_id": 854,
-      "code": "BA-BHAAO1593U",
-      "name": "Statistik",
-      "contents": {
-        "type": "A",
-        "objectives": [
-          "Identificere og afgrænse en given statistisk problemstilling, herunder klart identificere nødvendig og tilstrækkelig information til at kunne gennemføre en given statistisk analyse.",
-          "Klart og præcist anvende grafiske og numeriske metoder til at opsummere og gengive de væsentligste tendenser og sammenhænge i et givet datamateriale.",
-          "Udførligt motivere valg af en relevant statistisk analysemetode til brug for analyse af et givet datamateriale.",
-          "Demonstrere korrekt brug af sandsynlighedsregningens grundbegreber og anvendelse af disse til identifikation af den usikkerhed, der eksisterer i et givet datamateriale.",
-          "Detaljeret redegøre for nødvendige og tilstrækkelige forudsætninger ved brug af en given statistisk analysemetode, kontrollere i hvilket omfang disse er opfyldt samt vurdere betydningen af eventuelt ikke opfyldte forudsætninger.",
-          "Kort og præcist redegøre for de bagvedliggende beregninger i en given statistisk analysemetode, herunder redegøre for de teoretiske og modelmæssige forudsætninger.",
-          "Foretage detaljerede konsekvensberegninger på baggrund af en estimeret statistisk model og præcist vurdere validitet og usikkerhed på disse beregninger.",
-          "Drage konkrete og præcise konklusioner på baggrund af en given statistisk analyse og kommunikere disse i et klart, fagligt korrekt og ikke-teknisk sprog."
-        ],
-        "contents": [
-          "Deskriptiv statistik",
-          "Grundlæggende sandsynlighedsregning",
-          "Diskrete og kontinuerte sandsynlighedsfordelinger",
-          "Konfidensintervaller og hypotesetest",
-          "Simpel og multipel regressionsanalyse",
-          "Kontingenstabeller, en- og tosidet variansanalyse",
-          "Bi- og multinomial logistisk regression",
-          "Tidsrækkens grundkomponenter",
-          "Eksponentielle udjævningsmetoder",
-          "Box-Jenkins ARIMA modeller",
-          "Forecasting med ARIMA fejlled",
-          "Dynamisk regression"
-        ]
-      },
-      "size": 15,
-      "time": {
-        "absolute": true,
-        "lectures_exercises": 332,
-        "exam": 80
-      },
-      "mandatory_activities": [
-        "unknown"
-      ],
-      "exam": {
-        "prerequisites": "unknown",
-        "type": "Prøven i faget består af fire delprøver. 10pct: Skriftligt produkt udarbejdet hjemme (individuel). 10pct: Skriftligt produkt udarbejdet hjemme (individuel). 40pct: Eksamen afholdes som en 4 timers skriftlig hjemmeopgave (midtvejsprøve). Der er ingen begrænsning på omfang, de studerende har 4 timer til deres rådighed. 40pct: Skriftlig stedprøve. 4 timer.",
-        "grading": "point",
-        "aids": "all"
-      },
-      "education_ids": [
-        170
-      ],
-      "extended_description": "unknown"
-    },
-    {
-      "internal_id": 862,
-      "code": "BA-BINBO1139U",
-      "name": "Statistics",
-      "contents": {
-        "type": "A",
-        "objectives": [
-          "The goal is to enable the students to interpret, understand and apply basic statistical concepts as they apply in scientific research as well as in everyday life.",
-          "The students will become familiar with basic probability theory as a model for randomness, concepts of statistical inference as well as a number of concrete estimators, confidence intervals and test. Statistical software will be introduced.",
-          "Identify key theories, models and concepts of probability and statistics.",
-          "Use graphical and numerical methods for exploring and summarizing data on a single categorical or quantitative variable.",
-          "Describe basic probability and how probability helps us understand randomness in our lives, as well as grasp the crucial concept of a sampling distribution and how it relates to inference methods.",
-          "Choose and justify appropriate descriptive and inferential methods for examining and analyzing data and drawing conclusions.",
-          "Analysis of the association between categorical, discrete, and continuous variables, using contingency tables, correlation, regressions, and analysis of variance.",
-          "Communicate the conclusions of statistical analysis clearly and effectively, i.e identify connections between basic statistics and the real world."
-        ],
-        "contents": [
-          "The basic laws of probability and the most important probability distributions.",
-          "Descriptive statistics, both numerical and graphical.",
-          "Statistical inference; estimators, confidence intervals and significance tests of hypotheses.",
-          "One and two sample tests for means and proportions; paired and unpaired data.",
-          "Analysis of association using contingency tables and correlation.",
-          "Regression analysis; simple, multiple, logistic.",
-          "One-way and two-way analysis of variance, analysis of covariance."
-        ]
-      },
-      "size": 7.5,
-      "time": {
-        "absolute": true,
-        "lectures": 28,
-        "exercises": 18,
-        "workshops": 6,
-        "preparation": 156
-      },
-      "mandatory_activities": [
-        "unknown"
-      ],
-      "exam": {
-        "prerequisites": "unknown",
-        "type": "Written sit-in exam. 4 hours.",
-        "grading": "point",
-        "aids": "limited (USB containing notes, books and compendiums, calculator, books)"
-      },
-      "education_ids": [
-        171
-      ],
-      "extended_description": "unknown"
-    },
+  
     {
       "internal_id": 914,
       "code": "450202U003",
@@ -6045,9 +5906,7 @@
       },
       "education_ids": [
         183,
-        184,
-        185,
-        186
+        184
       ],
       "extended_description": "unknown"
     },
