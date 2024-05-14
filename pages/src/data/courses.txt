@@ -5906,9 +5906,7 @@
       },
       "education_ids": [
         183,
-        184,
-        185,
-        186
+        184
       ],
       "extended_description": "unknown"
     },

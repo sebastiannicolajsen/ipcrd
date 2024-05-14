@@ -9057,106 +9057,7 @@
           "core_name": "Webudvikling",
           "edu_type": "Informations- og kommunikationsteknologi (IKT)",
           "type": "DPBSC",
-          "internal_id": "e_10087713031778",
-          "course": {
-            "internal_id": "c_7612076372445",
-            "code": "Web Programming",
-            "name": "Web Programming",
-            "contents": {
-              "type": "B",
-              "knowledge": [
-                "relevant internet and web protocols",
-                "data storage, modelling, exchange and security",
-                "quality assurance.",
-                "development methods in web development",
-                "web architecture and design patterns."
-              ],
-              "skills": [
-                "master all phases of development including planning, developing and implementing web applications based on specific development wishes, as well as evaluate practice-based and theoretical problems and select and justify relevant solution models in relation to the development of web applications",
-                "evaluate and justify the choice of a suitable programming language and relevant methods for the implementation of web applications",
-                "master a suitable programming language for the development of web applications",
-                "use and model data sources as well as justify proposals for solutions",
-                "implement and evaluate web user interfaces as well as justify and communicate solution",
-                "proposals to collaborative partners and users",
-                "use relevant theories and methods for the quality assurance of all phases of development."
-              ],
-              "competencies": [
-                "handle complex web development and must be able to handle complex and development-oriented situations in web development",
-                "independently enter into professional and interdisciplinary cooperation with a professional approach and take responsibility within the framework of professional ethics in relation to web programming",
-                "identify and structure their own learning needs and develop personal skills and competencies in relation to web programming."
-              ],
-              "contents": [
-                "unknown"
-              ]
-            },
-            "size": 20,
-            "time": {
-              "unknown": "unknown"
-            },
-            "mandatory_activities": [
-              "unknown"
-            ],
-            "exam": {
-              "prerequisites": "unknown",
-              "type": "unknown",
-              "grading": "unknown",
-              "aids": "unknown"
-            },
-            "extended_description": "unknown"
-          }
-        },
-        {
-          "title": "Webudvikling",
-          "core_name": "Webudvikling",
-          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
-          "type": "DPBSC",
-          "internal_id": "e_10087713031778",
-          "course": {
-            "internal_id": "c_7612076372445",
-            "code": "Web Programming",
-            "name": "Web Programming",
-            "contents": {
-              "type": "B",
-              "knowledge": [
-                "relevant internet and web protocols",
-                "data storage, modelling, exchange and security",
-                "quality assurance.",
-                "development methods in web development",
-                "web architecture and design patterns."
-              ],
-              "skills": [
-                "master all phases of development including planning, developing and implementing web applications based on specific development wishes, as well as evaluate practice-based and theoretical problems and select and justify relevant solution models in relation to the development of web applications",
-                "evaluate and justify the choice of a suitable programming language and relevant methods for the implementation of web applications",
-                "master a suitable programming language for the development of web applications",
-                "use and model data sources as well as justify proposals for solutions",
-                "implement and evaluate web user interfaces as well as justify and communicate solution",
-                "proposals to collaborative partners and users",
-                "use relevant theories and methods for the quality assurance of all phases of development."
-              ],
-              "competencies": [
-                "handle complex web development and must be able to handle complex and development-oriented situations in web development",
-                "independently enter into professional and interdisciplinary cooperation with a professional approach and take responsibility within the framework of professional ethics in relation to web programming",
-                "identify and structure their own learning needs and develop personal skills and competencies in relation to web programming."
-              ],
-              "contents": [
-                "unknown"
-              ]
-            },
-            "size": 20,
-            "time": {
-              "unknown": "unknown"
-            },
-            "mandatory_activities": [
-              "unknown"
-            ],
-            "exam": {
-              "prerequisites": "unknown",
-              "type": "unknown",
-              "grading": "unknown",
-              "aids": "unknown"
-            },
-            "extended_description": "unknown"
-          }
+          "internal_id": "e_10087713031778"
         }
       ]
     },
@@ -9346,5 +9247,5 @@
     }
   ],
   "institutions_length": 14,
-  "educations_length": 179
+  "educations_length": 177
 }

@@ -7914,32 +7914,6 @@
           },
           "type": "DPBSC",
           "internal_id": "e_4656426566503"
-        },
-        {
-          "title": "Webudvikling",
-          "core_name": "Webudvikling",
-          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
-          "institution": {
-            "id": "KEA",
-            "name": "Københavns erhvervsakademi",
-            "type": "BA",
-            "internal_id": "i_8557542125659"
-          },
-          "type": "DPBSC",
-          "internal_id": "e_10087713031778"
-        },
-        {
-          "title": "Webudvikling",
-          "core_name": "Webudvikling",
-          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
-          "institution": {
-            "id": "KEA",
-            "name": "Københavns erhvervsakademi",
-            "type": "BA",
-            "internal_id": "i_8557542125659"
-          },
-          "type": "DPBSC",
-          "internal_id": "e_10087713031778"
         }
       ]
     },
