@@ -153,9 +153,9 @@ fs.createReadStream("../data/code-query-corrected-1.csv")
       const gspace = 1.2;
 
       let v = {
-        0: "rgba(209,104,66,0.8)",
-        1: "rgba(189, 135, 86, 0.8)",
-        2: "rgba(91 ,5,0, 0.8)",
+        0: "rgba(181,117,100,1)",
+        1: "rgba(61 ,3,0, 1)",
+        2: "rgba(214, 209, 177, 1)",
         3: "rgba(255,255,255,1)",
       };
 

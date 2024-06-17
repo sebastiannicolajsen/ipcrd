@@ -2326,19 +2326,6 @@
           "internal_id": "e_16446830868408"
         },
         {
-          "title": "Skov- og Landskabsingeniør",
-          "core_name": "Skov- og Landskabsingeniør",
-          "edu_type": "Jordbrug, skovbrug og fiskeri",
-          "institution": {
-            "id": "SDU",
-            "name": "University of Southern Denmark",
-            "type": "U",
-            "internal_id": "i_8559354482646"
-          },
-          "type": "DPBSC",
-          "internal_id": "e_8511335013461"
-        },
-        {
           "title": "Diplomingeniør i Electronics",
           "core_name": "Electronics",
           "edu_type": "Teknik, teknologi og industriel produktion",
@@ -7889,19 +7876,6 @@
       },
       "extended_description": "unknown",
       "educations": [
-        {
-          "title": "Webudvikling",
-          "core_name": "Webudvikling",
-          "edu_type": "Informations- og kommunikationsteknologi (IKT)",
-          "institution": {
-            "id": "EAS",
-            "name": "Erhvervsakademi Sydvest",
-            "type": "BA",
-            "internal_id": "i_8560779103683"
-          },
-          "type": "DPBSC",
-          "internal_id": "e_4073058629114"
-        },
         {
           "title": "Webudvikling",
           "core_name": "Webudvikling",

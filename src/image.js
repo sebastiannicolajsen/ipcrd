@@ -183,7 +183,7 @@ const render1 = () => {
       }
       ctx.fillStyle = 'rgba(0,0,0,1)'
       ctx.fillRect(initx + leftb + aj * size * gspace, inity, size, size);
-      ctx.fillStyle = j <= v ? 'rgba(209,104,66,0.8)' : 'rgba(255,255,255,1)';
+      ctx.fillStyle = j <= v ? 'rgba(181,117,100,1)' : 'rgba(240,240,240,1)';
       ctx.fillRect(initx + leftb + aj * size * gspace + (size*0.02), inity + (size*0.02), size - (size*0.04), size - (size*0.04));
       
 
@@ -236,7 +236,7 @@ const render2 = (map) => {
       }
       ctx.fillStyle = 'rgba(0,0,0,1)'
       ctx.fillRect(initx + leftb + aj * size * gspace, inity, size, size);
-      ctx.fillStyle = 'rgba(209,104,66,0.8)' ;
+      ctx.fillStyle = 'rgba(181,117,100,1)' ;
       ctx.fillRect(initx + leftb + aj * size * gspace + (size*0.02), inity + (size*0.02), size - (size*0.04), size - (size*0.04));
       aj++;
     }

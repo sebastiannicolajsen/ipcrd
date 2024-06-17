@@ -9136,50 +9136,49 @@
           "type": "DPBSC",
           "internal_id": "e_4073058629114",
           "course": {
-            "internal_id": "c_7612076372445",
-            "code": "Web Programming",
-            "name": "Web Programming",
+            "internal_id": "c_12766068367889",
+            "code": "280191U021",
+            "name": "Videregående calculus for ingeniører",
             "contents": {
-              "type": "B",
-              "knowledge": [
-                "relevant internet and web protocols",
-                "data storage, modelling, exchange and security",
-                "quality assurance.",
-                "development methods in web development",
-                "web architecture and design patterns."
-              ],
-              "skills": [
-                "master all phases of development including planning, developing and implementing web applications based on specific development wishes, as well as evaluate practice-based and theoretical problems and select and justify relevant solution models in relation to the development of web applications",
-                "evaluate and justify the choice of a suitable programming language and relevant methods for the implementation of web applications",
-                "master a suitable programming language for the development of web applications",
-                "use and model data sources as well as justify proposals for solutions",
-                "implement and evaluate web user interfaces as well as justify and communicate solution",
-                "proposals to collaborative partners and users",
-                "use relevant theories and methods for the quality assurance of all phases of development."
-              ],
-              "competencies": [
-                "handle complex web development and must be able to handle complex and development-oriented situations in web development",
-                "independently enter into professional and interdisciplinary cooperation with a professional approach and take responsibility within the framework of professional ethics in relation to web programming",
-                "identify and structure their own learning needs and develop personal skills and competencies in relation to web programming."
+              "type": "A",
+              "objectives": [
+                "Beskrive funktioners geometri",
+                "Udføre interpolation samt numerisk integration og differentiation af funktioner i én dimension",
+                "Identificere og beskrive kurver, herunder fastlægge længde og krumning",
+                "Beskrive og analysere vektorfelter og faseportrætter.",
+                "Beskrive Jacobi- og Hessian-matricer for vektor- hhv. skalarfelter",
+                "Udføre løsning af homogene og inhomogene lineære differentiallignings systemer samt give geometrisk tolkning heraf",
+                "Indentificere lokale ekstrema og saddelpunkter for funktioner af flere variable",
+                "Udføre integration i to og tre dimensioner, analytisk såvel som numerisk",
+                "Formulere randværdiproblemer i to og tre dimensioner ved anvendelse af Green og Gauss’ sætninger",
+                "Beskrive og evaluere plane og krumme fladers geometri, herunder bestemme normal- og tangentvektorer",
+                "Udføre analyse i kartesiske, polære, cylindriske, sfæriske og generelle krumlinede koordinatsystemer",
+                "Analysere kurver og fladers geometri og implementere parameterisering",
+                "Programmere løsning og visualisering af problemer relateret til krumme kurver og fladers geometri."
               ],
               "contents": [
-                "unknown"
+                "Funk­tioner i én dimension: Sekanter og tangenter, interpolation vha. Lagrange-poly­nomier og splines, numerisk integration og differentiation.",
+                "Kurver: Integration langs kurver, kurvelængde, krumning.",
+                "Funktioner i flere dimensioner: Vektor­felter, faseportrætter, geometrisk tolkning, Jacobi-matricen, Hessian-matricen, lokale ekstrema, saddelpunkter.",
+                "Lingningssystemer: Geometrisk tolkning af line­ære ligningssystemer i planen, homogene ligningssystemer, inhomogene lig­nings­syst­emer.",
+                "Plan geometri: Planintegraler, polære koordinater, trans­formation af planintegraler, Green’s sætning, numerisk integration og differen­tiation.",
+                "Rumlig geo­metri: Volumener og flader i rummet, normal- og tangent­vektorer til flader; kon­kave og konvekse flader; cylindriske og sfæriske koordinater; fladeintegraler, rum­integraler, Gauss’ divergenssætning. Parameteri­sering og visualisering af geometri."
               ]
             },
-            "size": 20,
+            "size": 10,
             "time": {
               "unknown": "unknown"
             },
             "mandatory_activities": [
-              "unknown"
+              "Der stilles en ugentlig afleveringsopgave i den første halvdel af kurset – 7 opgaver i alt."
             ],
             "exam": {
-              "prerequisites": "unknown",
-              "type": "unknown",
-              "grading": "unknown",
-              "aids": "unknown"
+              "prerequisites": "4 of the mandatory assignments",
+              "type": "Mundtlig. 20 minutter. Karaktergivning sker ud fra det skriftlige projektarbejde (i anden halvdel af kurset) samt en afsluttende, mundtlig prøve (curriculum+projekt) i juni. Der gives én samlet karakter på baggrund af projektarbejdet (50 %) og den mundtlige prøve (50 %).",
+              "grading": "point",
+              "aids": "all"
             },
-            "extended_description": "unknown"
+            "extended_description": "Kurset skal give den studerende en videregående viden om calculus, herunder vektoranalyse. Denne viden gøres operationel gennem løsning af problemer relateret til byggeri og infrastruktur samt bygningsdesign, analytisk såvel som numerisk. Et af de primære formål er at forberede den studerende til at kunne løse matematiske problemer og formulere matematiske modeller relateret til faststofmekanik og fluidmekanik, herunder kontinuummekanik. Et andet formål er at forberede den studerende til at kunne analysere problemer inden for optimering samt geometri og formgivning, og endelig tjener kurset som forberedelse til analyse af dynamiske processer."
           }
         }
       ]
@@ -9247,5 +9246,5 @@
     }
   ],
   "institutions_length": 14,
-  "educations_length": 177
+  "educations_length": 175
 }

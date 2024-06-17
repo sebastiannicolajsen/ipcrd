@@ -111,11 +111,11 @@ let ed_count = 0;
 
 for (const c of file_courses.courses) {
   for (const eid of c.education_ids) {
-    ed_count++;
-    const e = educations[eid];
+    const e = educations[eid]; 
     const cshallow = { ...c };
     cshallow.education_ids = undefined;
     e.course = cshallow;
+    ed_count++;
   }
 }
 
